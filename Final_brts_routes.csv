@@ -1,0 +1,106 @@
+route_id,route_name,start_stop,end_stop
+1,Maninagar - Ghuma Gam,Maninagar,Ghuma Gam
+2,Chandkheda Gam - Rabari Colony,Chandkheda Gam,Rabari Colony
+3,Chhipa Society - Ghuma Gam,Chhipa Society,Ghuma Gam
+4,Jaimangal - Ghuma Gam,Jaimangal,Ghuma Gam
+5,Soma Textiles - Maninagar,Soma Textiles,Maninagar
+6,Ghuma Gam - Jaimangal,Ghuma Gam,Jaimangal
+7,Ghuma Gam - Kashiram Textiles,Ghuma Gam,Kashiram Textiles
+8,Maninagar - Soma Textiles,Maninagar,Soma Textiles
+9,Ghuma Gam - Maninagar,Ghuma Gam,Maninagar
+10,Odhav Ring Road - ISKCON,Odhav Ring Road,ISKCON
+11,Amba Township - Sarthi Bungalows,Amba Township,Sarthi Bungalows
+12,Odhav Ring Road - LD Engg. College,Odhav Ring Road,LD Engg. College
+13,Jaimangal - ISKCON,Jaimangal,ISKCON
+14,Vasna - Hanspura Ring Road,Vasna,Hanspura Ring Road
+15,Naroda S. T. Workshop - Narol,Naroda S. T. Workshop,Narol
+16,Odhav Ring Road - LD Engg. College,Odhav Ring Road,LD Engg. College
+17,ISKCON - Jaimangal,ISKCON,Jaimangal
+18,ISKCON - Odhav Ring Road,ISKCON,Odhav Ring Road
+19,LD Engg. College - Odhav Ring Road,LD Engg. College,Odhav Ring Road
+20,Maninagar - R.T.O Circle,Maninagar,R.T.O Circle
+21,Maninagar - Chandkheda Gam,Maninagar,Chandkheda Gam
+22,Chhipa Society - Maninagar,Chhipa Society,Maninagar
+23,Maninagar - Kashiram Textiles,Maninagar,Kashiram Textiles
+24,R.T.O Circle - Maninagar,R.T.O Circle,Maninagar
+25,Chandkheda Gam - Maninagar,Chandkheda Gam,Maninagar
+26,LD Engg College - Amba Township,LD Engg College,Amba Township
+27,LD Engg. College - Zundal Circle,LD Engg. College,Zundal Circle
+28,Pragatinagar - Zundal Circle,Pragatinagar,Zundal Circle
+29,Sarthi Bungalows - Amba Township,Sarthi Bungalows,Amba Township
+30,Zundal Circle - Shastrinagar,Zundal Circle,Shastrinagar
+31,Amba Township - LD Engg College,Amba Township,LD Engg College
+32,Zundal Circle - LD Engg. College,Zundal Circle,LD Engg. College
+33,Hanspura Ring Road - Vasna,Hanspura Ring Road,Vasna
+34,Geeta Gauri Cinema - Hanspura Ring Road,Geeta Gauri Cinema,Hanspura Ring Road
+35,Chhipa Society - Vasna,Chhipa Society,Vasna
+36,Rameshwar Park - Vasna,Rameshwar Park,Vasna
+37,Naroda S. T. Workshop - Hanspura Ring Road,Naroda S. T. Workshop,Hanspura Ring Road
+38,South Bopal - Nehrunagar,South Bopal,Nehrunagar
+39,Hanspura Ring Road - Geeta Gauri Cinema,Hanspura Ring Road,Geeta Gauri Cinema
+40,Hanspura Ring Road - Naroda S. T. Workshop,Hanspura Ring Road,Naroda S. T. Workshop
+41,Vasna - Kashiram Textiles,Vasna,Kashiram Textiles
+42,Vasna - Rameshwar Park,Vasna,Rameshwar Park
+43,Geeta Gauri Cinema - Naroda ST Workshop,Geeta Gauri Cinema,Naroda ST Workshop
+44,Narol - Rameshwar Park,Narol,Rameshwar Park
+45,Rameshwar Park - Narol,Rameshwar Park,Narol
+46,Naroda ST Workshop - Geeta Gauri Cinema,Naroda ST Workshop,Geeta Gauri Cinema
+47,Narol - Naroda S. T. Workshop,Narol,Naroda S. T. Workshop
+48,Gota Vasant Nagar Township - Jaimangal,Gota Vasant Nagar Township,Jaimangal
+49,Narol - Sarangpur Darwaja,Narol,Sarangpur Darwaja
+50,Sarkari Litho Press - Zundal Circle,Sarkari Litho Press,Zundal Circle
+51,Odhav Talav - Narol,Odhav Talav,Narol
+52,Odhav Talav - Sarangpur Darwaja,Odhav Talav,Sarangpur Darwaja
+53,Gota Vasant Nagar Township - Maninagar,Gota Vasant Nagar Township,Maninagar
+54,Narol - Odhav Talav,Narol,Odhav Talav
+55,Sarangpur Darwaja - Narol,Sarangpur Darwaja,Narol
+56,Zundal Circle - Sarkari Litho Press,Zundal Circle,Sarkari Litho Press
+57,Naroda Gam - Bhadaj Circle,Naroda Gam,Bhadaj Circle
+58,Geeta Gauri Cinema - Naroda Gam,Geeta Gauri Cinema,Naroda Gam
+59,Jaimangal - Bhadaj Circle,Jaimangal,Bhadaj Circle
+60,SP Ring Road Approach - Naroda Gam,SP Ring Road Approach,Naroda Gam
+61,Bhadaj Circle - Jaimangal,Bhadaj Circle,Jaimangal
+62,Naroda Gam - Geeta Gauri Cinema,Naroda Gam,Geeta Gauri Cinema
+63,Rameshwar Park - R.T.O Circle,Rameshwar Park,R.T.O Circle
+64,Rabari Colony - Chandkheda Gam,Rabari Colony,Chandkheda Gam
+65,Rabari Colony - R.T.O Circle,Rabari Colony,R.T.O Circle
+66,Bhadaj Circle - Naroda Gam,Bhadaj Circle,Naroda Gam
+67,LD Engg College - Gota Vasant Nagar Township,LD Engg College,Gota Vasant Nagar Township
+68,Maninagar - Gota Vasant Nagar Township,Maninagar,Gota Vasant Nagar Township
+69,Chhipa Society - Maninagar,Chhipa Society,Maninagar
+70,Jaimangal - L.D Engg College,Jaimangal,L.D Engg College
+71,Jaimangal - Maninagar,Jaimangal,Maninagar
+72,Jaimangal - Gota Vasant Nagar Township,Jaimangal,Gota Vasant Nagar Township
+73,Maninagar - Jaimangal,Maninagar,Jaimangal
+74,Maninagar - Kashiram Textiles,Maninagar,Kashiram Textiles
+75,Ajit Mill - Odhav Ring Road,Ajit Mill,Odhav Ring Road
+76,LD Engg. College - Odhav Ring Road,LD Engg. College,Odhav Ring Road
+77,LD Engg.College - Soma Textiles,LD Engg.College,Soma Textiles
+78,R.T.O Circle - Rabari Colony,R.T.O Circle,Rabari Colony
+79,R.T.O Circle - Rameshwar Park,R.T.O Circle,Rameshwar Park
+80,Odhav Ring Road - Sanand Circle,Odhav Ring Road,Sanand Circle
+81,Sarangpur Darwaja - Sanand Circle,Sarangpur Darwaja,Sanand Circle
+82,Jaimangal - Sanand Circle,Jaimangal,Sanand Circle
+83,Sanand Circle - Jaimangal,Sanand Circle,Jaimangal
+84,Sanand Circle - Odhav Ring Road,Sanand Circle,Odhav Ring Road
+85,Sanand Circle - Sarangpur Darwaja,Sanand Circle,Sarangpur Darwaja
+86,Iskcon Cross Road - R.T.O Circle,Iskcon Cross Road,R.T.O Circle
+87,Iskcon Cross Road - Ahmedabad Domestic Airport,Iskcon Cross Road,Ahmedabad Domestic Airport
+88,Jaimangal - Iskcon Cross Road,Jaimangal,Iskcon Cross Road
+89,Pragatinagar - Airport,Pragatinagar,Airport
+90,Pragatinagar - R.T.O Circle,Pragatinagar,R.T.O Circle
+91,Airport - Shastrinagar,Airport,Shastrinagar
+92,Iskcon Cross Road - Jaimangal,Iskcon Cross Road,Jaimangal
+93,R.T.O Circle - Shastrinagar,R.T.O Circle,Shastrinagar
+94,R.T.O Circle - Iskcon Cross Road,R.T.O Circle,Iskcon Cross Road
+95,Ahmedabad Domestic Airport - Iskcon Cross Road,Ahmedabad Domestic Airport,Iskcon Cross Road
+96,Nehrunagar - Sanand Circle,Nehrunagar,Sanand Circle
+97,Jaimangal - Nehrunagar,Jaimangal,Nehrunagar
+98,Jaimangal - Sanand Circle,Jaimangal,Sanand Circle
+99,Nehrunagar - Jaimangal,Nehrunagar,Jaimangal
+100,Sanand Circle - Nehrunagar,Sanand Circle,Nehrunagar
+101,Nehrunagar - South Bopal,Nehrunagar,South Bopal
+102,Jaimangal - Nehrunagar,Jaimangal,Nehrunagar
+103,Jaimangal - South Bopal,Jaimangal,South Bopal
+104,Nehrunagar - Jaimangal,Nehrunagar,Jaimangal
+105,South Bopal - Jaimangal,South Bopal,Jaimangal
