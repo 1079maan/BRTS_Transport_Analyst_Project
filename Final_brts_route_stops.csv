@@ -1,0 +1,2230 @@
+﻿route_id,stop_id,stop_sequence,route_name
+1,1,1,Maninagar - Ghuma Gam
+1,2,2,Maninagar - Ghuma Gam
+1,3,3,Maninagar - Ghuma Gam
+1,4,4,Maninagar - Ghuma Gam
+1,5,5,Maninagar - Ghuma Gam
+1,6,6,Maninagar - Ghuma Gam
+1,7,7,Maninagar - Ghuma Gam
+1,8,8,Maninagar - Ghuma Gam
+1,9,9,Maninagar - Ghuma Gam
+1,10,10,Maninagar - Ghuma Gam
+1,11,11,Maninagar - Ghuma Gam
+1,12,12,Maninagar - Ghuma Gam
+1,13,13,Maninagar - Ghuma Gam
+1,14,14,Maninagar - Ghuma Gam
+1,15,15,Maninagar - Ghuma Gam
+1,16,16,Maninagar - Ghuma Gam
+1,17,17,Maninagar - Ghuma Gam
+1,18,18,Maninagar - Ghuma Gam
+1,19,19,Maninagar - Ghuma Gam
+1,20,20,Maninagar - Ghuma Gam
+1,21,21,Maninagar - Ghuma Gam
+1,22,22,Maninagar - Ghuma Gam
+1,23,23,Maninagar - Ghuma Gam
+1,24,24,Maninagar - Ghuma Gam
+1,25,25,Maninagar - Ghuma Gam
+1,26,26,Maninagar - Ghuma Gam
+1,27,27,Maninagar - Ghuma Gam
+1,28,28,Maninagar - Ghuma Gam
+1,29,29,Maninagar - Ghuma Gam
+1,30,30,Maninagar - Ghuma Gam
+1,31,31,Maninagar - Ghuma Gam
+1,32,32,Maninagar - Ghuma Gam
+1,33,33,Maninagar - Ghuma Gam
+1,34,34,Maninagar - Ghuma Gam
+1,35,35,Maninagar - Ghuma Gam
+2,36,1,Chandkheda Gam - Rabari Colony
+2,37,2,Chandkheda Gam - Rabari Colony
+2,38,3,Chandkheda Gam - Rabari Colony
+2,39,4,Chandkheda Gam - Rabari Colony
+2,40,5,Chandkheda Gam - Rabari Colony
+2,41,6,Chandkheda Gam - Rabari Colony
+2,42,7,Chandkheda Gam - Rabari Colony
+2,43,8,Chandkheda Gam - Rabari Colony
+2,44,9,Chandkheda Gam - Rabari Colony
+2,45,10,Chandkheda Gam - Rabari Colony
+2,46,11,Chandkheda Gam - Rabari Colony
+2,47,12,Chandkheda Gam - Rabari Colony
+2,48,13,Chandkheda Gam - Rabari Colony
+2,49,14,Chandkheda Gam - Rabari Colony
+2,50,15,Chandkheda Gam - Rabari Colony
+2,51,16,Chandkheda Gam - Rabari Colony
+2,52,17,Chandkheda Gam - Rabari Colony
+2,53,18,Chandkheda Gam - Rabari Colony
+2,54,19,Chandkheda Gam - Rabari Colony
+2,55,20,Chandkheda Gam - Rabari Colony
+2,56,21,Chandkheda Gam - Rabari Colony
+2,57,22,Chandkheda Gam - Rabari Colony
+2,58,23,Chandkheda Gam - Rabari Colony
+2,59,24,Chandkheda Gam - Rabari Colony
+2,60,25,Chandkheda Gam - Rabari Colony
+2,61,26,Chandkheda Gam - Rabari Colony
+2,62,27,Chandkheda Gam - Rabari Colony
+2,63,28,Chandkheda Gam - Rabari Colony
+2,64,29,Chandkheda Gam - Rabari Colony
+2,65,30,Chandkheda Gam - Rabari Colony
+2,66,31,Chandkheda Gam - Rabari Colony
+2,67,32,Chandkheda Gam - Rabari Colony
+2,68,33,Chandkheda Gam - Rabari Colony
+2,69,34,Chandkheda Gam - Rabari Colony
+2,70,35,Chandkheda Gam - Rabari Colony
+2,71,36,Chandkheda Gam - Rabari Colony
+2,72,37,Chandkheda Gam - Rabari Colony
+2,73,38,Chandkheda Gam - Rabari Colony
+2,74,39,Chandkheda Gam - Rabari Colony
+2,75,40,Chandkheda Gam - Rabari Colony
+2,76,41,Chandkheda Gam - Rabari Colony
+2,77,42,Chandkheda Gam - Rabari Colony
+2,78,43,Chandkheda Gam - Rabari Colony
+2,79,44,Chandkheda Gam - Rabari Colony
+2,80,45,Chandkheda Gam - Rabari Colony
+2,81,46,Chandkheda Gam - Rabari Colony
+2,82,47,Chandkheda Gam - Rabari Colony
+3,83,1,Chhipa Society - Ghuma Gam
+3,84,2,Chhipa Society - Ghuma Gam
+3,85,3,Chhipa Society - Ghuma Gam
+3,86,4,Chhipa Society - Ghuma Gam
+3,87,5,Chhipa Society - Ghuma Gam
+3,88,6,Chhipa Society - Ghuma Gam
+3,89,7,Chhipa Society - Ghuma Gam
+3,90,8,Chhipa Society - Ghuma Gam
+3,91,9,Chhipa Society - Ghuma Gam
+3,92,10,Chhipa Society - Ghuma Gam
+3,93,11,Chhipa Society - Ghuma Gam
+3,94,12,Chhipa Society - Ghuma Gam
+3,95,13,Chhipa Society - Ghuma Gam
+3,96,14,Chhipa Society - Ghuma Gam
+3,97,15,Chhipa Society - Ghuma Gam
+3,98,16,Chhipa Society - Ghuma Gam
+3,99,17,Chhipa Society - Ghuma Gam
+3,100,18,Chhipa Society - Ghuma Gam
+3,101,19,Chhipa Society - Ghuma Gam
+3,102,20,Chhipa Society - Ghuma Gam
+3,103,21,Chhipa Society - Ghuma Gam
+3,104,22,Chhipa Society - Ghuma Gam
+3,105,23,Chhipa Society - Ghuma Gam
+3,106,24,Chhipa Society - Ghuma Gam
+3,107,25,Chhipa Society - Ghuma Gam
+3,108,26,Chhipa Society - Ghuma Gam
+3,109,27,Chhipa Society - Ghuma Gam
+3,110,28,Chhipa Society - Ghuma Gam
+3,111,29,Chhipa Society - Ghuma Gam
+4,112,1,Jaimangal - Ghuma Gam
+4,113,2,Jaimangal - Ghuma Gam
+4,114,3,Jaimangal - Ghuma Gam
+4,115,4,Jaimangal - Ghuma Gam
+4,116,5,Jaimangal - Ghuma Gam
+4,117,6,Jaimangal - Ghuma Gam
+4,118,7,Jaimangal - Ghuma Gam
+4,119,8,Jaimangal - Ghuma Gam
+4,120,9,Jaimangal - Ghuma Gam
+4,121,10,Jaimangal - Ghuma Gam
+4,122,11,Jaimangal - Ghuma Gam
+4,123,12,Jaimangal - Ghuma Gam
+4,124,13,Jaimangal - Ghuma Gam
+4,125,14,Jaimangal - Ghuma Gam
+4,126,15,Jaimangal - Ghuma Gam
+4,127,16,Jaimangal - Ghuma Gam
+4,128,17,Jaimangal - Ghuma Gam
+4,129,18,Jaimangal - Ghuma Gam
+4,130,19,Jaimangal - Ghuma Gam
+4,131,20,Jaimangal - Ghuma Gam
+4,132,21,Jaimangal - Ghuma Gam
+4,133,22,Jaimangal - Ghuma Gam
+4,134,23,Jaimangal - Ghuma Gam
+4,135,24,Jaimangal - Ghuma Gam
+4,136,25,Jaimangal - Ghuma Gam
+5,137,1,Soma Textiles - Maninagar
+5,138,2,Soma Textiles - Maninagar
+5,139,3,Soma Textiles - Maninagar
+5,140,4,Soma Textiles - Maninagar
+5,141,5,Soma Textiles - Maninagar
+5,142,6,Soma Textiles - Maninagar
+5,143,7,Soma Textiles - Maninagar
+5,144,8,Soma Textiles - Maninagar
+5,145,9,Soma Textiles - Maninagar
+5,146,10,Soma Textiles - Maninagar
+5,147,11,Soma Textiles - Maninagar
+5,148,12,Soma Textiles - Maninagar
+6,149,1,Ghuma Gam - Jaimangal
+6,150,2,Ghuma Gam - Jaimangal
+6,151,3,Ghuma Gam - Jaimangal
+6,152,4,Ghuma Gam - Jaimangal
+6,153,5,Ghuma Gam - Jaimangal
+6,154,6,Ghuma Gam - Jaimangal
+6,155,7,Ghuma Gam - Jaimangal
+6,156,8,Ghuma Gam - Jaimangal
+6,157,9,Ghuma Gam - Jaimangal
+6,158,10,Ghuma Gam - Jaimangal
+6,159,11,Ghuma Gam - Jaimangal
+6,160,12,Ghuma Gam - Jaimangal
+6,161,13,Ghuma Gam - Jaimangal
+6,162,14,Ghuma Gam - Jaimangal
+6,163,15,Ghuma Gam - Jaimangal
+6,164,16,Ghuma Gam - Jaimangal
+6,165,17,Ghuma Gam - Jaimangal
+6,166,18,Ghuma Gam - Jaimangal
+6,167,19,Ghuma Gam - Jaimangal
+6,168,20,Ghuma Gam - Jaimangal
+6,169,21,Ghuma Gam - Jaimangal
+6,170,22,Ghuma Gam - Jaimangal
+6,171,23,Ghuma Gam - Jaimangal
+6,172,24,Ghuma Gam - Jaimangal
+6,173,25,Ghuma Gam - Jaimangal
+7,174,1,Ghuma Gam - Kashiram Textiles
+7,175,2,Ghuma Gam - Kashiram Textiles
+7,176,3,Ghuma Gam - Kashiram Textiles
+7,177,4,Ghuma Gam - Kashiram Textiles
+7,178,5,Ghuma Gam - Kashiram Textiles
+7,179,6,Ghuma Gam - Kashiram Textiles
+7,180,7,Ghuma Gam - Kashiram Textiles
+7,181,8,Ghuma Gam - Kashiram Textiles
+7,182,9,Ghuma Gam - Kashiram Textiles
+7,183,10,Ghuma Gam - Kashiram Textiles
+7,184,11,Ghuma Gam - Kashiram Textiles
+7,185,12,Ghuma Gam - Kashiram Textiles
+7,186,13,Ghuma Gam - Kashiram Textiles
+7,187,14,Ghuma Gam - Kashiram Textiles
+7,188,15,Ghuma Gam - Kashiram Textiles
+7,189,16,Ghuma Gam - Kashiram Textiles
+7,190,17,Ghuma Gam - Kashiram Textiles
+7,191,18,Ghuma Gam - Kashiram Textiles
+7,192,19,Ghuma Gam - Kashiram Textiles
+7,193,20,Ghuma Gam - Kashiram Textiles
+7,194,21,Ghuma Gam - Kashiram Textiles
+7,195,22,Ghuma Gam - Kashiram Textiles
+7,196,23,Ghuma Gam - Kashiram Textiles
+7,197,24,Ghuma Gam - Kashiram Textiles
+7,198,25,Ghuma Gam - Kashiram Textiles
+7,199,26,Ghuma Gam - Kashiram Textiles
+7,200,27,Ghuma Gam - Kashiram Textiles
+7,201,28,Ghuma Gam - Kashiram Textiles
+7,202,29,Ghuma Gam - Kashiram Textiles
+7,203,30,Ghuma Gam - Kashiram Textiles
+8,204,1,Maninagar - Soma Textiles
+8,205,2,Maninagar - Soma Textiles
+8,206,3,Maninagar - Soma Textiles
+8,207,4,Maninagar - Soma Textiles
+8,208,5,Maninagar - Soma Textiles
+8,209,6,Maninagar - Soma Textiles
+8,210,7,Maninagar - Soma Textiles
+8,211,8,Maninagar - Soma Textiles
+8,212,9,Maninagar - Soma Textiles
+8,213,10,Maninagar - Soma Textiles
+8,214,11,Maninagar - Soma Textiles
+8,215,12,Maninagar - Soma Textiles
+9,216,1,Ghuma Gam - Maninagar
+9,217,2,Ghuma Gam - Maninagar
+9,218,3,Ghuma Gam - Maninagar
+9,219,4,Ghuma Gam - Maninagar
+9,220,5,Ghuma Gam - Maninagar
+9,221,6,Ghuma Gam - Maninagar
+9,222,7,Ghuma Gam - Maninagar
+9,223,8,Ghuma Gam - Maninagar
+9,224,9,Ghuma Gam - Maninagar
+9,225,10,Ghuma Gam - Maninagar
+9,226,11,Ghuma Gam - Maninagar
+9,227,12,Ghuma Gam - Maninagar
+9,228,13,Ghuma Gam - Maninagar
+9,229,14,Ghuma Gam - Maninagar
+9,230,15,Ghuma Gam - Maninagar
+9,231,16,Ghuma Gam - Maninagar
+9,232,17,Ghuma Gam - Maninagar
+9,233,18,Ghuma Gam - Maninagar
+9,234,19,Ghuma Gam - Maninagar
+9,235,20,Ghuma Gam - Maninagar
+9,236,21,Ghuma Gam - Maninagar
+9,237,22,Ghuma Gam - Maninagar
+9,238,23,Ghuma Gam - Maninagar
+9,239,24,Ghuma Gam - Maninagar
+9,240,25,Ghuma Gam - Maninagar
+9,241,26,Ghuma Gam - Maninagar
+9,242,27,Ghuma Gam - Maninagar
+9,243,28,Ghuma Gam - Maninagar
+9,244,29,Ghuma Gam - Maninagar
+9,245,30,Ghuma Gam - Maninagar
+9,246,31,Ghuma Gam - Maninagar
+9,247,32,Ghuma Gam - Maninagar
+9,248,33,Ghuma Gam - Maninagar
+9,249,34,Ghuma Gam - Maninagar
+10,250,1,Odhav Ring Road - ISKCON
+10,251,2,Odhav Ring Road - ISKCON
+10,252,3,Odhav Ring Road - ISKCON
+10,253,4,Odhav Ring Road - ISKCON
+10,254,5,Odhav Ring Road - ISKCON
+10,255,6,Odhav Ring Road - ISKCON
+10,256,7,Odhav Ring Road - ISKCON
+10,257,8,Odhav Ring Road - ISKCON
+10,258,9,Odhav Ring Road - ISKCON
+10,259,10,Odhav Ring Road - ISKCON
+10,260,11,Odhav Ring Road - ISKCON
+10,261,12,Odhav Ring Road - ISKCON
+10,262,13,Odhav Ring Road - ISKCON
+10,263,14,Odhav Ring Road - ISKCON
+10,264,15,Odhav Ring Road - ISKCON
+10,265,16,Odhav Ring Road - ISKCON
+10,266,17,Odhav Ring Road - ISKCON
+10,267,18,Odhav Ring Road - ISKCON
+10,268,19,Odhav Ring Road - ISKCON
+10,269,20,Odhav Ring Road - ISKCON
+10,270,21,Odhav Ring Road - ISKCON
+10,271,22,Odhav Ring Road - ISKCON
+10,272,23,Odhav Ring Road - ISKCON
+10,273,24,Odhav Ring Road - ISKCON
+10,274,25,Odhav Ring Road - ISKCON
+10,275,26,Odhav Ring Road - ISKCON
+10,276,27,Odhav Ring Road - ISKCON
+10,277,28,Odhav Ring Road - ISKCON
+10,278,29,Odhav Ring Road - ISKCON
+10,279,30,Odhav Ring Road - ISKCON
+10,280,31,Odhav Ring Road - ISKCON
+11,281,1,Amba Township - Sarthi Bungalows
+11,282,2,Amba Township - Sarthi Bungalows
+11,283,3,Amba Township - Sarthi Bungalows
+11,284,4,Amba Township - Sarthi Bungalows
+11,285,5,Amba Township - Sarthi Bungalows
+11,286,6,Amba Township - Sarthi Bungalows
+11,287,7,Amba Township - Sarthi Bungalows
+11,288,8,Amba Township - Sarthi Bungalows
+11,289,9,Amba Township - Sarthi Bungalows
+12,290,1,Odhav Ring Road - LD Engg. College
+12,291,2,Odhav Ring Road - LD Engg. College
+12,292,3,Odhav Ring Road - LD Engg. College
+12,293,4,Odhav Ring Road - LD Engg. College
+12,294,5,Odhav Ring Road - LD Engg. College
+12,295,6,Odhav Ring Road - LD Engg. College
+12,296,7,Odhav Ring Road - LD Engg. College
+12,297,8,Odhav Ring Road - LD Engg. College
+12,298,9,Odhav Ring Road - LD Engg. College
+12,299,10,Odhav Ring Road - LD Engg. College
+12,300,11,Odhav Ring Road - LD Engg. College
+12,301,12,Odhav Ring Road - LD Engg. College
+12,302,13,Odhav Ring Road - LD Engg. College
+12,303,14,Odhav Ring Road - LD Engg. College
+12,304,15,Odhav Ring Road - LD Engg. College
+12,305,16,Odhav Ring Road - LD Engg. College
+12,306,17,Odhav Ring Road - LD Engg. College
+12,307,18,Odhav Ring Road - LD Engg. College
+12,308,19,Odhav Ring Road - LD Engg. College
+12,309,20,Odhav Ring Road - LD Engg. College
+12,310,21,Odhav Ring Road - LD Engg. College
+12,311,22,Odhav Ring Road - LD Engg. College
+12,312,23,Odhav Ring Road - LD Engg. College
+12,313,24,Odhav Ring Road - LD Engg. College
+12,314,25,Odhav Ring Road - LD Engg. College
+13,315,1,Jaimangal - ISKCON
+13,316,2,Jaimangal - ISKCON
+13,317,3,Jaimangal - ISKCON
+13,318,4,Jaimangal - ISKCON
+13,319,5,Jaimangal - ISKCON
+13,320,6,Jaimangal - ISKCON
+13,321,7,Jaimangal - ISKCON
+13,322,8,Jaimangal - ISKCON
+13,323,9,Jaimangal - ISKCON
+13,324,10,Jaimangal - ISKCON
+13,325,11,Jaimangal - ISKCON
+13,326,12,Jaimangal - ISKCON
+14,327,1,Vasna - Hanspura Ring Road
+14,328,2,Vasna - Hanspura Ring Road
+14,329,3,Vasna - Hanspura Ring Road
+14,330,4,Vasna - Hanspura Ring Road
+14,331,5,Vasna - Hanspura Ring Road
+14,332,6,Vasna - Hanspura Ring Road
+14,333,7,Vasna - Hanspura Ring Road
+14,334,8,Vasna - Hanspura Ring Road
+14,335,9,Vasna - Hanspura Ring Road
+14,336,10,Vasna - Hanspura Ring Road
+14,337,11,Vasna - Hanspura Ring Road
+14,338,12,Vasna - Hanspura Ring Road
+14,339,13,Vasna - Hanspura Ring Road
+14,340,14,Vasna - Hanspura Ring Road
+14,341,15,Vasna - Hanspura Ring Road
+14,342,16,Vasna - Hanspura Ring Road
+14,343,17,Vasna - Hanspura Ring Road
+14,344,18,Vasna - Hanspura Ring Road
+14,345,19,Vasna - Hanspura Ring Road
+14,346,20,Vasna - Hanspura Ring Road
+14,347,21,Vasna - Hanspura Ring Road
+14,348,22,Vasna - Hanspura Ring Road
+14,349,23,Vasna - Hanspura Ring Road
+14,350,24,Vasna - Hanspura Ring Road
+14,351,25,Vasna - Hanspura Ring Road
+14,352,26,Vasna - Hanspura Ring Road
+14,353,27,Vasna - Hanspura Ring Road
+14,354,28,Vasna - Hanspura Ring Road
+14,355,29,Vasna - Hanspura Ring Road
+14,356,30,Vasna - Hanspura Ring Road
+14,357,31,Vasna - Hanspura Ring Road
+14,358,32,Vasna - Hanspura Ring Road
+14,359,33,Vasna - Hanspura Ring Road
+14,360,34,Vasna - Hanspura Ring Road
+14,361,35,Vasna - Hanspura Ring Road
+14,362,36,Vasna - Hanspura Ring Road
+14,363,37,Vasna - Hanspura Ring Road
+14,364,38,Vasna - Hanspura Ring Road
+14,365,39,Vasna - Hanspura Ring Road
+14,366,40,Vasna - Hanspura Ring Road
+14,367,41,Vasna - Hanspura Ring Road
+14,368,42,Vasna - Hanspura Ring Road
+14,369,43,Vasna - Hanspura Ring Road
+15,370,1,Naroda S. T. Workshop - Narol
+15,371,2,Naroda S. T. Workshop - Narol
+15,372,3,Naroda S. T. Workshop - Narol
+15,373,4,Naroda S. T. Workshop - Narol
+15,374,5,Naroda S. T. Workshop - Narol
+15,375,6,Naroda S. T. Workshop - Narol
+15,376,7,Naroda S. T. Workshop - Narol
+15,377,8,Naroda S. T. Workshop - Narol
+15,378,9,Naroda S. T. Workshop - Narol
+15,379,10,Naroda S. T. Workshop - Narol
+15,380,11,Naroda S. T. Workshop - Narol
+15,381,12,Naroda S. T. Workshop - Narol
+15,382,13,Naroda S. T. Workshop - Narol
+15,383,14,Naroda S. T. Workshop - Narol
+15,384,15,Naroda S. T. Workshop - Narol
+15,385,16,Naroda S. T. Workshop - Narol
+15,386,17,Naroda S. T. Workshop - Narol
+15,387,18,Naroda S. T. Workshop - Narol
+15,388,19,Naroda S. T. Workshop - Narol
+15,389,20,Naroda S. T. Workshop - Narol
+15,390,21,Naroda S. T. Workshop - Narol
+15,391,22,Naroda S. T. Workshop - Narol
+15,392,23,Naroda S. T. Workshop - Narol
+16,393,1,Odhav Ring Road - LD Engg. College
+16,394,2,Odhav Ring Road - LD Engg. College
+16,395,3,Odhav Ring Road - LD Engg. College
+16,396,4,Odhav Ring Road - LD Engg. College
+16,397,5,Odhav Ring Road - LD Engg. College
+16,398,6,Odhav Ring Road - LD Engg. College
+16,399,7,Odhav Ring Road - LD Engg. College
+16,400,8,Odhav Ring Road - LD Engg. College
+16,401,9,Odhav Ring Road - LD Engg. College
+16,402,10,Odhav Ring Road - LD Engg. College
+16,403,11,Odhav Ring Road - LD Engg. College
+16,404,12,Odhav Ring Road - LD Engg. College
+16,405,13,Odhav Ring Road - LD Engg. College
+16,406,14,Odhav Ring Road - LD Engg. College
+16,407,15,Odhav Ring Road - LD Engg. College
+16,408,16,Odhav Ring Road - LD Engg. College
+16,409,17,Odhav Ring Road - LD Engg. College
+16,410,18,Odhav Ring Road - LD Engg. College
+16,411,19,Odhav Ring Road - LD Engg. College
+16,412,20,Odhav Ring Road - LD Engg. College
+16,413,21,Odhav Ring Road - LD Engg. College
+16,414,22,Odhav Ring Road - LD Engg. College
+16,415,23,Odhav Ring Road - LD Engg. College
+16,416,24,Odhav Ring Road - LD Engg. College
+16,417,25,Odhav Ring Road - LD Engg. College
+17,418,1,ISKCON - Jaimangal
+17,419,2,ISKCON - Jaimangal
+17,420,3,ISKCON - Jaimangal
+17,421,4,ISKCON - Jaimangal
+17,422,5,ISKCON - Jaimangal
+17,423,6,ISKCON - Jaimangal
+17,424,7,ISKCON - Jaimangal
+17,425,8,ISKCON - Jaimangal
+17,426,9,ISKCON - Jaimangal
+17,427,10,ISKCON - Jaimangal
+17,428,11,ISKCON - Jaimangal
+17,429,12,ISKCON - Jaimangal
+18,430,1,ISKCON - Odhav Ring Road
+18,431,2,ISKCON - Odhav Ring Road
+18,432,3,ISKCON - Odhav Ring Road
+18,433,4,ISKCON - Odhav Ring Road
+18,434,5,ISKCON - Odhav Ring Road
+18,435,6,ISKCON - Odhav Ring Road
+18,436,7,ISKCON - Odhav Ring Road
+18,437,8,ISKCON - Odhav Ring Road
+18,438,9,ISKCON - Odhav Ring Road
+18,439,10,ISKCON - Odhav Ring Road
+18,440,11,ISKCON - Odhav Ring Road
+18,441,12,ISKCON - Odhav Ring Road
+18,442,13,ISKCON - Odhav Ring Road
+18,443,14,ISKCON - Odhav Ring Road
+18,444,15,ISKCON - Odhav Ring Road
+18,445,16,ISKCON - Odhav Ring Road
+18,446,17,ISKCON - Odhav Ring Road
+18,447,18,ISKCON - Odhav Ring Road
+18,448,19,ISKCON - Odhav Ring Road
+18,449,20,ISKCON - Odhav Ring Road
+18,450,21,ISKCON - Odhav Ring Road
+18,451,22,ISKCON - Odhav Ring Road
+18,452,23,ISKCON - Odhav Ring Road
+18,453,24,ISKCON - Odhav Ring Road
+18,454,25,ISKCON - Odhav Ring Road
+18,455,26,ISKCON - Odhav Ring Road
+18,456,27,ISKCON - Odhav Ring Road
+18,457,28,ISKCON - Odhav Ring Road
+18,458,29,ISKCON - Odhav Ring Road
+18,459,30,ISKCON - Odhav Ring Road
+18,460,31,ISKCON - Odhav Ring Road
+18,461,32,ISKCON - Odhav Ring Road
+19,462,1,LD Engg. College - Odhav Ring Road
+19,463,2,LD Engg. College - Odhav Ring Road
+19,464,3,LD Engg. College - Odhav Ring Road
+19,465,4,LD Engg. College - Odhav Ring Road
+19,466,5,LD Engg. College - Odhav Ring Road
+19,467,6,LD Engg. College - Odhav Ring Road
+19,468,7,LD Engg. College - Odhav Ring Road
+19,469,8,LD Engg. College - Odhav Ring Road
+19,470,9,LD Engg. College - Odhav Ring Road
+19,471,10,LD Engg. College - Odhav Ring Road
+19,472,11,LD Engg. College - Odhav Ring Road
+19,473,12,LD Engg. College - Odhav Ring Road
+19,474,13,LD Engg. College - Odhav Ring Road
+19,475,14,LD Engg. College - Odhav Ring Road
+19,476,15,LD Engg. College - Odhav Ring Road
+19,477,16,LD Engg. College - Odhav Ring Road
+19,478,17,LD Engg. College - Odhav Ring Road
+19,479,18,LD Engg. College - Odhav Ring Road
+19,480,19,LD Engg. College - Odhav Ring Road
+19,481,20,LD Engg. College - Odhav Ring Road
+19,482,21,LD Engg. College - Odhav Ring Road
+19,483,22,LD Engg. College - Odhav Ring Road
+19,484,23,LD Engg. College - Odhav Ring Road
+19,485,24,LD Engg. College - Odhav Ring Road
+19,486,25,LD Engg. College - Odhav Ring Road
+20,487,1,Maninagar - R.T.O Circle
+20,488,2,Maninagar - R.T.O Circle
+20,489,3,Maninagar - R.T.O Circle
+20,490,4,Maninagar - R.T.O Circle
+20,491,5,Maninagar - R.T.O Circle
+20,492,6,Maninagar - R.T.O Circle
+20,493,7,Maninagar - R.T.O Circle
+20,494,8,Maninagar - R.T.O Circle
+20,495,9,Maninagar - R.T.O Circle
+20,496,10,Maninagar - R.T.O Circle
+20,497,11,Maninagar - R.T.O Circle
+20,498,12,Maninagar - R.T.O Circle
+20,499,13,Maninagar - R.T.O Circle
+20,500,14,Maninagar - R.T.O Circle
+20,501,15,Maninagar - R.T.O Circle
+20,502,16,Maninagar - R.T.O Circle
+20,503,17,Maninagar - R.T.O Circle
+20,504,18,Maninagar - R.T.O Circle
+20,505,19,Maninagar - R.T.O Circle
+20,506,20,Maninagar - R.T.O Circle
+20,507,21,Maninagar - R.T.O Circle
+20,508,22,Maninagar - R.T.O Circle
+20,509,23,Maninagar - R.T.O Circle
+20,510,24,Maninagar - R.T.O Circle
+20,511,25,Maninagar - R.T.O Circle
+20,512,26,Maninagar - R.T.O Circle
+20,513,27,Maninagar - R.T.O Circle
+20,514,28,Maninagar - R.T.O Circle
+20,515,29,Maninagar - R.T.O Circle
+20,516,30,Maninagar - R.T.O Circle
+21,517,1,Maninagar - Chandkheda Gam
+21,518,2,Maninagar - Chandkheda Gam
+21,519,3,Maninagar - Chandkheda Gam
+21,520,4,Maninagar - Chandkheda Gam
+21,521,5,Maninagar - Chandkheda Gam
+21,522,6,Maninagar - Chandkheda Gam
+21,523,7,Maninagar - Chandkheda Gam
+21,524,8,Maninagar - Chandkheda Gam
+21,525,9,Maninagar - Chandkheda Gam
+21,526,10,Maninagar - Chandkheda Gam
+21,527,11,Maninagar - Chandkheda Gam
+21,528,12,Maninagar - Chandkheda Gam
+21,529,13,Maninagar - Chandkheda Gam
+21,530,14,Maninagar - Chandkheda Gam
+21,531,15,Maninagar - Chandkheda Gam
+21,532,16,Maninagar - Chandkheda Gam
+21,533,17,Maninagar - Chandkheda Gam
+21,534,18,Maninagar - Chandkheda Gam
+21,535,19,Maninagar - Chandkheda Gam
+21,536,20,Maninagar - Chandkheda Gam
+21,537,21,Maninagar - Chandkheda Gam
+21,538,22,Maninagar - Chandkheda Gam
+21,539,23,Maninagar - Chandkheda Gam
+21,540,24,Maninagar - Chandkheda Gam
+21,541,25,Maninagar - Chandkheda Gam
+21,542,26,Maninagar - Chandkheda Gam
+21,543,27,Maninagar - Chandkheda Gam
+21,544,28,Maninagar - Chandkheda Gam
+21,545,29,Maninagar - Chandkheda Gam
+21,546,30,Maninagar - Chandkheda Gam
+21,547,31,Maninagar - Chandkheda Gam
+21,548,32,Maninagar - Chandkheda Gam
+21,1104,33,Maninagar - Chandkheda Gam
+21,549,34,Maninagar - Chandkheda Gam
+21,550,35,Maninagar - Chandkheda Gam
+21,551,36,Maninagar - Chandkheda Gam
+21,552,37,Maninagar - Chandkheda Gam
+21,553,38,Maninagar - Chandkheda Gam
+21,554,39,Maninagar - Chandkheda Gam
+21,555,40,Maninagar - Chandkheda Gam
+22,556,1,Chhipa Society - Maninagar
+22,557,2,Chhipa Society - Maninagar
+22,558,3,Chhipa Society - Maninagar
+22,559,4,Chhipa Society - Maninagar
+22,560,5,Chhipa Society - Maninagar
+22,561,6,Chhipa Society - Maninagar
+22,562,7,Chhipa Society - Maninagar
+22,563,8,Chhipa Society - Maninagar
+22,564,9,Chhipa Society - Maninagar
+23,565,1,Maninagar - Kashiram Textiles
+23,566,2,Maninagar - Kashiram Textiles
+23,567,3,Maninagar - Kashiram Textiles
+23,568,4,Maninagar - Kashiram Textiles
+23,569,5,Maninagar - Kashiram Textiles
+23,570,6,Maninagar - Kashiram Textiles
+23,571,7,Maninagar - Kashiram Textiles
+23,572,8,Maninagar - Kashiram Textiles
+23,573,9,Maninagar - Kashiram Textiles
+23,574,10,Maninagar - Kashiram Textiles
+23,575,11,Maninagar - Kashiram Textiles
+23,576,12,Maninagar - Kashiram Textiles
+23,577,13,Maninagar - Kashiram Textiles
+24,578,1,R.T.O Circle - Maninagar
+24,579,2,R.T.O Circle - Maninagar
+24,580,3,R.T.O Circle - Maninagar
+24,581,4,R.T.O Circle - Maninagar
+24,582,5,R.T.O Circle - Maninagar
+24,583,6,R.T.O Circle - Maninagar
+24,584,7,R.T.O Circle - Maninagar
+24,585,8,R.T.O Circle - Maninagar
+24,586,9,R.T.O Circle - Maninagar
+24,587,10,R.T.O Circle - Maninagar
+24,588,11,R.T.O Circle - Maninagar
+24,589,12,R.T.O Circle - Maninagar
+24,590,13,R.T.O Circle - Maninagar
+24,591,14,R.T.O Circle - Maninagar
+24,592,15,R.T.O Circle - Maninagar
+24,593,16,R.T.O Circle - Maninagar
+24,594,17,R.T.O Circle - Maninagar
+24,595,18,R.T.O Circle - Maninagar
+24,596,19,R.T.O Circle - Maninagar
+24,597,20,R.T.O Circle - Maninagar
+24,598,21,R.T.O Circle - Maninagar
+24,599,22,R.T.O Circle - Maninagar
+24,600,23,R.T.O Circle - Maninagar
+24,601,24,R.T.O Circle - Maninagar
+24,602,25,R.T.O Circle - Maninagar
+24,603,26,R.T.O Circle - Maninagar
+24,604,27,R.T.O Circle - Maninagar
+24,605,28,R.T.O Circle - Maninagar
+25,606,1,Chandkheda Gam - Maninagar
+25,607,2,Chandkheda Gam - Maninagar
+25,608,3,Chandkheda Gam - Maninagar
+25,609,4,Chandkheda Gam - Maninagar
+25,610,5,Chandkheda Gam - Maninagar
+25,611,6,Chandkheda Gam - Maninagar
+25,612,7,Chandkheda Gam - Maninagar
+25,613,8,Chandkheda Gam - Maninagar
+25,614,9,Chandkheda Gam - Maninagar
+25,615,10,Chandkheda Gam - Maninagar
+25,616,11,Chandkheda Gam - Maninagar
+25,617,12,Chandkheda Gam - Maninagar
+25,618,13,Chandkheda Gam - Maninagar
+25,619,14,Chandkheda Gam - Maninagar
+25,620,15,Chandkheda Gam - Maninagar
+25,621,16,Chandkheda Gam - Maninagar
+25,622,17,Chandkheda Gam - Maninagar
+25,623,18,Chandkheda Gam - Maninagar
+25,624,19,Chandkheda Gam - Maninagar
+25,625,20,Chandkheda Gam - Maninagar
+25,626,21,Chandkheda Gam - Maninagar
+25,627,22,Chandkheda Gam - Maninagar
+25,628,23,Chandkheda Gam - Maninagar
+25,629,24,Chandkheda Gam - Maninagar
+25,630,25,Chandkheda Gam - Maninagar
+25,631,26,Chandkheda Gam - Maninagar
+25,632,27,Chandkheda Gam - Maninagar
+25,633,28,Chandkheda Gam - Maninagar
+25,634,29,Chandkheda Gam - Maninagar
+25,635,30,Chandkheda Gam - Maninagar
+25,636,31,Chandkheda Gam - Maninagar
+25,637,32,Chandkheda Gam - Maninagar
+25,638,33,Chandkheda Gam - Maninagar
+25,639,34,Chandkheda Gam - Maninagar
+25,640,35,Chandkheda Gam - Maninagar
+26,641,1,LD Engg College - Amba Township
+26,642,2,LD Engg College - Amba Township
+26,643,3,LD Engg College - Amba Township
+26,644,4,LD Engg College - Amba Township
+26,645,5,LD Engg College - Amba Township
+26,646,6,LD Engg College - Amba Township
+26,647,7,LD Engg College - Amba Township
+26,648,8,LD Engg College - Amba Township
+26,649,9,LD Engg College - Amba Township
+26,650,10,LD Engg College - Amba Township
+26,651,11,LD Engg College - Amba Township
+26,652,12,LD Engg College - Amba Township
+26,653,13,LD Engg College - Amba Township
+26,654,14,LD Engg College - Amba Township
+26,655,15,LD Engg College - Amba Township
+26,656,16,LD Engg College - Amba Township
+26,657,17,LD Engg College - Amba Township
+26,658,18,LD Engg College - Amba Township
+26,659,19,LD Engg College - Amba Township
+26,660,20,LD Engg College - Amba Township
+26,661,21,LD Engg College - Amba Township
+26,662,22,LD Engg College - Amba Township
+26,663,23,LD Engg College - Amba Township
+26,664,24,LD Engg College - Amba Township
+26,665,25,LD Engg College - Amba Township
+26,666,26,LD Engg College - Amba Township
+26,667,27,LD Engg College - Amba Township
+26,668,28,LD Engg College - Amba Township
+26,669,29,LD Engg College - Amba Township
+26,670,30,LD Engg College - Amba Township
+26,671,31,LD Engg College - Amba Township
+26,672,32,LD Engg College - Amba Township
+26,673,33,LD Engg College - Amba Township
+26,674,34,LD Engg College - Amba Township
+26,675,35,LD Engg College - Amba Township
+27,676,1,LD Engg. College - Zundal Circle
+27,677,2,LD Engg. College - Zundal Circle
+27,678,3,LD Engg. College - Zundal Circle
+27,679,4,LD Engg. College - Zundal Circle
+27,680,5,LD Engg. College - Zundal Circle
+27,681,6,LD Engg. College - Zundal Circle
+27,682,7,LD Engg. College - Zundal Circle
+27,683,8,LD Engg. College - Zundal Circle
+27,684,9,LD Engg. College - Zundal Circle
+27,685,10,LD Engg. College - Zundal Circle
+27,686,11,LD Engg. College - Zundal Circle
+27,687,12,LD Engg. College - Zundal Circle
+27,688,13,LD Engg. College - Zundal Circle
+27,689,14,LD Engg. College - Zundal Circle
+27,690,15,LD Engg. College - Zundal Circle
+27,691,16,LD Engg. College - Zundal Circle
+27,692,17,LD Engg. College - Zundal Circle
+27,693,18,LD Engg. College - Zundal Circle
+27,694,19,LD Engg. College - Zundal Circle
+27,695,20,LD Engg. College - Zundal Circle
+27,696,21,LD Engg. College - Zundal Circle
+27,697,22,LD Engg. College - Zundal Circle
+27,698,23,LD Engg. College - Zundal Circle
+27,699,24,LD Engg. College - Zundal Circle
+27,700,25,LD Engg. College - Zundal Circle
+27,701,26,LD Engg. College - Zundal Circle
+27,702,27,LD Engg. College - Zundal Circle
+27,703,28,LD Engg. College - Zundal Circle
+27,704,29,LD Engg. College - Zundal Circle
+27,705,30,LD Engg. College - Zundal Circle
+27,706,31,LD Engg. College - Zundal Circle
+27,707,32,LD Engg. College - Zundal Circle
+28,708,1,Pragatinagar - Zundal Circle
+28,709,2,Pragatinagar - Zundal Circle
+28,710,3,Pragatinagar - Zundal Circle
+28,711,4,Pragatinagar - Zundal Circle
+28,712,5,Pragatinagar - Zundal Circle
+28,713,6,Pragatinagar - Zundal Circle
+28,714,7,Pragatinagar - Zundal Circle
+28,715,8,Pragatinagar - Zundal Circle
+28,716,9,Pragatinagar - Zundal Circle
+28,717,10,Pragatinagar - Zundal Circle
+28,718,11,Pragatinagar - Zundal Circle
+28,719,12,Pragatinagar - Zundal Circle
+28,720,13,Pragatinagar - Zundal Circle
+28,721,14,Pragatinagar - Zundal Circle
+28,722,15,Pragatinagar - Zundal Circle
+28,723,16,Pragatinagar - Zundal Circle
+29,724,1,Sarthi Bungalows - Amba Township
+29,725,2,Sarthi Bungalows - Amba Township
+29,726,3,Sarthi Bungalows - Amba Township
+29,727,4,Sarthi Bungalows - Amba Township
+29,728,5,Sarthi Bungalows - Amba Township
+29,729,6,Sarthi Bungalows - Amba Township
+29,730,7,Sarthi Bungalows - Amba Township
+29,731,8,Sarthi Bungalows - Amba Township
+29,732,9,Sarthi Bungalows - Amba Township
+30,733,1,Zundal Circle - Shastrinagar
+30,734,2,Zundal Circle - Shastrinagar
+30,735,3,Zundal Circle - Shastrinagar
+30,736,4,Zundal Circle - Shastrinagar
+30,737,5,Zundal Circle - Shastrinagar
+30,738,6,Zundal Circle - Shastrinagar
+30,739,7,Zundal Circle - Shastrinagar
+30,740,8,Zundal Circle - Shastrinagar
+30,741,9,Zundal Circle - Shastrinagar
+30,742,10,Zundal Circle - Shastrinagar
+30,743,11,Zundal Circle - Shastrinagar
+30,744,12,Zundal Circle - Shastrinagar
+30,745,13,Zundal Circle - Shastrinagar
+30,746,14,Zundal Circle - Shastrinagar
+30,747,15,Zundal Circle - Shastrinagar
+30,748,16,Zundal Circle - Shastrinagar
+30,749,17,Zundal Circle - Shastrinagar
+31,750,1,Amba Township - LD Engg College
+31,751,2,Amba Township - LD Engg College
+31,752,3,Amba Township - LD Engg College
+31,753,4,Amba Township - LD Engg College
+31,754,5,Amba Township - LD Engg College
+31,755,6,Amba Township - LD Engg College
+31,756,7,Amba Township - LD Engg College
+31,757,8,Amba Township - LD Engg College
+31,758,9,Amba Township - LD Engg College
+31,759,10,Amba Township - LD Engg College
+31,760,11,Amba Township - LD Engg College
+31,761,12,Amba Township - LD Engg College
+31,762,13,Amba Township - LD Engg College
+31,763,14,Amba Township - LD Engg College
+31,764,15,Amba Township - LD Engg College
+31,765,16,Amba Township - LD Engg College
+31,766,17,Amba Township - LD Engg College
+31,767,18,Amba Township - LD Engg College
+31,768,19,Amba Township - LD Engg College
+31,769,20,Amba Township - LD Engg College
+31,770,21,Amba Township - LD Engg College
+31,771,22,Amba Township - LD Engg College
+31,772,23,Amba Township - LD Engg College
+31,773,24,Amba Township - LD Engg College
+31,774,25,Amba Township - LD Engg College
+31,775,26,Amba Township - LD Engg College
+31,776,27,Amba Township - LD Engg College
+31,777,28,Amba Township - LD Engg College
+31,778,29,Amba Township - LD Engg College
+31,779,30,Amba Township - LD Engg College
+31,780,31,Amba Township - LD Engg College
+31,781,32,Amba Township - LD Engg College
+31,782,33,Amba Township - LD Engg College
+31,783,34,Amba Township - LD Engg College
+31,784,35,Amba Township - LD Engg College
+31,785,36,Amba Township - LD Engg College
+31,786,37,Amba Township - LD Engg College
+31,787,38,Amba Township - LD Engg College
+31,788,39,Amba Township - LD Engg College
+32,789,1,Zundal Circle - LD Engg. College
+32,790,2,Zundal Circle - LD Engg. College
+32,791,3,Zundal Circle - LD Engg. College
+32,792,4,Zundal Circle - LD Engg. College
+32,793,5,Zundal Circle - LD Engg. College
+32,794,6,Zundal Circle - LD Engg. College
+32,795,7,Zundal Circle - LD Engg. College
+32,796,8,Zundal Circle - LD Engg. College
+32,797,9,Zundal Circle - LD Engg. College
+32,798,10,Zundal Circle - LD Engg. College
+32,799,11,Zundal Circle - LD Engg. College
+32,800,12,Zundal Circle - LD Engg. College
+32,801,13,Zundal Circle - LD Engg. College
+32,802,14,Zundal Circle - LD Engg. College
+32,803,15,Zundal Circle - LD Engg. College
+32,804,16,Zundal Circle - LD Engg. College
+32,805,17,Zundal Circle - LD Engg. College
+32,806,18,Zundal Circle - LD Engg. College
+32,807,19,Zundal Circle - LD Engg. College
+32,808,20,Zundal Circle - LD Engg. College
+32,809,21,Zundal Circle - LD Engg. College
+32,810,22,Zundal Circle - LD Engg. College
+32,811,23,Zundal Circle - LD Engg. College
+32,812,24,Zundal Circle - LD Engg. College
+32,813,25,Zundal Circle - LD Engg. College
+32,814,26,Zundal Circle - LD Engg. College
+32,815,27,Zundal Circle - LD Engg. College
+32,816,28,Zundal Circle - LD Engg. College
+32,817,29,Zundal Circle - LD Engg. College
+32,818,30,Zundal Circle - LD Engg. College
+32,819,31,Zundal Circle - LD Engg. College
+32,820,32,Zundal Circle - LD Engg. College
+33,821,1,Hanspura Ring Road - Vasna
+33,822,2,Hanspura Ring Road - Vasna
+33,823,3,Hanspura Ring Road - Vasna
+33,824,4,Hanspura Ring Road - Vasna
+33,825,5,Hanspura Ring Road - Vasna
+33,826,6,Hanspura Ring Road - Vasna
+33,827,7,Hanspura Ring Road - Vasna
+33,828,8,Hanspura Ring Road - Vasna
+33,829,9,Hanspura Ring Road - Vasna
+33,830,10,Hanspura Ring Road - Vasna
+33,831,11,Hanspura Ring Road - Vasna
+33,832,12,Hanspura Ring Road - Vasna
+33,833,13,Hanspura Ring Road - Vasna
+33,834,14,Hanspura Ring Road - Vasna
+33,835,15,Hanspura Ring Road - Vasna
+33,836,16,Hanspura Ring Road - Vasna
+33,837,17,Hanspura Ring Road - Vasna
+33,838,18,Hanspura Ring Road - Vasna
+33,839,19,Hanspura Ring Road - Vasna
+33,840,20,Hanspura Ring Road - Vasna
+33,841,21,Hanspura Ring Road - Vasna
+33,842,22,Hanspura Ring Road - Vasna
+33,843,23,Hanspura Ring Road - Vasna
+33,844,24,Hanspura Ring Road - Vasna
+33,845,25,Hanspura Ring Road - Vasna
+33,846,26,Hanspura Ring Road - Vasna
+33,847,27,Hanspura Ring Road - Vasna
+33,848,28,Hanspura Ring Road - Vasna
+33,849,29,Hanspura Ring Road - Vasna
+33,850,30,Hanspura Ring Road - Vasna
+33,851,31,Hanspura Ring Road - Vasna
+33,852,32,Hanspura Ring Road - Vasna
+33,853,33,Hanspura Ring Road - Vasna
+33,854,34,Hanspura Ring Road - Vasna
+33,855,35,Hanspura Ring Road - Vasna
+33,856,36,Hanspura Ring Road - Vasna
+33,857,37,Hanspura Ring Road - Vasna
+33,858,38,Hanspura Ring Road - Vasna
+33,859,39,Hanspura Ring Road - Vasna
+33,860,40,Hanspura Ring Road - Vasna
+33,861,41,Hanspura Ring Road - Vasna
+33,862,42,Hanspura Ring Road - Vasna
+34,863,1,Geeta Gauri Cinema - Hanspura Ring Road
+34,864,2,Geeta Gauri Cinema - Hanspura Ring Road
+34,865,3,Geeta Gauri Cinema - Hanspura Ring Road
+34,866,4,Geeta Gauri Cinema - Hanspura Ring Road
+34,867,5,Geeta Gauri Cinema - Hanspura Ring Road
+34,868,6,Geeta Gauri Cinema - Hanspura Ring Road
+34,869,7,Geeta Gauri Cinema - Hanspura Ring Road
+34,870,8,Geeta Gauri Cinema - Hanspura Ring Road
+34,871,9,Geeta Gauri Cinema - Hanspura Ring Road
+34,872,10,Geeta Gauri Cinema - Hanspura Ring Road
+34,873,11,Geeta Gauri Cinema - Hanspura Ring Road
+34,874,12,Geeta Gauri Cinema - Hanspura Ring Road
+34,875,13,Geeta Gauri Cinema - Hanspura Ring Road
+34,876,14,Geeta Gauri Cinema - Hanspura Ring Road
+34,877,15,Geeta Gauri Cinema - Hanspura Ring Road
+34,878,16,Geeta Gauri Cinema - Hanspura Ring Road
+34,879,17,Geeta Gauri Cinema - Hanspura Ring Road
+34,880,18,Geeta Gauri Cinema - Hanspura Ring Road
+34,881,19,Geeta Gauri Cinema - Hanspura Ring Road
+34,882,20,Geeta Gauri Cinema - Hanspura Ring Road
+34,883,21,Geeta Gauri Cinema - Hanspura Ring Road
+35,884,1,Chhipa Society - Vasna
+35,885,2,Chhipa Society - Vasna
+35,886,3,Chhipa Society - Vasna
+35,887,4,Chhipa Society - Vasna
+35,888,5,Chhipa Society - Vasna
+35,889,6,Chhipa Society - Vasna
+35,890,7,Chhipa Society - Vasna
+36,891,1,Rameshwar Park - Vasna
+36,892,2,Rameshwar Park - Vasna
+36,893,3,Rameshwar Park - Vasna
+36,894,4,Rameshwar Park - Vasna
+36,895,5,Rameshwar Park - Vasna
+36,896,6,Rameshwar Park - Vasna
+36,897,7,Rameshwar Park - Vasna
+36,898,8,Rameshwar Park - Vasna
+36,899,9,Rameshwar Park - Vasna
+36,900,10,Rameshwar Park - Vasna
+36,901,11,Rameshwar Park - Vasna
+36,902,12,Rameshwar Park - Vasna
+36,903,13,Rameshwar Park - Vasna
+36,904,14,Rameshwar Park - Vasna
+36,905,15,Rameshwar Park - Vasna
+36,906,16,Rameshwar Park - Vasna
+36,907,17,Rameshwar Park - Vasna
+36,908,18,Rameshwar Park - Vasna
+36,909,19,Rameshwar Park - Vasna
+36,910,20,Rameshwar Park - Vasna
+36,911,21,Rameshwar Park - Vasna
+36,912,22,Rameshwar Park - Vasna
+37,913,1,Naroda S. T. Workshop - Hanspura Ring Road
+37,914,2,Naroda S. T. Workshop - Hanspura Ring Road
+37,915,3,Naroda S. T. Workshop - Hanspura Ring Road
+37,916,4,Naroda S. T. Workshop - Hanspura Ring Road
+37,917,5,Naroda S. T. Workshop - Hanspura Ring Road
+37,918,6,Naroda S. T. Workshop - Hanspura Ring Road
+37,919,7,Naroda S. T. Workshop - Hanspura Ring Road
+37,920,8,Naroda S. T. Workshop - Hanspura Ring Road
+37,921,9,Naroda S. T. Workshop - Hanspura Ring Road
+37,922,10,Naroda S. T. Workshop - Hanspura Ring Road
+37,923,11,Naroda S. T. Workshop - Hanspura Ring Road
+38,924,1,South Bopal - Nehrunagar
+38,925,2,South Bopal - Nehrunagar
+38,926,3,South Bopal - Nehrunagar
+38,927,4,South Bopal - Nehrunagar
+38,928,5,South Bopal - Nehrunagar
+38,929,6,South Bopal - Nehrunagar
+38,930,7,South Bopal - Nehrunagar
+38,931,8,South Bopal - Nehrunagar
+38,932,9,South Bopal - Nehrunagar
+38,933,10,South Bopal - Nehrunagar
+38,934,11,South Bopal - Nehrunagar
+38,935,12,South Bopal - Nehrunagar
+38,936,13,South Bopal - Nehrunagar
+38,937,14,South Bopal - Nehrunagar
+38,938,15,South Bopal - Nehrunagar
+38,939,16,South Bopal - Nehrunagar
+38,940,17,South Bopal - Nehrunagar
+38,941,18,South Bopal - Nehrunagar
+38,942,19,South Bopal - Nehrunagar
+38,943,20,South Bopal - Nehrunagar
+38,944,21,South Bopal - Nehrunagar
+38,945,22,South Bopal - Nehrunagar
+38,946,23,South Bopal - Nehrunagar
+38,947,24,South Bopal - Nehrunagar
+39,948,1,Hanspura Ring Road - Geeta Gauri Cinema
+39,949,2,Hanspura Ring Road - Geeta Gauri Cinema
+39,950,3,Hanspura Ring Road - Geeta Gauri Cinema
+39,951,4,Hanspura Ring Road - Geeta Gauri Cinema
+39,952,5,Hanspura Ring Road - Geeta Gauri Cinema
+39,953,6,Hanspura Ring Road - Geeta Gauri Cinema
+39,954,7,Hanspura Ring Road - Geeta Gauri Cinema
+39,955,8,Hanspura Ring Road - Geeta Gauri Cinema
+39,956,9,Hanspura Ring Road - Geeta Gauri Cinema
+39,957,10,Hanspura Ring Road - Geeta Gauri Cinema
+39,958,11,Hanspura Ring Road - Geeta Gauri Cinema
+39,959,12,Hanspura Ring Road - Geeta Gauri Cinema
+39,960,13,Hanspura Ring Road - Geeta Gauri Cinema
+39,961,14,Hanspura Ring Road - Geeta Gauri Cinema
+39,962,15,Hanspura Ring Road - Geeta Gauri Cinema
+39,963,16,Hanspura Ring Road - Geeta Gauri Cinema
+39,964,17,Hanspura Ring Road - Geeta Gauri Cinema
+39,965,18,Hanspura Ring Road - Geeta Gauri Cinema
+39,966,19,Hanspura Ring Road - Geeta Gauri Cinema
+39,967,20,Hanspura Ring Road - Geeta Gauri Cinema
+39,968,21,Hanspura Ring Road - Geeta Gauri Cinema
+40,969,1,Hanspura Ring Road - Naroda S. T. Workshop
+40,970,2,Hanspura Ring Road - Naroda S. T. Workshop
+40,971,3,Hanspura Ring Road - Naroda S. T. Workshop
+40,972,4,Hanspura Ring Road - Naroda S. T. Workshop
+40,973,5,Hanspura Ring Road - Naroda S. T. Workshop
+40,974,6,Hanspura Ring Road - Naroda S. T. Workshop
+40,975,7,Hanspura Ring Road - Naroda S. T. Workshop
+40,976,8,Hanspura Ring Road - Naroda S. T. Workshop
+40,977,9,Hanspura Ring Road - Naroda S. T. Workshop
+40,978,10,Hanspura Ring Road - Naroda S. T. Workshop
+40,979,11,Hanspura Ring Road - Naroda S. T. Workshop
+41,980,1,Vasna - Kashiram Textiles
+41,981,2,Vasna - Kashiram Textiles
+41,982,3,Vasna - Kashiram Textiles
+41,983,4,Vasna - Kashiram Textiles
+41,984,5,Vasna - Kashiram Textiles
+41,985,6,Vasna - Kashiram Textiles
+41,986,7,Vasna - Kashiram Textiles
+41,987,8,Vasna - Kashiram Textiles
+41,988,9,Vasna - Kashiram Textiles
+41,989,10,Vasna - Kashiram Textiles
+42,990,1,Vasna - Rameshwar Park
+42,991,2,Vasna - Rameshwar Park
+42,992,3,Vasna - Rameshwar Park
+42,993,4,Vasna - Rameshwar Park
+42,994,5,Vasna - Rameshwar Park
+42,995,6,Vasna - Rameshwar Park
+42,996,7,Vasna - Rameshwar Park
+42,997,8,Vasna - Rameshwar Park
+42,998,9,Vasna - Rameshwar Park
+42,999,10,Vasna - Rameshwar Park
+42,1000,11,Vasna - Rameshwar Park
+42,1001,12,Vasna - Rameshwar Park
+42,1002,13,Vasna - Rameshwar Park
+42,1003,14,Vasna - Rameshwar Park
+42,1004,15,Vasna - Rameshwar Park
+42,1005,16,Vasna - Rameshwar Park
+42,1006,17,Vasna - Rameshwar Park
+42,1007,18,Vasna - Rameshwar Park
+42,1008,19,Vasna - Rameshwar Park
+42,1009,20,Vasna - Rameshwar Park
+42,1010,21,Vasna - Rameshwar Park
+43,1011,1,Geeta Gauri Cinema - Naroda ST Workshop
+43,1012,2,Geeta Gauri Cinema - Naroda ST Workshop
+43,1013,3,Geeta Gauri Cinema - Naroda ST Workshop
+43,1014,4,Geeta Gauri Cinema - Naroda ST Workshop
+43,1015,5,Geeta Gauri Cinema - Naroda ST Workshop
+43,1016,6,Geeta Gauri Cinema - Naroda ST Workshop
+43,1017,7,Geeta Gauri Cinema - Naroda ST Workshop
+43,1018,8,Geeta Gauri Cinema - Naroda ST Workshop
+43,1019,9,Geeta Gauri Cinema - Naroda ST Workshop
+43,1020,10,Geeta Gauri Cinema - Naroda ST Workshop
+43,1021,11,Geeta Gauri Cinema - Naroda ST Workshop
+44,1022,1,Narol - Rameshwar Park
+44,1023,2,Narol - Rameshwar Park
+44,1024,3,Narol - Rameshwar Park
+44,1025,4,Narol - Rameshwar Park
+44,1026,5,Narol - Rameshwar Park
+44,1027,6,Narol - Rameshwar Park
+44,1028,7,Narol - Rameshwar Park
+44,1029,8,Narol - Rameshwar Park
+44,1030,9,Narol - Rameshwar Park
+44,1031,10,Narol - Rameshwar Park
+44,1032,11,Narol - Rameshwar Park
+44,1033,12,Narol - Rameshwar Park
+45,1034,1,Rameshwar Park - Narol
+45,1035,2,Rameshwar Park - Narol
+45,1036,3,Rameshwar Park - Narol
+45,1037,4,Rameshwar Park - Narol
+45,1038,5,Rameshwar Park - Narol
+45,1039,6,Rameshwar Park - Narol
+45,1040,7,Rameshwar Park - Narol
+45,1041,8,Rameshwar Park - Narol
+45,1042,9,Rameshwar Park - Narol
+45,1043,10,Rameshwar Park - Narol
+45,1044,11,Rameshwar Park - Narol
+45,1045,12,Rameshwar Park - Narol
+46,1046,1,Naroda ST Workshop - Geeta Gauri Cinema
+46,1047,2,Naroda ST Workshop - Geeta Gauri Cinema
+46,1048,3,Naroda ST Workshop - Geeta Gauri Cinema
+46,1049,4,Naroda ST Workshop - Geeta Gauri Cinema
+46,1050,5,Naroda ST Workshop - Geeta Gauri Cinema
+46,1051,6,Naroda ST Workshop - Geeta Gauri Cinema
+46,1052,7,Naroda ST Workshop - Geeta Gauri Cinema
+46,1053,8,Naroda ST Workshop - Geeta Gauri Cinema
+46,1054,9,Naroda ST Workshop - Geeta Gauri Cinema
+46,1055,10,Naroda ST Workshop - Geeta Gauri Cinema
+46,1056,11,Naroda ST Workshop - Geeta Gauri Cinema
+47,1057,1,Narol - Naroda S. T. Workshop
+47,1058,2,Narol - Naroda S. T. Workshop
+47,1059,3,Narol - Naroda S. T. Workshop
+47,1060,4,Narol - Naroda S. T. Workshop
+47,1061,5,Narol - Naroda S. T. Workshop
+47,1062,6,Narol - Naroda S. T. Workshop
+47,1063,7,Narol - Naroda S. T. Workshop
+47,1064,8,Narol - Naroda S. T. Workshop
+47,1065,9,Narol - Naroda S. T. Workshop
+47,1066,10,Narol - Naroda S. T. Workshop
+47,1067,11,Narol - Naroda S. T. Workshop
+47,1068,12,Narol - Naroda S. T. Workshop
+47,1069,13,Narol - Naroda S. T. Workshop
+47,1070,14,Narol - Naroda S. T. Workshop
+47,1071,15,Narol - Naroda S. T. Workshop
+47,1072,16,Narol - Naroda S. T. Workshop
+47,1073,17,Narol - Naroda S. T. Workshop
+47,1074,18,Narol - Naroda S. T. Workshop
+47,1075,19,Narol - Naroda S. T. Workshop
+47,1076,20,Narol - Naroda S. T. Workshop
+47,1077,21,Narol - Naroda S. T. Workshop
+47,1078,22,Narol - Naroda S. T. Workshop
+47,1079,23,Narol - Naroda S. T. Workshop
+48,1080,1,Gota Vasant Nagar Township - Jaimangal
+48,1081,2,Gota Vasant Nagar Township - Jaimangal
+48,1082,3,Gota Vasant Nagar Township - Jaimangal
+48,1083,4,Gota Vasant Nagar Township - Jaimangal
+48,1084,5,Gota Vasant Nagar Township - Jaimangal
+48,1085,6,Gota Vasant Nagar Township - Jaimangal
+48,1086,7,Gota Vasant Nagar Township - Jaimangal
+48,1087,8,Gota Vasant Nagar Township - Jaimangal
+48,1088,9,Gota Vasant Nagar Township - Jaimangal
+48,1089,10,Gota Vasant Nagar Township - Jaimangal
+49,1090,1,Narol - Sarangpur Darwaja
+49,1091,2,Narol - Sarangpur Darwaja
+49,1092,3,Narol - Sarangpur Darwaja
+49,1093,4,Narol - Sarangpur Darwaja
+49,1094,5,Narol - Sarangpur Darwaja
+49,1095,6,Narol - Sarangpur Darwaja
+49,1096,7,Narol - Sarangpur Darwaja
+49,1097,8,Narol - Sarangpur Darwaja
+49,1098,9,Narol - Sarangpur Darwaja
+49,1099,10,Narol - Sarangpur Darwaja
+49,1100,11,Narol - Sarangpur Darwaja
+49,1101,12,Narol - Sarangpur Darwaja
+49,1102,13,Narol - Sarangpur Darwaja
+49,1103,14,Narol - Sarangpur Darwaja
+50,1105,1,Sarkari Litho Press - Zundal Circle
+50,1106,2,Sarkari Litho Press - Zundal Circle
+50,1107,3,Sarkari Litho Press - Zundal Circle
+50,1108,4,Sarkari Litho Press - Zundal Circle
+50,1109,5,Sarkari Litho Press - Zundal Circle
+50,1110,6,Sarkari Litho Press - Zundal Circle
+50,1111,7,Sarkari Litho Press - Zundal Circle
+50,1112,8,Sarkari Litho Press - Zundal Circle
+50,1113,9,Sarkari Litho Press - Zundal Circle
+50,1114,10,Sarkari Litho Press - Zundal Circle
+50,1115,11,Sarkari Litho Press - Zundal Circle
+50,1116,12,Sarkari Litho Press - Zundal Circle
+50,1117,13,Sarkari Litho Press - Zundal Circle
+50,1118,14,Sarkari Litho Press - Zundal Circle
+50,1119,15,Sarkari Litho Press - Zundal Circle
+50,1120,16,Sarkari Litho Press - Zundal Circle
+50,1121,17,Sarkari Litho Press - Zundal Circle
+50,1122,18,Sarkari Litho Press - Zundal Circle
+50,1123,19,Sarkari Litho Press - Zundal Circle
+50,1124,20,Sarkari Litho Press - Zundal Circle
+51,1125,1,Odhav Talav - Narol
+51,1126,2,Odhav Talav - Narol
+51,1127,3,Odhav Talav - Narol
+51,1128,4,Odhav Talav - Narol
+51,1129,5,Odhav Talav - Narol
+51,1130,6,Odhav Talav - Narol
+51,1131,7,Odhav Talav - Narol
+51,1132,8,Odhav Talav - Narol
+51,1133,9,Odhav Talav - Narol
+51,1134,10,Odhav Talav - Narol
+51,1135,11,Odhav Talav - Narol
+51,1136,12,Odhav Talav - Narol
+51,1137,13,Odhav Talav - Narol
+51,1138,14,Odhav Talav - Narol
+51,1139,15,Odhav Talav - Narol
+51,1140,16,Odhav Talav - Narol
+51,1141,17,Odhav Talav - Narol
+51,1142,18,Odhav Talav - Narol
+51,1143,19,Odhav Talav - Narol
+52,1144,1,Odhav Talav - Sarangpur Darwaja
+52,1145,2,Odhav Talav - Sarangpur Darwaja
+52,1146,3,Odhav Talav - Sarangpur Darwaja
+52,1147,4,Odhav Talav - Sarangpur Darwaja
+52,1148,5,Odhav Talav - Sarangpur Darwaja
+52,1149,6,Odhav Talav - Sarangpur Darwaja
+52,1150,7,Odhav Talav - Sarangpur Darwaja
+52,1151,8,Odhav Talav - Sarangpur Darwaja
+52,1152,9,Odhav Talav - Sarangpur Darwaja
+52,1153,10,Odhav Talav - Sarangpur Darwaja
+52,1154,11,Odhav Talav - Sarangpur Darwaja
+52,1155,12,Odhav Talav - Sarangpur Darwaja
+52,1156,13,Odhav Talav - Sarangpur Darwaja
+53,1157,1,Gota Vasant Nagar Township - Maninagar
+53,1158,2,Gota Vasant Nagar Township - Maninagar
+53,1159,3,Gota Vasant Nagar Township - Maninagar
+53,1160,4,Gota Vasant Nagar Township - Maninagar
+53,1161,5,Gota Vasant Nagar Township - Maninagar
+53,1162,6,Gota Vasant Nagar Township - Maninagar
+53,1163,7,Gota Vasant Nagar Township - Maninagar
+53,1164,8,Gota Vasant Nagar Township - Maninagar
+53,1165,9,Gota Vasant Nagar Township - Maninagar
+53,1166,10,Gota Vasant Nagar Township - Maninagar
+53,1167,11,Gota Vasant Nagar Township - Maninagar
+53,1168,12,Gota Vasant Nagar Township - Maninagar
+53,1169,13,Gota Vasant Nagar Township - Maninagar
+53,1170,14,Gota Vasant Nagar Township - Maninagar
+53,1171,15,Gota Vasant Nagar Township - Maninagar
+53,1172,16,Gota Vasant Nagar Township - Maninagar
+53,1173,17,Gota Vasant Nagar Township - Maninagar
+53,1174,18,Gota Vasant Nagar Township - Maninagar
+53,1175,19,Gota Vasant Nagar Township - Maninagar
+53,1176,20,Gota Vasant Nagar Township - Maninagar
+53,1177,21,Gota Vasant Nagar Township - Maninagar
+53,1178,22,Gota Vasant Nagar Township - Maninagar
+53,1179,23,Gota Vasant Nagar Township - Maninagar
+53,1180,24,Gota Vasant Nagar Township - Maninagar
+53,1181,25,Gota Vasant Nagar Township - Maninagar
+53,1182,26,Gota Vasant Nagar Township - Maninagar
+53,1183,27,Gota Vasant Nagar Township - Maninagar
+53,1184,28,Gota Vasant Nagar Township - Maninagar
+53,1185,29,Gota Vasant Nagar Township - Maninagar
+53,1186,30,Gota Vasant Nagar Township - Maninagar
+53,1187,31,Gota Vasant Nagar Township - Maninagar
+53,1188,32,Gota Vasant Nagar Township - Maninagar
+53,1189,33,Gota Vasant Nagar Township - Maninagar
+53,1190,34,Gota Vasant Nagar Township - Maninagar
+53,1191,35,Gota Vasant Nagar Township - Maninagar
+53,1192,36,Gota Vasant Nagar Township - Maninagar
+54,1193,1,Narol - Odhav Talav
+54,1194,2,Narol - Odhav Talav
+54,1195,3,Narol - Odhav Talav
+54,1196,4,Narol - Odhav Talav
+54,1197,5,Narol - Odhav Talav
+54,1198,6,Narol - Odhav Talav
+54,1199,7,Narol - Odhav Talav
+54,1200,8,Narol - Odhav Talav
+54,1201,9,Narol - Odhav Talav
+54,1202,10,Narol - Odhav Talav
+54,1203,11,Narol - Odhav Talav
+54,1204,12,Narol - Odhav Talav
+54,1205,13,Narol - Odhav Talav
+54,1206,14,Narol - Odhav Talav
+54,1207,15,Narol - Odhav Talav
+54,1208,16,Narol - Odhav Talav
+54,1209,17,Narol - Odhav Talav
+54,1210,18,Narol - Odhav Talav
+54,1211,19,Narol - Odhav Talav
+55,1212,1,Sarangpur Darwaja - Narol
+55,1213,2,Sarangpur Darwaja - Narol
+55,1214,3,Sarangpur Darwaja - Narol
+55,1215,4,Sarangpur Darwaja - Narol
+55,1216,5,Sarangpur Darwaja - Narol
+55,1217,6,Sarangpur Darwaja - Narol
+55,1218,7,Sarangpur Darwaja - Narol
+55,1219,8,Sarangpur Darwaja - Narol
+55,1220,9,Sarangpur Darwaja - Narol
+55,1221,10,Sarangpur Darwaja - Narol
+55,1222,11,Sarangpur Darwaja - Narol
+55,1223,12,Sarangpur Darwaja - Narol
+55,1224,13,Sarangpur Darwaja - Narol
+55,1225,14,Sarangpur Darwaja - Narol
+55,1226,15,Sarangpur Darwaja - Narol
+56,1227,1,Zundal Circle - Sarkari Litho Press
+56,1228,2,Zundal Circle - Sarkari Litho Press
+56,1229,3,Zundal Circle - Sarkari Litho Press
+56,1230,4,Zundal Circle - Sarkari Litho Press
+56,1231,5,Zundal Circle - Sarkari Litho Press
+56,1232,6,Zundal Circle - Sarkari Litho Press
+56,1233,7,Zundal Circle - Sarkari Litho Press
+56,1234,8,Zundal Circle - Sarkari Litho Press
+56,1235,9,Zundal Circle - Sarkari Litho Press
+56,1236,10,Zundal Circle - Sarkari Litho Press
+56,1237,11,Zundal Circle - Sarkari Litho Press
+56,1238,12,Zundal Circle - Sarkari Litho Press
+56,1239,13,Zundal Circle - Sarkari Litho Press
+56,1240,14,Zundal Circle - Sarkari Litho Press
+56,1241,15,Zundal Circle - Sarkari Litho Press
+56,1242,16,Zundal Circle - Sarkari Litho Press
+56,1243,17,Zundal Circle - Sarkari Litho Press
+56,1244,18,Zundal Circle - Sarkari Litho Press
+56,1245,19,Zundal Circle - Sarkari Litho Press
+56,1246,20,Zundal Circle - Sarkari Litho Press
+56,1247,21,Zundal Circle - Sarkari Litho Press
+56,1248,22,Zundal Circle - Sarkari Litho Press
+57,1249,1,Naroda Gam - Bhadaj Circle
+57,1250,2,Naroda Gam - Bhadaj Circle
+57,1251,3,Naroda Gam - Bhadaj Circle
+57,1252,4,Naroda Gam - Bhadaj Circle
+57,1253,5,Naroda Gam - Bhadaj Circle
+57,1254,6,Naroda Gam - Bhadaj Circle
+57,1255,7,Naroda Gam - Bhadaj Circle
+57,1256,8,Naroda Gam - Bhadaj Circle
+57,1257,9,Naroda Gam - Bhadaj Circle
+57,1258,10,Naroda Gam - Bhadaj Circle
+57,1259,11,Naroda Gam - Bhadaj Circle
+57,1260,12,Naroda Gam - Bhadaj Circle
+57,1261,13,Naroda Gam - Bhadaj Circle
+57,1262,14,Naroda Gam - Bhadaj Circle
+57,1263,15,Naroda Gam - Bhadaj Circle
+57,1264,16,Naroda Gam - Bhadaj Circle
+57,1265,17,Naroda Gam - Bhadaj Circle
+57,1266,18,Naroda Gam - Bhadaj Circle
+57,1267,19,Naroda Gam - Bhadaj Circle
+57,1268,20,Naroda Gam - Bhadaj Circle
+57,1269,21,Naroda Gam - Bhadaj Circle
+57,1270,22,Naroda Gam - Bhadaj Circle
+57,1271,23,Naroda Gam - Bhadaj Circle
+57,1272,24,Naroda Gam - Bhadaj Circle
+57,1273,25,Naroda Gam - Bhadaj Circle
+57,1274,26,Naroda Gam - Bhadaj Circle
+57,1275,27,Naroda Gam - Bhadaj Circle
+57,1276,28,Naroda Gam - Bhadaj Circle
+57,1277,29,Naroda Gam - Bhadaj Circle
+57,1278,30,Naroda Gam - Bhadaj Circle
+57,1279,31,Naroda Gam - Bhadaj Circle
+57,1280,32,Naroda Gam - Bhadaj Circle
+57,1281,33,Naroda Gam - Bhadaj Circle
+57,1282,34,Naroda Gam - Bhadaj Circle
+57,1283,35,Naroda Gam - Bhadaj Circle
+57,1284,36,Naroda Gam - Bhadaj Circle
+58,1285,1,Geeta Gauri Cinema - Naroda Gam
+58,1286,2,Geeta Gauri Cinema - Naroda Gam
+58,1287,3,Geeta Gauri Cinema - Naroda Gam
+58,1288,4,Geeta Gauri Cinema - Naroda Gam
+58,1289,5,Geeta Gauri Cinema - Naroda Gam
+58,1290,6,Geeta Gauri Cinema - Naroda Gam
+58,1291,7,Geeta Gauri Cinema - Naroda Gam
+58,1292,8,Geeta Gauri Cinema - Naroda Gam
+58,1293,9,Geeta Gauri Cinema - Naroda Gam
+58,1294,10,Geeta Gauri Cinema - Naroda Gam
+58,1295,11,Geeta Gauri Cinema - Naroda Gam
+58,1296,12,Geeta Gauri Cinema - Naroda Gam
+58,1297,13,Geeta Gauri Cinema - Naroda Gam
+59,1298,1,Jaimangal - Bhadaj Circle
+59,1299,2,Jaimangal - Bhadaj Circle
+59,1300,3,Jaimangal - Bhadaj Circle
+59,1301,4,Jaimangal - Bhadaj Circle
+59,1302,5,Jaimangal - Bhadaj Circle
+59,1303,6,Jaimangal - Bhadaj Circle
+59,1304,7,Jaimangal - Bhadaj Circle
+59,1305,8,Jaimangal - Bhadaj Circle
+59,1306,9,Jaimangal - Bhadaj Circle
+59,1307,10,Jaimangal - Bhadaj Circle
+59,1308,11,Jaimangal - Bhadaj Circle
+60,1309,1,SP Ring Road Approach - Naroda Gam
+60,1310,2,SP Ring Road Approach - Naroda Gam
+60,1311,3,SP Ring Road Approach - Naroda Gam
+60,1312,4,SP Ring Road Approach - Naroda Gam
+60,1313,5,SP Ring Road Approach - Naroda Gam
+60,1314,6,SP Ring Road Approach - Naroda Gam
+60,1315,7,SP Ring Road Approach - Naroda Gam
+60,1316,8,SP Ring Road Approach - Naroda Gam
+60,1317,9,SP Ring Road Approach - Naroda Gam
+60,1318,10,SP Ring Road Approach - Naroda Gam
+60,1319,11,SP Ring Road Approach - Naroda Gam
+60,1320,12,SP Ring Road Approach - Naroda Gam
+60,1321,13,SP Ring Road Approach - Naroda Gam
+60,1322,14,SP Ring Road Approach - Naroda Gam
+60,1323,15,SP Ring Road Approach - Naroda Gam
+60,1324,16,SP Ring Road Approach - Naroda Gam
+60,1325,17,SP Ring Road Approach - Naroda Gam
+60,1326,18,SP Ring Road Approach - Naroda Gam
+61,1327,1,Bhadaj Circle - Jaimangal
+61,1328,2,Bhadaj Circle - Jaimangal
+61,1329,3,Bhadaj Circle - Jaimangal
+61,1330,4,Bhadaj Circle - Jaimangal
+61,1331,5,Bhadaj Circle - Jaimangal
+61,1332,6,Bhadaj Circle - Jaimangal
+61,1333,7,Bhadaj Circle - Jaimangal
+61,1334,8,Bhadaj Circle - Jaimangal
+61,1335,9,Bhadaj Circle - Jaimangal
+61,1336,10,Bhadaj Circle - Jaimangal
+61,1337,11,Bhadaj Circle - Jaimangal
+61,1338,12,Bhadaj Circle - Jaimangal
+62,1339,1,Naroda Gam - Geeta Gauri Cinema
+62,1340,2,Naroda Gam - Geeta Gauri Cinema
+62,1341,3,Naroda Gam - Geeta Gauri Cinema
+62,1342,4,Naroda Gam - Geeta Gauri Cinema
+62,1343,5,Naroda Gam - Geeta Gauri Cinema
+62,1344,6,Naroda Gam - Geeta Gauri Cinema
+62,1345,7,Naroda Gam - Geeta Gauri Cinema
+62,1346,8,Naroda Gam - Geeta Gauri Cinema
+62,1347,9,Naroda Gam - Geeta Gauri Cinema
+62,1348,10,Naroda Gam - Geeta Gauri Cinema
+62,1349,11,Naroda Gam - Geeta Gauri Cinema
+62,1350,12,Naroda Gam - Geeta Gauri Cinema
+62,1351,13,Naroda Gam - Geeta Gauri Cinema
+63,1352,1,Rameshwar Park - R.T.O Circle
+63,1353,2,Rameshwar Park - R.T.O Circle
+63,1354,3,Rameshwar Park - R.T.O Circle
+63,1355,4,Rameshwar Park - R.T.O Circle
+63,1356,5,Rameshwar Park - R.T.O Circle
+63,1357,6,Rameshwar Park - R.T.O Circle
+63,1358,7,Rameshwar Park - R.T.O Circle
+63,1359,8,Rameshwar Park - R.T.O Circle
+63,1360,9,Rameshwar Park - R.T.O Circle
+63,1361,10,Rameshwar Park - R.T.O Circle
+63,1362,11,Rameshwar Park - R.T.O Circle
+63,1363,12,Rameshwar Park - R.T.O Circle
+63,1364,13,Rameshwar Park - R.T.O Circle
+63,1365,14,Rameshwar Park - R.T.O Circle
+63,1366,15,Rameshwar Park - R.T.O Circle
+63,1367,16,Rameshwar Park - R.T.O Circle
+63,1368,17,Rameshwar Park - R.T.O Circle
+63,1369,18,Rameshwar Park - R.T.O Circle
+63,1370,19,Rameshwar Park - R.T.O Circle
+63,1371,20,Rameshwar Park - R.T.O Circle
+63,1372,21,Rameshwar Park - R.T.O Circle
+63,1373,22,Rameshwar Park - R.T.O Circle
+63,1374,23,Rameshwar Park - R.T.O Circle
+63,1375,24,Rameshwar Park - R.T.O Circle
+63,1376,25,Rameshwar Park - R.T.O Circle
+63,1377,26,Rameshwar Park - R.T.O Circle
+63,1378,27,Rameshwar Park - R.T.O Circle
+63,1379,28,Rameshwar Park - R.T.O Circle
+63,1380,29,Rameshwar Park - R.T.O Circle
+63,1381,30,Rameshwar Park - R.T.O Circle
+63,1382,31,Rameshwar Park - R.T.O Circle
+63,1383,32,Rameshwar Park - R.T.O Circle
+63,1384,33,Rameshwar Park - R.T.O Circle
+63,1385,34,Rameshwar Park - R.T.O Circle
+63,1386,35,Rameshwar Park - R.T.O Circle
+63,1387,36,Rameshwar Park - R.T.O Circle
+63,1388,37,Rameshwar Park - R.T.O Circle
+63,1389,38,Rameshwar Park - R.T.O Circle
+63,1390,39,Rameshwar Park - R.T.O Circle
+64,1391,1,Rabari Colony - Chandkheda Gam
+64,1392,2,Rabari Colony - Chandkheda Gam
+64,1393,3,Rabari Colony - Chandkheda Gam
+64,1394,4,Rabari Colony - Chandkheda Gam
+64,1395,5,Rabari Colony - Chandkheda Gam
+64,1396,6,Rabari Colony - Chandkheda Gam
+64,1397,7,Rabari Colony - Chandkheda Gam
+64,1398,8,Rabari Colony - Chandkheda Gam
+64,1399,9,Rabari Colony - Chandkheda Gam
+64,1400,10,Rabari Colony - Chandkheda Gam
+64,1401,11,Rabari Colony - Chandkheda Gam
+64,1402,12,Rabari Colony - Chandkheda Gam
+64,1403,13,Rabari Colony - Chandkheda Gam
+64,1404,14,Rabari Colony - Chandkheda Gam
+64,1405,15,Rabari Colony - Chandkheda Gam
+64,1406,16,Rabari Colony - Chandkheda Gam
+64,1407,17,Rabari Colony - Chandkheda Gam
+64,1408,18,Rabari Colony - Chandkheda Gam
+64,1409,19,Rabari Colony - Chandkheda Gam
+64,1410,20,Rabari Colony - Chandkheda Gam
+64,1411,21,Rabari Colony - Chandkheda Gam
+64,1412,22,Rabari Colony - Chandkheda Gam
+64,1413,23,Rabari Colony - Chandkheda Gam
+64,1414,24,Rabari Colony - Chandkheda Gam
+64,1415,25,Rabari Colony - Chandkheda Gam
+64,1416,26,Rabari Colony - Chandkheda Gam
+64,1417,27,Rabari Colony - Chandkheda Gam
+64,1418,28,Rabari Colony - Chandkheda Gam
+64,1419,29,Rabari Colony - Chandkheda Gam
+64,1420,30,Rabari Colony - Chandkheda Gam
+64,1421,31,Rabari Colony - Chandkheda Gam
+64,1422,32,Rabari Colony - Chandkheda Gam
+64,1423,33,Rabari Colony - Chandkheda Gam
+64,1424,34,Rabari Colony - Chandkheda Gam
+64,1425,35,Rabari Colony - Chandkheda Gam
+64,1426,36,Rabari Colony - Chandkheda Gam
+64,1427,37,Rabari Colony - Chandkheda Gam
+64,1428,38,Rabari Colony - Chandkheda Gam
+64,1429,39,Rabari Colony - Chandkheda Gam
+64,1430,40,Rabari Colony - Chandkheda Gam
+64,1431,41,Rabari Colony - Chandkheda Gam
+64,1432,42,Rabari Colony - Chandkheda Gam
+64,1433,43,Rabari Colony - Chandkheda Gam
+64,1434,44,Rabari Colony - Chandkheda Gam
+64,1435,45,Rabari Colony - Chandkheda Gam
+64,1436,46,Rabari Colony - Chandkheda Gam
+65,1437,1,Rabari Colony - R.T.O Circle
+65,1438,2,Rabari Colony - R.T.O Circle
+65,1439,3,Rabari Colony - R.T.O Circle
+65,1440,4,Rabari Colony - R.T.O Circle
+65,1441,5,Rabari Colony - R.T.O Circle
+65,1442,6,Rabari Colony - R.T.O Circle
+65,1443,7,Rabari Colony - R.T.O Circle
+65,1444,8,Rabari Colony - R.T.O Circle
+65,1445,9,Rabari Colony - R.T.O Circle
+65,1446,10,Rabari Colony - R.T.O Circle
+65,1447,11,Rabari Colony - R.T.O Circle
+65,1448,12,Rabari Colony - R.T.O Circle
+65,1449,13,Rabari Colony - R.T.O Circle
+65,1450,14,Rabari Colony - R.T.O Circle
+65,1451,15,Rabari Colony - R.T.O Circle
+65,1452,16,Rabari Colony - R.T.O Circle
+65,1453,17,Rabari Colony - R.T.O Circle
+65,1454,18,Rabari Colony - R.T.O Circle
+65,1455,19,Rabari Colony - R.T.O Circle
+65,1456,20,Rabari Colony - R.T.O Circle
+65,1457,21,Rabari Colony - R.T.O Circle
+65,1458,22,Rabari Colony - R.T.O Circle
+65,1459,23,Rabari Colony - R.T.O Circle
+65,1460,24,Rabari Colony - R.T.O Circle
+65,1461,25,Rabari Colony - R.T.O Circle
+65,1462,26,Rabari Colony - R.T.O Circle
+65,1463,27,Rabari Colony - R.T.O Circle
+65,1464,28,Rabari Colony - R.T.O Circle
+65,1465,29,Rabari Colony - R.T.O Circle
+65,1466,30,Rabari Colony - R.T.O Circle
+65,1467,31,Rabari Colony - R.T.O Circle
+65,1468,32,Rabari Colony - R.T.O Circle
+65,1469,33,Rabari Colony - R.T.O Circle
+65,1470,34,Rabari Colony - R.T.O Circle
+65,1471,35,Rabari Colony - R.T.O Circle
+66,1472,1,Bhadaj Circle - Naroda Gam
+66,1473,2,Bhadaj Circle - Naroda Gam
+66,1474,3,Bhadaj Circle - Naroda Gam
+66,1475,4,Bhadaj Circle - Naroda Gam
+66,1476,5,Bhadaj Circle - Naroda Gam
+66,1477,6,Bhadaj Circle - Naroda Gam
+66,1478,7,Bhadaj Circle - Naroda Gam
+66,1479,8,Bhadaj Circle - Naroda Gam
+66,1480,9,Bhadaj Circle - Naroda Gam
+66,1481,10,Bhadaj Circle - Naroda Gam
+66,1482,11,Bhadaj Circle - Naroda Gam
+66,1483,12,Bhadaj Circle - Naroda Gam
+66,1484,13,Bhadaj Circle - Naroda Gam
+66,1485,14,Bhadaj Circle - Naroda Gam
+66,1486,15,Bhadaj Circle - Naroda Gam
+66,1487,16,Bhadaj Circle - Naroda Gam
+66,1488,17,Bhadaj Circle - Naroda Gam
+66,1489,18,Bhadaj Circle - Naroda Gam
+66,1490,19,Bhadaj Circle - Naroda Gam
+66,1491,20,Bhadaj Circle - Naroda Gam
+66,1492,21,Bhadaj Circle - Naroda Gam
+66,1493,22,Bhadaj Circle - Naroda Gam
+66,1494,23,Bhadaj Circle - Naroda Gam
+66,1495,24,Bhadaj Circle - Naroda Gam
+66,1496,25,Bhadaj Circle - Naroda Gam
+66,1497,26,Bhadaj Circle - Naroda Gam
+66,1498,27,Bhadaj Circle - Naroda Gam
+66,1499,28,Bhadaj Circle - Naroda Gam
+66,1500,29,Bhadaj Circle - Naroda Gam
+66,1501,30,Bhadaj Circle - Naroda Gam
+66,1502,31,Bhadaj Circle - Naroda Gam
+66,1503,32,Bhadaj Circle - Naroda Gam
+66,1504,33,Bhadaj Circle - Naroda Gam
+66,1505,34,Bhadaj Circle - Naroda Gam
+66,1506,35,Bhadaj Circle - Naroda Gam
+67,1507,1,LD Engg College - Gota Vasant Nagar Township
+67,1508,2,LD Engg College - Gota Vasant Nagar Township
+67,1509,3,LD Engg College - Gota Vasant Nagar Township
+67,1510,4,LD Engg College - Gota Vasant Nagar Township
+67,1511,5,LD Engg College - Gota Vasant Nagar Township
+67,1512,6,LD Engg College - Gota Vasant Nagar Township
+67,1513,7,LD Engg College - Gota Vasant Nagar Township
+67,1514,8,LD Engg College - Gota Vasant Nagar Township
+67,1515,9,LD Engg College - Gota Vasant Nagar Township
+67,1516,10,LD Engg College - Gota Vasant Nagar Township
+67,1517,11,LD Engg College - Gota Vasant Nagar Township
+67,1518,12,LD Engg College - Gota Vasant Nagar Township
+67,1519,13,LD Engg College - Gota Vasant Nagar Township
+67,1520,14,LD Engg College - Gota Vasant Nagar Township
+67,1521,15,LD Engg College - Gota Vasant Nagar Township
+67,1522,16,LD Engg College - Gota Vasant Nagar Township
+67,1523,17,LD Engg College - Gota Vasant Nagar Township
+67,1524,18,LD Engg College - Gota Vasant Nagar Township
+67,1525,19,LD Engg College - Gota Vasant Nagar Township
+67,1526,20,LD Engg College - Gota Vasant Nagar Township
+67,1527,21,LD Engg College - Gota Vasant Nagar Township
+67,1528,22,LD Engg College - Gota Vasant Nagar Township
+68,1529,1,Maninagar - Gota Vasant Nagar Township
+68,1530,2,Maninagar - Gota Vasant Nagar Township
+68,1531,3,Maninagar - Gota Vasant Nagar Township
+68,1532,4,Maninagar - Gota Vasant Nagar Township
+68,1533,5,Maninagar - Gota Vasant Nagar Township
+68,1534,6,Maninagar - Gota Vasant Nagar Township
+68,1535,7,Maninagar - Gota Vasant Nagar Township
+68,1536,8,Maninagar - Gota Vasant Nagar Township
+68,1537,9,Maninagar - Gota Vasant Nagar Township
+68,1538,10,Maninagar - Gota Vasant Nagar Township
+68,1539,11,Maninagar - Gota Vasant Nagar Township
+68,1540,12,Maninagar - Gota Vasant Nagar Township
+68,1541,13,Maninagar - Gota Vasant Nagar Township
+68,1542,14,Maninagar - Gota Vasant Nagar Township
+68,1543,15,Maninagar - Gota Vasant Nagar Township
+68,1544,16,Maninagar - Gota Vasant Nagar Township
+68,1545,17,Maninagar - Gota Vasant Nagar Township
+68,1546,18,Maninagar - Gota Vasant Nagar Township
+68,1547,19,Maninagar - Gota Vasant Nagar Township
+68,1548,20,Maninagar - Gota Vasant Nagar Township
+68,1549,21,Maninagar - Gota Vasant Nagar Township
+68,1550,22,Maninagar - Gota Vasant Nagar Township
+68,1551,23,Maninagar - Gota Vasant Nagar Township
+68,1552,24,Maninagar - Gota Vasant Nagar Township
+68,1553,25,Maninagar - Gota Vasant Nagar Township
+68,1554,26,Maninagar - Gota Vasant Nagar Township
+68,1555,27,Maninagar - Gota Vasant Nagar Township
+68,1556,28,Maninagar - Gota Vasant Nagar Township
+68,1557,29,Maninagar - Gota Vasant Nagar Township
+68,1558,30,Maninagar - Gota Vasant Nagar Township
+68,1559,31,Maninagar - Gota Vasant Nagar Township
+68,1560,32,Maninagar - Gota Vasant Nagar Township
+68,1561,33,Maninagar - Gota Vasant Nagar Township
+68,1562,34,Maninagar - Gota Vasant Nagar Township
+68,1563,35,Maninagar - Gota Vasant Nagar Township
+68,1564,36,Maninagar - Gota Vasant Nagar Township
+68,1565,37,Maninagar - Gota Vasant Nagar Township
+68,1566,38,Maninagar - Gota Vasant Nagar Township
+68,1567,39,Maninagar - Gota Vasant Nagar Township
+68,1568,40,Maninagar - Gota Vasant Nagar Township
+69,1569,1,Chhipa Society - Maninagar
+69,1570,2,Chhipa Society - Maninagar
+69,1571,3,Chhipa Society - Maninagar
+69,1572,4,Chhipa Society - Maninagar
+69,1573,5,Chhipa Society - Maninagar
+69,1574,6,Chhipa Society - Maninagar
+69,1575,7,Chhipa Society - Maninagar
+69,1576,8,Chhipa Society - Maninagar
+69,1577,9,Chhipa Society - Maninagar
+70,1578,1,Jaimangal - L.D Engg College
+70,1579,2,Jaimangal - L.D Engg College
+70,1580,3,Jaimangal - L.D Engg College
+70,1581,4,Jaimangal - L.D Engg College
+70,1582,5,Jaimangal - L.D Engg College
+70,1583,6,Jaimangal - L.D Engg College
+70,1584,7,Jaimangal - L.D Engg College
+70,1585,8,Jaimangal - L.D Engg College
+70,1586,9,Jaimangal - L.D Engg College
+70,1587,10,Jaimangal - L.D Engg College
+70,1588,11,Jaimangal - L.D Engg College
+70,1589,12,Jaimangal - L.D Engg College
+70,1590,13,Jaimangal - L.D Engg College
+70,1591,14,Jaimangal - L.D Engg College
+71,1592,1,Jaimangal - Maninagar
+71,1593,2,Jaimangal - Maninagar
+71,1594,3,Jaimangal - Maninagar
+71,1595,4,Jaimangal - Maninagar
+71,1596,5,Jaimangal - Maninagar
+71,1597,6,Jaimangal - Maninagar
+71,1598,7,Jaimangal - Maninagar
+71,1599,8,Jaimangal - Maninagar
+71,1600,9,Jaimangal - Maninagar
+71,1601,10,Jaimangal - Maninagar
+71,1602,11,Jaimangal - Maninagar
+71,1603,12,Jaimangal - Maninagar
+71,1604,13,Jaimangal - Maninagar
+71,1605,14,Jaimangal - Maninagar
+71,1606,15,Jaimangal - Maninagar
+71,1607,16,Jaimangal - Maninagar
+71,1608,17,Jaimangal - Maninagar
+71,1609,18,Jaimangal - Maninagar
+71,1610,19,Jaimangal - Maninagar
+71,1611,20,Jaimangal - Maninagar
+71,1612,21,Jaimangal - Maninagar
+71,1613,22,Jaimangal - Maninagar
+71,1614,23,Jaimangal - Maninagar
+71,1615,24,Jaimangal - Maninagar
+71,1616,25,Jaimangal - Maninagar
+71,1617,26,Jaimangal - Maninagar
+71,1618,27,Jaimangal - Maninagar
+71,1619,28,Jaimangal - Maninagar
+71,1620,29,Jaimangal - Maninagar
+72,1621,1,Jaimangal - Gota Vasant Nagar Township
+72,1622,2,Jaimangal - Gota Vasant Nagar Township
+72,1623,3,Jaimangal - Gota Vasant Nagar Township
+72,1624,4,Jaimangal - Gota Vasant Nagar Township
+72,1625,5,Jaimangal - Gota Vasant Nagar Township
+72,1626,6,Jaimangal - Gota Vasant Nagar Township
+72,1627,7,Jaimangal - Gota Vasant Nagar Township
+72,1628,8,Jaimangal - Gota Vasant Nagar Township
+72,1629,9,Jaimangal - Gota Vasant Nagar Township
+72,1630,10,Jaimangal - Gota Vasant Nagar Township
+72,1631,11,Jaimangal - Gota Vasant Nagar Township
+73,1632,1,Maninagar - Jaimangal
+73,1633,2,Maninagar - Jaimangal
+73,1634,3,Maninagar - Jaimangal
+73,1635,4,Maninagar - Jaimangal
+73,1636,5,Maninagar - Jaimangal
+73,1637,6,Maninagar - Jaimangal
+73,1638,7,Maninagar - Jaimangal
+73,1639,8,Maninagar - Jaimangal
+73,1640,9,Maninagar - Jaimangal
+73,1641,10,Maninagar - Jaimangal
+73,1642,11,Maninagar - Jaimangal
+73,1643,12,Maninagar - Jaimangal
+73,1644,13,Maninagar - Jaimangal
+73,1645,14,Maninagar - Jaimangal
+73,1646,15,Maninagar - Jaimangal
+73,1647,16,Maninagar - Jaimangal
+73,1648,17,Maninagar - Jaimangal
+73,1649,18,Maninagar - Jaimangal
+73,1650,19,Maninagar - Jaimangal
+73,1651,20,Maninagar - Jaimangal
+73,1652,21,Maninagar - Jaimangal
+73,1653,22,Maninagar - Jaimangal
+73,1654,23,Maninagar - Jaimangal
+73,1655,24,Maninagar - Jaimangal
+73,1656,25,Maninagar - Jaimangal
+73,1657,26,Maninagar - Jaimangal
+73,1658,27,Maninagar - Jaimangal
+73,1659,28,Maninagar - Jaimangal
+73,1660,29,Maninagar - Jaimangal
+73,1661,30,Maninagar - Jaimangal
+74,1662,1,Maninagar - Kashiram Textiles
+74,1663,2,Maninagar - Kashiram Textiles
+74,1664,3,Maninagar - Kashiram Textiles
+74,1665,4,Maninagar - Kashiram Textiles
+74,1666,5,Maninagar - Kashiram Textiles
+74,1667,6,Maninagar - Kashiram Textiles
+74,1668,7,Maninagar - Kashiram Textiles
+74,1669,8,Maninagar - Kashiram Textiles
+74,1670,9,Maninagar - Kashiram Textiles
+74,1671,10,Maninagar - Kashiram Textiles
+74,1672,11,Maninagar - Kashiram Textiles
+74,1673,12,Maninagar - Kashiram Textiles
+74,1674,13,Maninagar - Kashiram Textiles
+75,1675,1,Ajit Mill - Odhav Ring Road
+75,1676,2,Ajit Mill - Odhav Ring Road
+75,1677,3,Ajit Mill - Odhav Ring Road
+75,1678,4,Ajit Mill - Odhav Ring Road
+75,1679,5,Ajit Mill - Odhav Ring Road
+75,1680,6,Ajit Mill - Odhav Ring Road
+75,1681,7,Ajit Mill - Odhav Ring Road
+75,1682,8,Ajit Mill - Odhav Ring Road
+75,1683,9,Ajit Mill - Odhav Ring Road
+76,1684,1,LD Engg. College - Odhav Ring Road
+76,1685,2,LD Engg. College - Odhav Ring Road
+76,1686,3,LD Engg. College - Odhav Ring Road
+76,1687,4,LD Engg. College - Odhav Ring Road
+76,1688,5,LD Engg. College - Odhav Ring Road
+76,1689,6,LD Engg. College - Odhav Ring Road
+76,1690,7,LD Engg. College - Odhav Ring Road
+76,1691,8,LD Engg. College - Odhav Ring Road
+76,1692,9,LD Engg. College - Odhav Ring Road
+76,1693,10,LD Engg. College - Odhav Ring Road
+76,1694,11,LD Engg. College - Odhav Ring Road
+76,1695,12,LD Engg. College - Odhav Ring Road
+76,1696,13,LD Engg. College - Odhav Ring Road
+76,1697,14,LD Engg. College - Odhav Ring Road
+76,1698,15,LD Engg. College - Odhav Ring Road
+76,1699,16,LD Engg. College - Odhav Ring Road
+76,1700,17,LD Engg. College - Odhav Ring Road
+76,1701,18,LD Engg. College - Odhav Ring Road
+76,1702,19,LD Engg. College - Odhav Ring Road
+76,1703,20,LD Engg. College - Odhav Ring Road
+76,1704,21,LD Engg. College - Odhav Ring Road
+76,1705,22,LD Engg. College - Odhav Ring Road
+76,1706,23,LD Engg. College - Odhav Ring Road
+76,1707,24,LD Engg. College - Odhav Ring Road
+76,1708,25,LD Engg. College - Odhav Ring Road
+77,1709,1,LD Engg.College - Soma Textiles
+77,1710,2,LD Engg.College - Soma Textiles
+77,1711,3,LD Engg.College - Soma Textiles
+77,1712,4,LD Engg.College - Soma Textiles
+77,1713,5,LD Engg.College - Soma Textiles
+77,1714,6,LD Engg.College - Soma Textiles
+77,1715,7,LD Engg.College - Soma Textiles
+77,1716,8,LD Engg.College - Soma Textiles
+77,1717,9,LD Engg.College - Soma Textiles
+77,1718,10,LD Engg.College - Soma Textiles
+77,1719,11,LD Engg.College - Soma Textiles
+78,1720,1,R.T.O Circle - Rabari Colony
+78,1721,2,R.T.O Circle - Rabari Colony
+78,1722,3,R.T.O Circle - Rabari Colony
+78,1723,4,R.T.O Circle - Rabari Colony
+78,1724,5,R.T.O Circle - Rabari Colony
+78,1725,6,R.T.O Circle - Rabari Colony
+78,1726,7,R.T.O Circle - Rabari Colony
+78,1727,8,R.T.O Circle - Rabari Colony
+78,1728,9,R.T.O Circle - Rabari Colony
+78,1729,10,R.T.O Circle - Rabari Colony
+78,1730,11,R.T.O Circle - Rabari Colony
+78,1731,12,R.T.O Circle - Rabari Colony
+78,1732,13,R.T.O Circle - Rabari Colony
+78,1733,14,R.T.O Circle - Rabari Colony
+78,1734,15,R.T.O Circle - Rabari Colony
+78,1735,16,R.T.O Circle - Rabari Colony
+78,1736,17,R.T.O Circle - Rabari Colony
+78,1737,18,R.T.O Circle - Rabari Colony
+78,1738,19,R.T.O Circle - Rabari Colony
+78,1739,20,R.T.O Circle - Rabari Colony
+78,1740,21,R.T.O Circle - Rabari Colony
+78,1741,22,R.T.O Circle - Rabari Colony
+78,1742,23,R.T.O Circle - Rabari Colony
+78,1743,24,R.T.O Circle - Rabari Colony
+78,1744,25,R.T.O Circle - Rabari Colony
+78,1745,26,R.T.O Circle - Rabari Colony
+78,1746,27,R.T.O Circle - Rabari Colony
+78,1747,28,R.T.O Circle - Rabari Colony
+78,1748,29,R.T.O Circle - Rabari Colony
+78,1749,30,R.T.O Circle - Rabari Colony
+78,1750,31,R.T.O Circle - Rabari Colony
+78,1751,32,R.T.O Circle - Rabari Colony
+78,1752,33,R.T.O Circle - Rabari Colony
+78,1753,34,R.T.O Circle - Rabari Colony
+78,1754,35,R.T.O Circle - Rabari Colony
+78,1755,36,R.T.O Circle - Rabari Colony
+78,1756,37,R.T.O Circle - Rabari Colony
+79,1757,1,R.T.O Circle - Rameshwar Park
+79,1758,2,R.T.O Circle - Rameshwar Park
+79,1759,3,R.T.O Circle - Rameshwar Park
+79,1760,4,R.T.O Circle - Rameshwar Park
+79,1761,5,R.T.O Circle - Rameshwar Park
+79,1762,6,R.T.O Circle - Rameshwar Park
+79,1763,7,R.T.O Circle - Rameshwar Park
+79,1764,8,R.T.O Circle - Rameshwar Park
+79,1765,9,R.T.O Circle - Rameshwar Park
+79,1766,10,R.T.O Circle - Rameshwar Park
+79,1767,11,R.T.O Circle - Rameshwar Park
+79,1768,12,R.T.O Circle - Rameshwar Park
+79,1769,13,R.T.O Circle - Rameshwar Park
+79,1770,14,R.T.O Circle - Rameshwar Park
+79,1771,15,R.T.O Circle - Rameshwar Park
+79,1772,16,R.T.O Circle - Rameshwar Park
+79,1773,17,R.T.O Circle - Rameshwar Park
+79,1774,18,R.T.O Circle - Rameshwar Park
+79,1775,19,R.T.O Circle - Rameshwar Park
+79,1776,20,R.T.O Circle - Rameshwar Park
+79,1777,21,R.T.O Circle - Rameshwar Park
+79,1778,22,R.T.O Circle - Rameshwar Park
+79,1779,23,R.T.O Circle - Rameshwar Park
+79,1780,24,R.T.O Circle - Rameshwar Park
+79,1781,25,R.T.O Circle - Rameshwar Park
+79,1782,26,R.T.O Circle - Rameshwar Park
+79,1783,27,R.T.O Circle - Rameshwar Park
+79,1784,28,R.T.O Circle - Rameshwar Park
+79,1785,29,R.T.O Circle - Rameshwar Park
+79,1786,30,R.T.O Circle - Rameshwar Park
+79,1787,31,R.T.O Circle - Rameshwar Park
+79,1788,32,R.T.O Circle - Rameshwar Park
+79,1789,33,R.T.O Circle - Rameshwar Park
+79,1790,34,R.T.O Circle - Rameshwar Park
+79,1791,35,R.T.O Circle - Rameshwar Park
+79,1792,36,R.T.O Circle - Rameshwar Park
+79,1793,37,R.T.O Circle - Rameshwar Park
+79,1794,38,R.T.O Circle - Rameshwar Park
+79,1795,39,R.T.O Circle - Rameshwar Park
+80,1796,1,Odhav Ring Road - Sanand Circle
+80,1797,2,Odhav Ring Road - Sanand Circle
+80,1798,3,Odhav Ring Road - Sanand Circle
+80,1799,4,Odhav Ring Road - Sanand Circle
+80,1800,5,Odhav Ring Road - Sanand Circle
+80,1801,6,Odhav Ring Road - Sanand Circle
+80,1802,7,Odhav Ring Road - Sanand Circle
+80,1803,8,Odhav Ring Road - Sanand Circle
+80,1804,9,Odhav Ring Road - Sanand Circle
+80,1805,10,Odhav Ring Road - Sanand Circle
+80,1806,11,Odhav Ring Road - Sanand Circle
+80,1807,12,Odhav Ring Road - Sanand Circle
+80,1808,13,Odhav Ring Road - Sanand Circle
+80,1809,14,Odhav Ring Road - Sanand Circle
+80,1810,15,Odhav Ring Road - Sanand Circle
+80,1811,16,Odhav Ring Road - Sanand Circle
+80,1812,17,Odhav Ring Road - Sanand Circle
+80,1813,18,Odhav Ring Road - Sanand Circle
+80,1814,19,Odhav Ring Road - Sanand Circle
+80,1815,20,Odhav Ring Road - Sanand Circle
+80,1816,21,Odhav Ring Road - Sanand Circle
+80,1817,22,Odhav Ring Road - Sanand Circle
+80,1818,23,Odhav Ring Road - Sanand Circle
+80,1819,24,Odhav Ring Road - Sanand Circle
+80,1820,25,Odhav Ring Road - Sanand Circle
+80,1821,26,Odhav Ring Road - Sanand Circle
+80,1822,27,Odhav Ring Road - Sanand Circle
+80,1823,28,Odhav Ring Road - Sanand Circle
+80,1824,29,Odhav Ring Road - Sanand Circle
+80,1825,30,Odhav Ring Road - Sanand Circle
+80,1826,31,Odhav Ring Road - Sanand Circle
+80,1827,32,Odhav Ring Road - Sanand Circle
+80,1828,33,Odhav Ring Road - Sanand Circle
+80,1829,34,Odhav Ring Road - Sanand Circle
+81,1830,1,Sarangpur Darwaja - Sanand Circle
+81,1831,2,Sarangpur Darwaja - Sanand Circle
+81,1832,3,Sarangpur Darwaja - Sanand Circle
+81,1833,4,Sarangpur Darwaja - Sanand Circle
+81,1834,5,Sarangpur Darwaja - Sanand Circle
+81,1835,6,Sarangpur Darwaja - Sanand Circle
+81,1836,7,Sarangpur Darwaja - Sanand Circle
+81,1837,8,Sarangpur Darwaja - Sanand Circle
+81,1838,9,Sarangpur Darwaja - Sanand Circle
+81,1839,10,Sarangpur Darwaja - Sanand Circle
+81,1840,11,Sarangpur Darwaja - Sanand Circle
+81,1841,12,Sarangpur Darwaja - Sanand Circle
+81,1842,13,Sarangpur Darwaja - Sanand Circle
+81,1843,14,Sarangpur Darwaja - Sanand Circle
+81,1844,15,Sarangpur Darwaja - Sanand Circle
+81,1845,16,Sarangpur Darwaja - Sanand Circle
+81,1846,17,Sarangpur Darwaja - Sanand Circle
+81,1847,18,Sarangpur Darwaja - Sanand Circle
+81,1848,19,Sarangpur Darwaja - Sanand Circle
+81,1849,20,Sarangpur Darwaja - Sanand Circle
+81,1850,21,Sarangpur Darwaja - Sanand Circle
+82,1851,1,Jaimangal - Sanand Circle
+82,1852,2,Jaimangal - Sanand Circle
+82,1853,3,Jaimangal - Sanand Circle
+82,1854,4,Jaimangal - Sanand Circle
+82,1855,5,Jaimangal - Sanand Circle
+82,1856,6,Jaimangal - Sanand Circle
+82,1857,7,Jaimangal - Sanand Circle
+82,1858,8,Jaimangal - Sanand Circle
+82,1859,9,Jaimangal - Sanand Circle
+82,1860,10,Jaimangal - Sanand Circle
+82,1861,11,Jaimangal - Sanand Circle
+82,1862,12,Jaimangal - Sanand Circle
+82,1863,13,Jaimangal - Sanand Circle
+82,1864,14,Jaimangal - Sanand Circle
+82,1865,15,Jaimangal - Sanand Circle
+82,1866,16,Jaimangal - Sanand Circle
+83,1867,1,Sanand Circle - Jaimangal
+83,1868,2,Sanand Circle - Jaimangal
+83,1869,3,Sanand Circle - Jaimangal
+83,1870,4,Sanand Circle - Jaimangal
+83,1871,5,Sanand Circle - Jaimangal
+83,1872,6,Sanand Circle - Jaimangal
+83,1873,7,Sanand Circle - Jaimangal
+83,1874,8,Sanand Circle - Jaimangal
+83,1875,9,Sanand Circle - Jaimangal
+83,1876,10,Sanand Circle - Jaimangal
+83,1877,11,Sanand Circle - Jaimangal
+83,1878,12,Sanand Circle - Jaimangal
+83,1879,13,Sanand Circle - Jaimangal
+83,1880,14,Sanand Circle - Jaimangal
+83,1881,15,Sanand Circle - Jaimangal
+83,1882,16,Sanand Circle - Jaimangal
+84,1883,1,Sanand Circle - Odhav Ring Road
+84,1884,2,Sanand Circle - Odhav Ring Road
+84,1885,3,Sanand Circle - Odhav Ring Road
+84,1886,4,Sanand Circle - Odhav Ring Road
+84,1887,5,Sanand Circle - Odhav Ring Road
+84,1888,6,Sanand Circle - Odhav Ring Road
+84,1889,7,Sanand Circle - Odhav Ring Road
+84,1890,8,Sanand Circle - Odhav Ring Road
+84,1891,9,Sanand Circle - Odhav Ring Road
+84,1892,10,Sanand Circle - Odhav Ring Road
+84,1893,11,Sanand Circle - Odhav Ring Road
+84,1894,12,Sanand Circle - Odhav Ring Road
+84,1895,13,Sanand Circle - Odhav Ring Road
+84,1896,14,Sanand Circle - Odhav Ring Road
+84,1897,15,Sanand Circle - Odhav Ring Road
+84,1898,16,Sanand Circle - Odhav Ring Road
+84,1899,17,Sanand Circle - Odhav Ring Road
+84,1900,18,Sanand Circle - Odhav Ring Road
+84,1901,19,Sanand Circle - Odhav Ring Road
+84,1902,20,Sanand Circle - Odhav Ring Road
+84,1903,21,Sanand Circle - Odhav Ring Road
+84,1904,22,Sanand Circle - Odhav Ring Road
+84,1905,23,Sanand Circle - Odhav Ring Road
+84,1906,24,Sanand Circle - Odhav Ring Road
+84,1907,25,Sanand Circle - Odhav Ring Road
+84,1908,26,Sanand Circle - Odhav Ring Road
+84,1909,27,Sanand Circle - Odhav Ring Road
+84,1910,28,Sanand Circle - Odhav Ring Road
+84,1911,29,Sanand Circle - Odhav Ring Road
+84,1912,30,Sanand Circle - Odhav Ring Road
+84,1913,31,Sanand Circle - Odhav Ring Road
+84,1914,32,Sanand Circle - Odhav Ring Road
+84,1915,33,Sanand Circle - Odhav Ring Road
+85,1916,1,Sanand Circle - Sarangpur Darwaja
+85,1917,2,Sanand Circle - Sarangpur Darwaja
+85,1918,3,Sanand Circle - Sarangpur Darwaja
+85,1919,4,Sanand Circle - Sarangpur Darwaja
+85,1920,5,Sanand Circle - Sarangpur Darwaja
+85,1921,6,Sanand Circle - Sarangpur Darwaja
+85,1922,7,Sanand Circle - Sarangpur Darwaja
+85,1923,8,Sanand Circle - Sarangpur Darwaja
+85,1924,9,Sanand Circle - Sarangpur Darwaja
+85,1925,10,Sanand Circle - Sarangpur Darwaja
+85,1926,11,Sanand Circle - Sarangpur Darwaja
+85,1927,12,Sanand Circle - Sarangpur Darwaja
+85,1928,13,Sanand Circle - Sarangpur Darwaja
+85,1929,14,Sanand Circle - Sarangpur Darwaja
+85,1930,15,Sanand Circle - Sarangpur Darwaja
+85,1931,16,Sanand Circle - Sarangpur Darwaja
+85,1932,17,Sanand Circle - Sarangpur Darwaja
+85,1933,18,Sanand Circle - Sarangpur Darwaja
+85,1934,19,Sanand Circle - Sarangpur Darwaja
+85,1935,20,Sanand Circle - Sarangpur Darwaja
+86,1936,1,Iskcon Cross Road - R.T.O Circle
+86,1937,2,Iskcon Cross Road - R.T.O Circle
+86,1938,3,Iskcon Cross Road - R.T.O Circle
+86,1939,4,Iskcon Cross Road - R.T.O Circle
+86,1940,5,Iskcon Cross Road - R.T.O Circle
+86,1941,6,Iskcon Cross Road - R.T.O Circle
+86,1942,7,Iskcon Cross Road - R.T.O Circle
+86,1943,8,Iskcon Cross Road - R.T.O Circle
+86,1944,9,Iskcon Cross Road - R.T.O Circle
+86,1945,10,Iskcon Cross Road - R.T.O Circle
+86,1946,11,Iskcon Cross Road - R.T.O Circle
+86,1947,12,Iskcon Cross Road - R.T.O Circle
+86,1948,13,Iskcon Cross Road - R.T.O Circle
+86,1949,14,Iskcon Cross Road - R.T.O Circle
+86,1950,15,Iskcon Cross Road - R.T.O Circle
+86,1951,16,Iskcon Cross Road - R.T.O Circle
+86,1952,17,Iskcon Cross Road - R.T.O Circle
+86,1953,18,Iskcon Cross Road - R.T.O Circle
+87,1954,1,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1955,2,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1956,3,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1957,4,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1958,5,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1959,6,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1960,7,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1961,8,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1962,9,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1963,10,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1964,11,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1965,12,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1966,13,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1967,14,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1968,15,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1969,16,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1970,17,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1971,18,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1972,19,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1973,20,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1974,21,Iskcon Cross Road - Ahmedabad Domestic Airport
+87,1975,22,Iskcon Cross Road - Ahmedabad Domestic Airport
+88,1976,1,Jaimangal - Iskcon Cross Road
+88,1977,2,Jaimangal - Iskcon Cross Road
+88,1978,3,Jaimangal - Iskcon Cross Road
+88,1979,4,Jaimangal - Iskcon Cross Road
+88,1980,5,Jaimangal - Iskcon Cross Road
+88,1981,6,Jaimangal - Iskcon Cross Road
+88,1982,7,Jaimangal - Iskcon Cross Road
+88,1983,8,Jaimangal - Iskcon Cross Road
+88,1984,9,Jaimangal - Iskcon Cross Road
+88,1985,10,Jaimangal - Iskcon Cross Road
+88,1986,11,Jaimangal - Iskcon Cross Road
+88,1987,12,Jaimangal - Iskcon Cross Road
+89,1988,1,Pragatinagar - Airport
+89,1989,2,Pragatinagar - Airport
+89,1990,3,Pragatinagar - Airport
+89,1991,4,Pragatinagar - Airport
+89,1992,5,Pragatinagar - Airport
+89,1993,6,Pragatinagar - Airport
+89,1994,7,Pragatinagar - Airport
+89,1995,8,Pragatinagar - Airport
+89,1996,9,Pragatinagar - Airport
+90,1997,1,Pragatinagar - R.T.O Circle
+90,1998,2,Pragatinagar - R.T.O Circle
+90,1999,3,Pragatinagar - R.T.O Circle
+90,2000,4,Pragatinagar - R.T.O Circle
+90,2001,5,Pragatinagar - R.T.O Circle
+91,2002,1,Airport - Shastrinagar
+91,2003,2,Airport - Shastrinagar
+91,2004,3,Airport - Shastrinagar
+91,2005,4,Airport - Shastrinagar
+91,2006,5,Airport - Shastrinagar
+91,2007,6,Airport - Shastrinagar
+91,2008,7,Airport - Shastrinagar
+91,2009,8,Airport - Shastrinagar
+91,2010,9,Airport - Shastrinagar
+91,2011,10,Airport - Shastrinagar
+91,2012,11,Airport - Shastrinagar
+92,2013,1,Iskcon Cross Road - Jaimangal
+92,2014,2,Iskcon Cross Road - Jaimangal
+92,2015,3,Iskcon Cross Road - Jaimangal
+92,2016,4,Iskcon Cross Road - Jaimangal
+92,2017,5,Iskcon Cross Road - Jaimangal
+92,2018,6,Iskcon Cross Road - Jaimangal
+92,2019,7,Iskcon Cross Road - Jaimangal
+92,2020,8,Iskcon Cross Road - Jaimangal
+92,2021,9,Iskcon Cross Road - Jaimangal
+92,2022,10,Iskcon Cross Road - Jaimangal
+92,2023,11,Iskcon Cross Road - Jaimangal
+92,2024,12,Iskcon Cross Road - Jaimangal
+93,2025,1,R.T.O Circle - Shastrinagar
+93,2026,2,R.T.O Circle - Shastrinagar
+93,2027,3,R.T.O Circle - Shastrinagar
+93,2028,4,R.T.O Circle - Shastrinagar
+93,2029,5,R.T.O Circle - Shastrinagar
+93,2030,6,R.T.O Circle - Shastrinagar
+94,2031,1,R.T.O Circle - Iskcon Cross Road
+94,2032,2,R.T.O Circle - Iskcon Cross Road
+94,2033,3,R.T.O Circle - Iskcon Cross Road
+94,2034,4,R.T.O Circle - Iskcon Cross Road
+94,2035,5,R.T.O Circle - Iskcon Cross Road
+94,2036,6,R.T.O Circle - Iskcon Cross Road
+94,2037,7,R.T.O Circle - Iskcon Cross Road
+94,2038,8,R.T.O Circle - Iskcon Cross Road
+94,2039,9,R.T.O Circle - Iskcon Cross Road
+94,2040,10,R.T.O Circle - Iskcon Cross Road
+94,2041,11,R.T.O Circle - Iskcon Cross Road
+94,2042,12,R.T.O Circle - Iskcon Cross Road
+94,2043,13,R.T.O Circle - Iskcon Cross Road
+94,2044,14,R.T.O Circle - Iskcon Cross Road
+94,2045,15,R.T.O Circle - Iskcon Cross Road
+94,2046,16,R.T.O Circle - Iskcon Cross Road
+95,2047,1,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2048,2,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2049,3,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2050,4,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2051,5,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2052,6,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2053,7,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2054,8,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2055,9,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2056,10,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2057,11,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2058,12,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2059,13,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2060,14,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2061,15,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2062,16,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2063,17,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2064,18,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2065,19,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2066,20,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2067,21,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2068,22,Ahmedabad Domestic Airport - Iskcon Cross Road
+95,2069,23,Ahmedabad Domestic Airport - Iskcon Cross Road
+96,2070,1,Nehrunagar - Sanand Circle
+96,2071,2,Nehrunagar - Sanand Circle
+96,2072,3,Nehrunagar - Sanand Circle
+96,2073,4,Nehrunagar - Sanand Circle
+96,2074,5,Nehrunagar - Sanand Circle
+96,2075,6,Nehrunagar - Sanand Circle
+96,2076,7,Nehrunagar - Sanand Circle
+96,2077,8,Nehrunagar - Sanand Circle
+96,2078,9,Nehrunagar - Sanand Circle
+96,2079,10,Nehrunagar - Sanand Circle
+96,2080,11,Nehrunagar - Sanand Circle
+96,2081,12,Nehrunagar - Sanand Circle
+97,2082,1,Jaimangal - Nehrunagar
+97,2083,2,Jaimangal - Nehrunagar
+97,2084,3,Jaimangal - Nehrunagar
+97,2085,4,Jaimangal - Nehrunagar
+97,2086,5,Jaimangal - Nehrunagar
+97,2087,6,Jaimangal - Nehrunagar
+97,2088,7,Jaimangal - Nehrunagar
+97,2089,8,Jaimangal - Nehrunagar
+97,2090,9,Jaimangal - Nehrunagar
+97,2091,10,Jaimangal - Nehrunagar
+98,2092,1,Jaimangal - Sanand Circle
+98,2093,2,Jaimangal - Sanand Circle
+98,2094,3,Jaimangal - Sanand Circle
+98,2095,4,Jaimangal - Sanand Circle
+98,2096,5,Jaimangal - Sanand Circle
+98,2097,6,Jaimangal - Sanand Circle
+98,2098,7,Jaimangal - Sanand Circle
+98,2099,8,Jaimangal - Sanand Circle
+98,2100,9,Jaimangal - Sanand Circle
+98,2101,10,Jaimangal - Sanand Circle
+98,2102,11,Jaimangal - Sanand Circle
+98,2103,12,Jaimangal - Sanand Circle
+98,2104,13,Jaimangal - Sanand Circle
+98,2105,14,Jaimangal - Sanand Circle
+98,2106,15,Jaimangal - Sanand Circle
+98,2107,16,Jaimangal - Sanand Circle
+99,2108,1,Nehrunagar - Jaimangal
+99,2109,2,Nehrunagar - Jaimangal
+99,2110,3,Nehrunagar - Jaimangal
+99,2111,4,Nehrunagar - Jaimangal
+99,2112,5,Nehrunagar - Jaimangal
+99,2113,6,Nehrunagar - Jaimangal
+99,2114,7,Nehrunagar - Jaimangal
+99,2115,8,Nehrunagar - Jaimangal
+99,2116,9,Nehrunagar - Jaimangal
+99,2117,10,Nehrunagar - Jaimangal
+100,2118,1,Sanand Circle - Nehrunagar
+100,2119,2,Sanand Circle - Nehrunagar
+100,2120,3,Sanand Circle - Nehrunagar
+100,2121,4,Sanand Circle - Nehrunagar
+100,2122,5,Sanand Circle - Nehrunagar
+100,2123,6,Sanand Circle - Nehrunagar
+100,2124,7,Sanand Circle - Nehrunagar
+100,2125,8,Sanand Circle - Nehrunagar
+100,2126,9,Sanand Circle - Nehrunagar
+100,2127,10,Sanand Circle - Nehrunagar
+100,2128,11,Sanand Circle - Nehrunagar
+100,2129,12,Sanand Circle - Nehrunagar
+101,2130,1,Nehrunagar - South Bopal
+101,2131,2,Nehrunagar - South Bopal
+101,2132,3,Nehrunagar - South Bopal
+101,2133,4,Nehrunagar - South Bopal
+101,2134,5,Nehrunagar - South Bopal
+101,2135,6,Nehrunagar - South Bopal
+101,2136,7,Nehrunagar - South Bopal
+101,2137,8,Nehrunagar - South Bopal
+101,2138,9,Nehrunagar - South Bopal
+101,2139,10,Nehrunagar - South Bopal
+101,2140,11,Nehrunagar - South Bopal
+101,2141,12,Nehrunagar - South Bopal
+101,2142,13,Nehrunagar - South Bopal
+101,2143,14,Nehrunagar - South Bopal
+101,2144,15,Nehrunagar - South Bopal
+101,2145,16,Nehrunagar - South Bopal
+101,2146,17,Nehrunagar - South Bopal
+101,2147,18,Nehrunagar - South Bopal
+101,2148,19,Nehrunagar - South Bopal
+101,2149,20,Nehrunagar - South Bopal
+101,2150,21,Nehrunagar - South Bopal
+101,2151,22,Nehrunagar - South Bopal
+101,2152,23,Nehrunagar - South Bopal
+101,2153,24,Nehrunagar - South Bopal
+102,2154,1,Jaimangal - Nehrunagar
+102,2155,2,Jaimangal - Nehrunagar
+102,2156,3,Jaimangal - Nehrunagar
+102,2157,4,Jaimangal - Nehrunagar
+102,2158,5,Jaimangal - Nehrunagar
+102,2159,6,Jaimangal - Nehrunagar
+102,2160,7,Jaimangal - Nehrunagar
+102,2161,8,Jaimangal - Nehrunagar
+102,2162,9,Jaimangal - Nehrunagar
+102,2163,10,Jaimangal - Nehrunagar
+103,2164,1,Jaimangal - South Bopal
+103,2165,2,Jaimangal - South Bopal
+103,2166,3,Jaimangal - South Bopal
+103,2167,4,Jaimangal - South Bopal
+103,2168,5,Jaimangal - South Bopal
+103,2169,6,Jaimangal - South Bopal
+103,2170,7,Jaimangal - South Bopal
+103,2171,8,Jaimangal - South Bopal
+103,2172,9,Jaimangal - South Bopal
+103,2173,10,Jaimangal - South Bopal
+103,2174,11,Jaimangal - South Bopal
+103,2175,12,Jaimangal - South Bopal
+103,2176,13,Jaimangal - South Bopal
+103,2177,14,Jaimangal - South Bopal
+103,2178,15,Jaimangal - South Bopal
+103,2179,16,Jaimangal - South Bopal
+103,2180,17,Jaimangal - South Bopal
+103,2181,18,Jaimangal - South Bopal
+103,2182,19,Jaimangal - South Bopal
+103,2183,20,Jaimangal - South Bopal
+103,2184,21,Jaimangal - South Bopal
+103,2185,22,Jaimangal - South Bopal
+103,2186,23,Jaimangal - South Bopal
+103,2187,24,Jaimangal - South Bopal
+103,2188,25,Jaimangal - South Bopal
+103,2189,26,Jaimangal - South Bopal
+103,2190,27,Jaimangal - South Bopal
+103,2191,28,Jaimangal - South Bopal
+104,2192,1,Nehrunagar - Jaimangal
+104,2193,2,Nehrunagar - Jaimangal
+104,2194,3,Nehrunagar - Jaimangal
+104,2195,4,Nehrunagar - Jaimangal
+104,2196,5,Nehrunagar - Jaimangal
+104,2197,6,Nehrunagar - Jaimangal
+104,2198,7,Nehrunagar - Jaimangal
+104,2199,8,Nehrunagar - Jaimangal
+104,2200,9,Nehrunagar - Jaimangal
+104,2201,10,Nehrunagar - Jaimangal
+105,2202,1,South Bopal - Jaimangal
+105,2203,2,South Bopal - Jaimangal
+105,2204,3,South Bopal - Jaimangal
+105,2205,4,South Bopal - Jaimangal
+105,2206,5,South Bopal - Jaimangal
+105,2207,6,South Bopal - Jaimangal
+105,2208,7,South Bopal - Jaimangal
+105,2209,8,South Bopal - Jaimangal
+105,2210,9,South Bopal - Jaimangal
+105,2211,10,South Bopal - Jaimangal
+105,2212,11,South Bopal - Jaimangal
+105,2213,12,South Bopal - Jaimangal
+105,2214,13,South Bopal - Jaimangal
+105,2215,14,South Bopal - Jaimangal
+105,2216,15,South Bopal - Jaimangal
+105,2217,16,South Bopal - Jaimangal
+105,2218,17,South Bopal - Jaimangal
+105,2219,18,South Bopal - Jaimangal
+105,2220,19,South Bopal - Jaimangal
+105,2221,20,South Bopal - Jaimangal
+105,2222,21,South Bopal - Jaimangal
+105,2223,22,South Bopal - Jaimangal
+105,2224,23,South Bopal - Jaimangal
+105,2225,24,South Bopal - Jaimangal
+105,2226,25,South Bopal - Jaimangal
+105,2227,26,South Bopal - Jaimangal
+105,2228,27,South Bopal - Jaimangal
+105,2229,28,South Bopal - Jaimangal
