@@ -1,0 +1,2230 @@
+stop_id,stop_name,latitude,longitude
+1,Shivranjani,23.024304,72.531295
+2,Jhansi Ki Rani,23.023029,72.536330
+3,Nehrunagar,23.022343,72.542840
+4,Manekbaug,23.017430,72.544266
+5,Dharnidhar Derasar,23.008410,72.548661
+6,Anjali,23.005732,72.555818
+7,Chandranagar,22.999753,72.558099
+8,Khodiyarnagar,,
+9,Danilimda Char Rasta,,
+10,Vaikunth Dham Mandir,,
+11,Swaminarayan College,23.045318,72.533760
+12,Kankariya Telephone Exchange,,
+13,Maninagar,22.998660,72.611401
+14,Swaminarayan Mandir,23.045009,72.533786
+15,Jawahar Chowk,22.995137,72.605099
+16,Bhairavnath Road,,
+17,Mira Cinema Char Rasta,,
+18,Jodhpur Char Rasta,,
+19,Star Bazaar,23.016848,72.515504
+20,ISRO,23.027390,72.517572
+21,Ramdevnagar,23.021644,72.512197
+22,ISKCON Cross Road,23.027153,72.508525
+23,ISKCON Mandir,23.027486,72.504945
+24,Antariksh Colony,23.027763,72.500916
+25,Jayantilal Park,,
+26,Swagat Bungalow,,
+27,Ambli Gam,23.026455,72.482187
+28,Bopal Approach,,
+29,Bhavya Park,,
+30,Ghuma Gam,,
+31,Samarpan Bungalows,,
+32,Sterling City,23.032322,72.469152
+33,Bopal Gam,23.034011,72.464107
+34,Little Wings,23.032076,72.459613
+35,Ashok Vatika,23.027937,72.495703
+36,Ghodasar,22.991243,72.616423
+37,R.T.O Circle,,
+38,Ranip Cross Road,,
+39,Bhavsar Hostel,23.067450,72.568993
+40,Akhbarnagar,23.066546,72.559538
+41,Pragatinagar,23.064659,72.556160
+42,Shastrinagar,23.062307,72.553041
+43,Jaimangal,,
+44,Sola Cross Road,23.052723,72.546802
+45,Shree Valinath Chowk,,
+46,Memnagar,23.051697,72.535169
+47,University,23.037307,72.544748
+48,Andhjan Mandal,,
+49,Himmatlal Park,23.029753,72.532414
+50,Shivranjani,23.024304,72.531295
+51,Jhansi Ki Rani,23.023029,72.536330
+52,Nehrunagar,23.022343,72.542840
+53,Manekbaug,23.017430,72.544266
+54,Dharnidhar Derasar,23.008410,72.548661
+55,Anjali,23.005732,72.555818
+56,Chandranagar,22.999753,72.558099
+57,Khodiyarnagar,,
+58,Danilimda Char Rasta,,
+59,Danilimda Road,22.998758,72.583418
+60,Chhipa Society,,
+61,Chandola Lake,22.986953,72.586964
+62,BRTS Workshop,,
+63,Kashiram Textiles,,
+64,Narol,22.948393,72.597785
+65,Mukesh Industries,,
+66,Isanpur,22.981130,72.601295
+67,Jashodanagar Char Rasta,,
+68,Express Highway Junction,,
+69,CTM Cross Road,,
+70,Purvdeep Society,,
+71,Jogeshwari Society,,
+72,Rabari Colony,23.003119,72.633568
+73,Sabarmati Power House,,
+74,Rathi Apartment,,
+75,Sabarmati Municipal Swimming pool,,
+76,Sabarmati Police Station,23.085306,72.591621
+77,Motera Cross Road,,
+78,Visat -Gandhinagar Junction,,
+79,ONGC Avani Bhavan,,
+80,Jantanagar,23.008022,72.630334
+81,Shiv Shaktinagar,,
+82,Chandkheda Gam,23.110334,72.563771
+83,Shivranjani,23.024304,72.531295
+84,Jhansi Ki Rani,23.023029,72.536330
+85,Nehrunagar,23.022343,72.542840
+86,Manekbaug,23.017430,72.544266
+87,Dharnidhar Derasar,23.008410,72.548661
+88,Anjali,23.005732,72.555818
+89,Chandranagar,22.999753,72.558099
+90,Khodiyarnagar,,
+91,Danilimda Char Rasta,,
+92,Danilimda Road,22.998758,72.583418
+93,Chhipa Society,,
+94,Jodhpur Char Rasta,,
+95,Star Bazaar,23.016848,72.515504
+96,ISRO,23.027390,72.517572
+97,Ramdevnagar,23.021644,72.512197
+98,ISKCON Cross Road,23.027153,72.508525
+99,ISKCON Mandir,23.027486,72.504945
+100,Antariksh Colony,23.027763,72.500916
+101,Jayantilal Park,,
+102,Swagat Bungalow,,
+103,Ambli Gam,23.026455,72.482187
+104,Bopal Approach,,
+105,Bhavya Park,,
+106,Ghuma Gam,,
+107,Samarpan Bungalows,,
+108,Sterling City,23.032322,72.469152
+109,Bopal Gam,23.034011,72.464107
+110,Little Wings,23.032076,72.459613
+111,Ashok Vatika,23.027937,72.495703
+112,Jaimangal,,
+113,Sola Cross Road,23.052723,72.546802
+114,Shree Valinath Chowk,,
+115,Memnagar,23.051697,72.535169
+116,University,23.037307,72.544748
+117,Andhjan Mandal,,
+118,Himmatlal Park,23.029753,72.532414
+119,Jodhpur Char Rasta,,
+120,Star Bazaar,23.016848,72.515504
+121,ISRO,23.027390,72.517572
+122,Ramdevnagar,23.021644,72.512197
+123,ISKCON Cross Road,23.027153,72.508525
+124,ISKCON Mandir,23.027486,72.504945
+125,Antariksh Colony,23.027763,72.500916
+126,Jayantilal Park,,
+127,Swagat Bungalow,,
+128,Ambli Gam,23.026455,72.482187
+129,Bopal Approach,,
+130,Bhavya Park,,
+131,Ghuma Gam,,
+132,Samarpan Bungalows,,
+133,Sterling City,23.032322,72.469152
+134,Bopal Gam,23.034007,72.464070
+135,Little Wings,23.032076,72.459613
+136,Ashok Vatika,23.027937,72.495703
+137,Maninagar,22.998660,72.611401
+138,Kankariya Telephone Exchange,,
+139,Kankariya Lake Shukla Dada Chowk,,
+140,Rambaug,22.999924,72.600669
+141,Maninagar Char Rasta,,
+142,Astodiya Darwaja,,
+143,Raipur Darwaja,,
+144,Soma Textiles,,
+145,Geeta Mandir,,
+146,Bhulabhai Park,,
+147,Mangal Park,,
+148,Narayana Hospital,23.022428,72.623409
+149,Jaimangal,,
+150,Sola Cross Road,23.052723,72.546802
+151,Shree Valinath Chowk,,
+152,Memnagar,23.053084,72.532931
+153,University,23.037307,72.544748
+154,Andhjan Mandal,,
+155,Himmatlal Park,23.029753,72.532414
+156,Jodhpur Char Rasta,,
+157,Star Bazaar,23.016848,72.515504
+158,ISRO,23.027390,72.517572
+159,Ramdevnagar,23.021644,72.512197
+160,ISKCON Cross Road,23.027153,72.508525
+161,ISKCON Mandir,23.027486,72.504945
+162,Antariksh Colony,23.027763,72.500916
+163,Jayantilal Park,,
+164,Swagat Bungalow,,
+165,Ambli Gam,23.026455,72.482187
+166,Bopal Approach,,
+167,Bhavya Park,,
+168,Ghuma Gam,,
+169,Samarpan Bungalows,,
+170,Sterling City,23.032322,72.469152
+171,Bopal Gam,23.034007,72.464070
+172,Little Wings,23.032076,72.459613
+173,Ashok Vatika,23.027937,72.495703
+174,Shivranjani,23.024304,72.531295
+175,Jhansi Ki Rani,23.023029,72.536330
+176,Nehrunagar,23.022343,72.542840
+177,Manekbaug,23.017430,72.544266
+178,Dharnidhar Derasar,23.008410,72.548661
+179,Anjali,23.004447,72.553100
+180,Chandranagar,22.999753,72.558099
+181,Khodiyarnagar,,
+182,Danilimda Char Rasta,,
+183,Danilimda Road,22.998758,72.583418
+184,Chhipa Society,,
+185,Chandola Lake,22.986953,72.586964
+186,BRTS Workshop,,
+187,Kashiram Textiles,,
+188,Jodhpur Char Rasta,,
+189,Ramdevnagar,23.021644,72.512197
+190,ISKCON Cross Road,23.027153,72.508525
+191,ISKCON Mandir,23.027486,72.504945
+192,Antariksh Colony,23.027763,72.500916
+193,Jayantilal Park,,
+194,Swagat Bungalow,,
+195,Ambli Gam,23.026455,72.482187
+196,Bopal Approach,,
+197,Bhavya Park,,
+198,Ghuma Gam,,
+199,Samarpan Bungalows,,
+200,Sterling City,23.032322,72.469152
+201,Bopal Gam,23.034007,72.464070
+202,Little Wings,23.032076,72.459613
+203,Ashok Vatika,23.027937,72.495703
+204,Kankariya Telephone Exchange,,
+205,Maninagar,22.998660,72.611401
+206,Swaminarayan Mandir,23.045009,72.533786
+207,Jawahar Chowk,22.995137,72.605099
+208,Bhairavnath Road,,
+209,Mira Cinema Char Rasta,,
+210,Raipur Darwaja,,
+211,Soma Textiles,,
+212,Geeta Mandir,,
+213,Bhulabhai Park,,
+214,Mangal Park,,
+215,Narayana Hospital,23.022428,72.623409
+216,Maninagar,22.998660,72.611401
+217,Shivranjani,23.024304,72.531295
+218,Jhansi Ki Rani,23.023029,72.536330
+219,Nehrunagar,23.022343,72.542840
+220,Manekbaug,23.017430,72.544266
+221,Dharnidhar Derasar,23.008410,72.548661
+222,Anjali,23.004447,72.553100
+223,Chandranagar,22.999753,72.558099
+224,Khodiyarnagar,,
+225,Danilimda Char Rasta,,
+226,Vaikunth Dham Mandir,,
+227,Swaminarayan College,23.045318,72.533760
+228,Kankariya Telephone Exchange,,
+229,Kankariya Lake Shukla Dada Chowk,,
+230,Rambaug,22.999924,72.600669
+231,Maninagar Char Rasta,,
+232,Jodhpur Char Rasta,,
+233,Star Bazaar,23.016848,72.515504
+234,ISRO,23.027390,72.517572
+235,Ramdevnagar,23.021644,72.512197
+236,ISKCON Cross Road,23.027153,72.508525
+237,ISKCON Mandir,23.027486,72.504945
+238,Antariksh Colony,23.027763,72.500916
+239,Jayantilal Park,,
+240,Swagat Bungalow,,
+241,Ambli Gam,23.026455,72.482187
+242,Bopal Approach,,
+243,Bhavya Park,,
+244,Ghuma Gam,,
+245,Samarpan Bungalows,,
+246,Sterling City,23.032322,72.469152
+247,Bopal Gam,23.034007,72.464070
+248,Little Wings,23.032076,72.459613
+249,Ashok Vatika,23.027937,72.495703
+250,Shivranjani,23.024304,72.531295
+251,Jhansi Ki Rani,23.023029,72.536330
+252,Nehrunagar,23.022343,72.542840
+253,Jodhpur Char Rasta,,
+254,Star Bazaar,23.016848,72.515504
+255,ISRO,23.027390,72.517572
+256,Ramdevnagar,23.021644,72.512197
+257,ISKCON Cross Road,23.027153,72.508525
+258,Grid Station,,
+259,Odhav Fire Station,,
+260,Vallabh Nagar,23.059484,72.536028
+261,Chhotalal ni Chali,,
+262,Morlidhar Society,,
+263,Odhav Talav,23.025580,72.665351
+264,Ajit Mill Char Rasta,,
+265,Lokamanya Tilak Bag,,
+266,Raikhad Char Rasta,,
+267,Municipal Corporation Office,,
+268,Astodiya Chakala,,
+269,Astodiya Darwaja,,
+270,Raipur Darwaja,,
+271,Soma Textiles,,
+272,L Colony,23.024867,72.546162
+273,Panjrapole Char Rasta,,
+274,Gulbai Tekra Approach,,
+275,LD Engg. College,,
+276,M J Library,,
+277,Law Garden,23.026394,72.561057
+278,Narayana Hospital,23.022428,72.623409
+279,Vasundhara Society,,
+280,Soni ni Chali B,,
+281,Sarthi Bungalows,,
+282,DCIS Circle,,
+283,Kalpataru Park,,
+284,Adalaj Circle,,
+285,Adalaj S.T. Stand,,
+286,Trimandir,,
+287,Amba Township,,
+288,Swagat City,,
+289,Prabha Hanuman,,
+290,Grid Station,,
+291,Odhav Fire Station,,
+292,Vallabh Nagar,23.059484,72.536028
+293,Chhotalal ni Chali,,
+294,Morlidhar Society,,
+295,Odhav Talav,23.025580,72.665351
+296,SP Ring Road Approach,,
+297,Ajit Mill Char Rasta,,
+298,Lokamanya Tilak Bag,,
+299,Raikhad Char Rasta,,
+300,Municipal Corporation Office,,
+301,Astodiya Chakala,,
+302,Astodiya Darwaja,,
+303,Raipur Darwaja,,
+304,Karnamukteshwar Mahadev,,
+305,Sarangpur Darwaja,,
+306,Soma Textiles,,
+307,LD Engg. College,,
+308,M J Library,,
+309,Law Garden,23.026394,72.561057
+310,Patel Mills,,
+311,Rakhiyal Char Rasta,,
+312,Narayana Hospital,23.022428,72.623409
+313,Vasundhara Society,,
+314,Soni ni Chali B,,
+315,Jaimangal,,
+316,Sola Cross Road,23.052723,72.546802
+317,Shree Valinath Chowk,,
+318,Memnagar,23.053084,72.532931
+319,University,23.037307,72.544748
+320,Andhjan Mandal,,
+321,Himmatlal Park,23.029753,72.532414
+322,Jodhpur Char Rasta,,
+323,Star Bazaar,23.016848,72.515504
+324,ISRO,23.027390,72.517572
+325,Ramdevnagar,23.021644,72.512197
+326,ISKCON Cross Road,23.027153,72.508525
+327,Ghodasar,22.991243,72.616423
+328,Naroda Gam,23.077102,72.655785
+329,Anjali,23.004447,72.553100
+330,Chandranagar,22.999753,72.558099
+331,Khodiyarnagar,,
+332,Danilimda Char Rasta,,
+333,Danilimda Road,22.998758,72.583418
+334,Chhipa Society,,
+335,Chandola Lake,22.986953,72.586964
+336,BRTS Workshop,,
+337,Kashiram Textiles,,
+338,Narol,22.948393,72.597785
+339,Mukesh Industries,,
+340,Isanpur,22.981130,72.601295
+341,Jashodanagar Char Rasta,,
+342,Express Highway Junction,,
+343,CTM Cross Road,,
+344,Purvdeep Society,,
+345,Jogeshwari Society,,
+346,Rabari Colony,23.003119,72.633568
+347,Ram Rajya Nagar,,
+348,Rameshwar Park,,
+349,Geeta Gauri Cinema,,
+350,Soni ni Chali,,
+351,Viratnagar,,
+352,Bapu Nagar Approach,,
+353,Lilanagar,,
+354,Thakkar Nagar Approach,,
+355,Hirawadi,,
+356,Vijay Park,23.045838,72.529910
+357,Krishna nagar,23.086884,72.545417
+358,Dhanush Dhari Mandir,,
+359,Naroda S. T. Workshop,,
+360,Bethak,,
+361,Vasna,23.002006,72.547241
+362,Muktidham Naroda,,
+363,Haridarshan Char Rasta,,
+364,Swaminarayan Park,23.005525,72.552265
+365,Sthapatya Eligance,,
+366,Hanspura Ring Road,,
+367,Naroda Bazaar,,
+368,G.E.B (Naroda),,
+369,Hanspura Gam,,
+370,Isanpur,22.981130,72.601295
+371,Ghodasar,22.991243,72.616423
+372,Rameshwar Park,,
+373,Narol,22.948393,72.597785
+374,Mukesh Industries,,
+375,Jashodanagar Char Rasta,,
+376,Express Highway Junction,,
+377,CTM Cross Road,,
+378,Purvdeep Society,,
+379,Jogeshwari Society,,
+380,Rabari Colony,23.003119,72.633568
+381,Ram Rajya Nagar,,
+382,Geeta Gauri Cinema,,
+383,Soni ni Chali,,
+384,Viratnagar,,
+385,Bapu Nagar Approach,,
+386,Lilanagar,,
+387,Thakkar Nagar Approach,,
+388,Hirawadi,,
+389,Vijay Park,23.045838,72.529910
+390,Krishna nagar,23.086884,72.545417
+391,Dhanush Dhari Mandir,,
+392,Naroda S. T. Workshop,,
+393,Grid Station,,
+394,Odhav Fire Station,,
+395,Vallabh Nagar,23.059484,72.536028
+396,Chhotalal ni Chali,,
+397,Morlidhar Society,,
+398,Odhav Talav,23.025580,72.665351
+399,SP Ring Road Approach,,
+400,Ajit Mill Char Rasta,,
+401,Lokamanya Tilak Bag,,
+402,Raikhad Char Rasta,,
+403,Municipal Corporation Office,,
+404,Astodiya Chakala,,
+405,Astodiya Darwaja,,
+406,Raipur Darwaja,,
+407,Karnamukteshwar Mahadev,,
+408,Sarangpur Darwaja,,
+409,Soma Textiles,,
+410,LD Engg. College,,
+411,M J Library,,
+412,Law Garden,23.026394,72.561057
+413,Patel Mills,,
+414,Rakhiyal Char Rasta,,
+415,Narayana Hospital,23.022428,72.623409
+416,Vasundhara Society,,
+417,Soni ni Chali B,,
+418,Jaimangal,,
+419,Sola Cross Road,23.052723,72.546802
+420,Shree Valinath Chowk,,
+421,Memnagar,23.051697,72.535169
+422,University,23.037307,72.544748
+423,Andhjan Mandal,,
+424,Himmatlal Park,23.029753,72.532414
+425,Jodhpur Char Rasta,,
+426,Star Bazaar,23.016848,72.515504
+427,ISRO,23.027390,72.517572
+428,Ramdevnagar,23.021644,72.512197
+429,ISKCON Cross Road,23.027153,72.508525
+430,Shivranjani,23.024304,72.531295
+431,Jhansi Ki Rani,23.023029,72.536330
+432,Nehrunagar,23.022343,72.542840
+433,Jodhpur Char Rasta,,
+434,Star Bazaar,23.016848,72.515504
+435,ISRO,23.027390,72.517572
+436,Ramdevnagar,23.021644,72.512197
+437,ISKCON Cross Road,23.027153,72.508525
+438,Grid Station,,
+439,Odhav Fire Station,,
+440,Vallabh Nagar,23.059484,72.536028
+441,Chhotalal ni Chali,,
+442,Morlidhar Society,,
+443,Odhav Talav,23.025580,72.665351
+444,SP Ring Road Approach,,
+445,Ajit Mill Char Rasta,,
+446,Lokamanya Tilak Bag,,
+447,Raikhad Char Rasta,,
+448,Municipal Corporation Office,,
+449,Astodiya Chakala,,
+450,Astodiya Darwaja,,
+451,Raipur Darwaja,,
+452,Soma Textiles,,
+453,L Colony,23.024867,72.546162
+454,Panjrapole Char Rasta,,
+455,Gulbai Tekra Approach,,
+456,LD Engg. College,,
+457,M J Library,,
+458,Law Garden,23.026394,72.561057
+459,Narayana Hospital,23.022428,72.623409
+460,Vasundhara Society,,
+461,Soni ni Chali B,,
+462,Grid Station,,
+463,Odhav Fire Station,,
+464,Vallabh Nagar,23.059484,72.536028
+465,Chhotalal ni Chali,,
+466,Morlidhar Society,,
+467,Odhav Talav,23.025580,72.665351
+468,SP Ring Road Approach,,
+469,Ajit Mill Char Rasta,,
+470,Lokamanya Tilak Bag,,
+471,Raikhad Char Rasta,,
+472,Municipal Corporation Office,,
+473,Astodiya Chakala,,
+474,Astodiya Darwaja,,
+475,Raipur Darwaja,,
+476,Karnamukteshwar Mahadev,,
+477,Sarangpur Darwaja,,
+478,Soma Textiles,,
+479,LD Engg. College,,
+480,M J Library,,
+481,Law Garden,23.026394,72.561057
+482,Patel Mills,,
+483,Rakhiyal Char Rasta,,
+484,Narayana Hospital,23.022428,72.623409
+485,Vasundhara Society,,
+486,Soni ni Chali B,,
+487,R.T.O Circle,,
+488,Ranip Cross Road,,
+489,Bhavsar Hostel,23.067260,72.568980
+490,Akhbarnagar,23.066483,72.559622
+491,Pragatinagar,23.064659,72.556160
+492,Shastrinagar,23.062307,72.553041
+493,Jaimangal,,
+494,Sola Cross Road,23.052723,72.546802
+495,Shree Valinath Chowk,,
+496,Memnagar,23.053084,72.532931
+497,University,23.037307,72.544748
+498,Andhjan Mandal,,
+499,Himmatlal Park,23.029753,72.532414
+500,Shivranjani,23.024304,72.531295
+501,Jhansi Ki Rani,23.023029,72.536330
+502,Nehrunagar,23.022343,72.542840
+503,Manekbaug,23.017430,72.544266
+504,Dharnidhar Derasar,23.008410,72.548661
+505,Anjali,23.005798,72.555793
+506,Chandranagar,22.999753,72.558099
+507,Khodiyarnagar,,
+508,Danilimda Char Rasta,,
+509,Vaikunth Dham Mandir,,
+510,Swaminarayan College,23.045318,72.533760
+511,Kankariya Telephone Exchange,,
+512,Maninagar,22.998660,72.611401
+513,Swaminarayan Mandir,23.045009,72.533786
+514,Jawahar Chowk,22.995137,72.605099
+515,Bhairavnath Road,,
+516,Mira Cinema Char Rasta,,
+517,Ranip Cross Road,,
+518,Bhavsar Hostel,23.067260,72.568980
+519,Akhbarnagar,23.066483,72.559622
+520,Pragatinagar,23.064659,72.556160
+521,Shastrinagar,23.062307,72.553041
+522,Jaimangal,,
+523,Sola Cross Road,23.052723,72.546802
+524,Shree Valinath Chowk,,
+525,Memnagar,23.053084,72.532931
+526,University,23.037307,72.544748
+527,Andhjan Mandal,,
+528,Himmatlal Park,23.029753,72.532414
+529,Shivranjani,23.024304,72.531295
+530,Jhansi Ki Rani,23.023029,72.536330
+531,Nehrunagar,23.022343,72.542840
+532,Manekbaug,23.017430,72.544266
+533,Dharnidhar Derasar,23.008410,72.548661
+534,Anjali,23.005798,72.555793
+535,Chandranagar,22.999753,72.558099
+536,Khodiyarnagar,,
+537,Danilimda Char Rasta,,
+538,Vaikunth Dham Mandir,,
+539,Swaminarayan College,23.045318,72.533760
+540,Kankariya Telephone Exchange,,
+541,Maninagar,22.998660,72.611401
+542,Swaminarayan Mandir,23.045009,72.533786
+543,Jawahar Chowk,22.995137,72.605099
+544,Bhairavnath Road,,
+545,Mira Cinema Char Rasta,,
+546,Sabarmati Power House,,
+547,Rathi Apartment,,
+548,Sabarmati Municipal Swimming pool,,
+1104,Mangal Park,,
+549,Sabarmati Police Station,23.085306,72.591621
+550,Motera Cross Road,,
+551,Visat -Gandhinagar Junction,,
+552,R.T.O Extension,,
+553,ONGC Avani Bhavan,,
+554,Jantanagar,22.986721,72.645877
+555,Shiv Shaktinagar,,
+556,Chandkheda Gam,23.110334,72.563771
+557,Maninagar,22.998660,72.611401
+558,Vaikunth Dham Mandir,,
+559,Swaminarayan College,23.045318,72.533760
+560,Kankariya Telephone Exchange,,
+561,Kankariya Lake Shukla Dada Chowk,,
+562,Rambaug,22.999924,72.600669
+563,Maninagar Char Rasta,,
+564,Danilimda Road,22.998758,72.583418
+565,Chhipa Society,,
+566,Vaikunth Dham Mandir,,
+567,Swaminarayan College,23.045318,72.533760
+568,Kankariya Telephone Exchange,,
+569,Maninagar,22.998660,72.611401
+570,Swaminarayan Mandir,23.045009,72.533786
+571,Jawahar Chowk,22.995137,72.605099
+572,Bhairavnath Road,,
+573,Mira Cinema Char Rasta,,
+574,Danilimda Road,22.998758,72.583418
+575,Chhipa Society,,
+576,Chandola Lake,22.986953,72.586964
+577,BRTS Workshop,,
+578,Kashiram Textiles,,
+579,Maninagar,22.998660,72.611401
+580,R.T.O Circle,,
+581,Ranip Cross Road,,
+582,Bhavsar Hostel,23.067260,72.568980
+583,Akhbarnagar,23.066483,72.559622
+584,Shastrinagar,23.062307,72.553041
+585,Jaimangal,,
+586,Sola Cross Road,23.052723,72.546802
+587,Shree Valinath Chowk,,
+588,Memnagar,23.053084,72.532931
+589,University,23.037307,72.544748
+590,Andhjan Mandal,,
+591,Himmatlal Park,23.029753,72.532414
+592,Shivranjani,23.024304,72.531295
+593,Jhansi Ki Rani,23.023029,72.536330
+594,Nehrunagar,23.022343,72.542840
+595,Manekbaug,23.017430,72.544266
+596,Dharnidhar Derasar,23.008410,72.548661
+597,Anjali,23.005798,72.555793
+598,Chandranagar,22.999753,72.558099
+599,Khodiyarnagar,,
+600,Danilimda Char Rasta,,
+601,Vaikunth Dham Mandir,,
+602,Swaminarayan College,23.045318,72.533760
+603,Kankariya Telephone Exchange,,
+604,Kankariya Lake Shukla Dada Chowk,,
+605,Rambaug,22.999924,72.600669
+606,Maninagar Char Rasta,,
+607,Maninagar,22.998660,72.611401
+608,R.T.O Circle,,
+609,Ranip Cross Road,,
+610,Bhavsar Hostel,23.067260,72.568980
+611,Akhbarnagar,23.066483,72.559622
+612,Pragatinagar,23.064659,72.556160
+613,Shastrinagar,23.062307,72.553041
+614,Jaimangal,,
+615,Sola Cross Road,23.052723,72.546802
+616,Shree Valinath Chowk,,
+617,Memnagar,23.053084,72.532931
+618,University,23.037307,72.544748
+619,Andhjan Mandal,,
+620,Himmatlal Park,23.029753,72.532414
+621,Shivranjani,23.024304,72.531295
+622,Jhansi Ki Rani,23.023029,72.536330
+623,Nehrunagar,23.022343,72.542840
+624,Manekbaug,23.017430,72.544266
+625,Dharnidhar Derasar,23.008410,72.548661
+626,Anjali,23.005798,72.555793
+627,Chandranagar,22.999753,72.558099
+628,Khodiyarnagar,,
+629,Danilimda Char Rasta,,
+630,Vaikunth Dham Mandir,,
+631,Swaminarayan College,23.045318,72.533760
+632,Kankariya Telephone Exchange,,
+633,Kankariya Lake Shukla Dada Chowk,,
+634,Rambaug,22.999924,72.600669
+635,Maninagar Char Rasta,,
+636,Sabarmati Power House,,
+637,Rathi Apartment,,
+638,Visat -Gandhinagar Junction,,
+639,ONGC Avani Bhavan,,
+640,Jantanagar,22.986721,72.645877
+641,Shiv Shaktinagar,,
+642,Shivranjani,23.024304,72.531295
+643,Jhansi Ki Rani,23.023029,72.536330
+644,Nehrunagar,23.022343,72.542840
+645,Manekbaug,23.017430,72.544266
+646,Dharnidhar Derasar,23.008410,72.548661
+647,Anjali,23.005798,72.555793
+648,Chandranagar,22.999753,72.558099
+649,Khodiyarnagar,,
+650,Danilimda Char Rasta,,
+651,Vaikunth Dham Mandir,,
+652,Swaminarayan College,23.045318,72.533760
+653,Kankariya Telephone Exchange,,
+654,Maninagar,22.998660,72.611401
+655,Swaminarayan Mandir,23.045009,72.533786
+656,Jawahar Chowk,22.995137,72.605099
+657,Bhairavnath Road,,
+658,Mira Cinema Char Rasta,,
+659,Jodhpur Char Rasta,,
+660,Star Bazaar,23.016848,72.515504
+661,ISRO,23.027390,72.517572
+662,Ramdevnagar,23.021644,72.512197
+663,ISKCON Cross Road,23.027153,72.508525
+664,ISKCON Mandir,23.027486,72.504945
+665,Antariksh Colony,23.027763,72.500916
+666,Jayantilal Park,,
+667,Swagat Bungalow,,
+668,Ambli Gam,23.026455,72.482187
+669,Bopal Approach,,
+670,Bhavya Park,,
+671,Ghuma Gam,,
+672,Samarpan Bungalows,,
+673,Sterling City,23.032322,72.469152
+674,Bopal Gam,23.034011,72.464107
+675,Little Wings,23.032076,72.459613
+676,Ashok Vatika,23.027937,72.495703
+677,Ranip Cross Road,,
+678,Bhavsar Hostel,23.067260,72.568980
+679,Akhbarnagar,23.066483,72.559622
+680,Pragatinagar,23.064659,72.556160
+681,Shastrinagar,23.062307,72.553041
+682,Jaimangal,,
+683,Sola Cross Road,23.052723,72.546802
+684,Shree Valinath Chowk,,
+685,Memnagar,23.053084,72.532931
+686,University,23.037307,72.544748
+687,Andhjan Mandal,,
+688,Himmatlal Park,23.029753,72.532414
+689,Shivranjani,23.024304,72.531295
+690,Jhansi Ki Rani,23.023029,72.536330
+691,Nehrunagar,23.022343,72.542840
+692,Sabarmati Power House,,
+693,Rathi Apartment,,
+694,Sabarmati Municipal Swimming pool,,
+695,Sabarmati Police Station,23.085306,72.591621
+696,Motera Cross Road,,
+697,Visat -Gandhinagar Junction,,
+698,R.T.O Extension,,
+699,ONGC Avani Bhavan,,
+700,Jantanagar,22.986721,72.645877
+701,Shiv Shaktinagar,,
+702,Chandkheda Gam,23.110334,72.563771
+703,L Colony,23.024867,72.546162
+704,Panjrapole Char Rasta,,
+705,Gulbai Tekra Approach,,
+706,LD Engg. College,,
+707,Sarthi Bungalows,,
+708,DCIS Circle,,
+709,Ranip Cross Road,,
+710,Bhavsar Hostel,23.067260,72.568980
+711,Akhbarnagar,23.066483,72.559622
+712,Pragatinagar,23.064659,72.556160
+713,Sabarmati Power House,,
+714,Sabarmati Municipal Swimming pool,,
+715,Sabarmati Police Station,23.085306,72.591621
+716,Motera Cross Road,,
+717,Visat -Gandhinagar Junction,,
+718,R.T.O Extension,,
+719,ONGC Avani Bhavan,,
+720,Jantanagar,22.986721,72.645877
+721,Shiv Shaktinagar,,
+722,Chandkheda Gam,23.110334,72.563771
+723,Sarthi Bungalows,,
+724,DCIS Circle,,
+725,Sarthi Bungalows,,
+726,DCIS Circle,,
+727,Kalpataru Park,,
+728,Adalaj Circle,,
+729,Adalaj S.T. Stand,,
+730,Trimandir,,
+731,Amba Township,,
+732,Swagat City,,
+733,Prabha Hanuman,,
+734,R.T.O Circle,,
+735,Ranip Cross Road,,
+736,Akhbarnagar,23.066483,72.559622
+737,Pragatinagar,23.064659,72.556160
+738,Shastrinagar,23.062307,72.553041
+739,Sabarmati Power House,,
+740,Rathi Apartment,,
+741,Sabarmati Municipal Swimming pool,,
+742,Sabarmati Police Station,23.085306,72.591621
+743,Motera Cross Road,,
+744,Visat -Gandhinagar Junction,,
+745,ONGC Avani Bhavan,,
+746,Jantanagar,22.986721,72.645877
+747,Shiv Shaktinagar,,
+748,Chandkheda Gam,23.110334,72.563771
+749,Sarthi Bungalows,,
+750,DCIS Circle,,
+751,R.T.O Circle,,
+752,Ranip Cross Road,,
+753,Bhavsar Hostel,23.067260,72.568980
+754,Akhbarnagar,23.066483,72.559622
+755,Pragatinagar,23.064659,72.556160
+756,Shastrinagar,23.062307,72.553041
+757,Jaimangal,,
+758,Sola Cross Road,23.052723,72.546802
+759,Shree Valinath Chowk,,
+760,Memnagar,23.053084,72.532931
+761,University,23.037307,72.544748
+762,Andhjan Mandal,,
+763,Himmatlal Park,23.029753,72.532414
+764,Shivranjani,23.024304,72.531295
+765,Jhansi Ki Rani,23.023029,72.536330
+766,Nehrunagar,23.022343,72.542840
+767,Sabarmati Power House,,
+768,Rathi Apartment,,
+769,Sabarmati Municipal Swimming pool,,
+770,Sabarmati Police Station,23.085306,72.591621
+771,Motera Cross Road,,
+772,Visat -Gandhinagar Junction,,
+773,ONGC Avani Bhavan,,
+774,Jantanagar,22.986721,72.645877
+775,Shiv Shaktinagar,,
+776,Chandkheda Gam,23.110334,72.563771
+777,L Colony,23.024867,72.546162
+778,Panjrapole Char Rasta,,
+779,Gulbai Tekra Approach,,
+780,LD Engg. College,,
+781,Sarthi Bungalows,,
+782,DCIS Circle,,
+783,Kalpataru Park,,
+784,Adalaj Circle,,
+785,Adalaj S.T. Stand,,
+786,Trimandir,,
+787,Amba Township,,
+788,Swagat City,,
+789,Prabha Hanuman,,
+790,R.T.O Circle,,
+791,Ranip Cross Road,,
+792,Bhavsar Hostel,23.067260,72.568980
+793,Akhbarnagar,23.066483,72.559622
+794,Pragatinagar,23.064659,72.556160
+795,Shastrinagar,23.062307,72.553041
+796,Jaimangal,,
+797,Sola Cross Road,23.052723,72.546802
+798,Shree Valinath Chowk,,
+799,Memnagar,23.053084,72.532931
+800,University,23.037307,72.544748
+801,Andhjan Mandal,,
+802,Himmatlal Park,23.029753,72.532414
+803,Shivranjani,23.024304,72.531295
+804,Jhansi Ki Rani,23.023029,72.536330
+805,Nehrunagar,23.022343,72.542840
+806,Sabarmati Power House,,
+807,Rathi Apartment,,
+808,Sabarmati Municipal Swimming pool,,
+809,Sabarmati Police Station,23.085306,72.591621
+810,Motera Cross Road,,
+811,Visat -Gandhinagar Junction,,
+812,ONGC Avani Bhavan,,
+813,Jantanagar,22.986721,72.645877
+814,Shiv Shaktinagar,,
+815,Chandkheda Gam,23.110334,72.563771
+816,L Colony,23.024867,72.546162
+817,Panjrapole Char Rasta,,
+818,Gulbai Tekra Approach,,
+819,LD Engg. College,,
+820,Sarthi Bungalows,,
+821,DCIS Circle,,
+822,Isanpur,22.981130,72.601295
+823,Ghodasar,22.991243,72.616423
+824,Rameshwar Park,,
+825,Anjali,23.005798,72.555793
+826,Chandranagar,22.999753,72.558099
+827,Khodiyarnagar,,
+828,Danilimda Char Rasta,,
+829,Danilimda Road,22.998758,72.583418
+830,Chhipa Society,,
+831,Chandola Lake,22.986953,72.586964
+832,BRTS Workshop,,
+833,Kashiram Textiles,,
+834,Narol,22.948393,72.597785
+835,Mukesh Industries,,
+836,Jashodanagar Char Rasta,,
+837,Express Highway Junction,,
+838,CTM Cross Road,,
+839,Purvdeep Society,,
+840,Jogeshwari Society,,
+841,Rabari Colony,23.003119,72.633568
+842,Ram Rajya Nagar,,
+843,Geeta Gauri Cinema,,
+844,Soni ni Chali,,
+845,Viratnagar,,
+846,Bapu Nagar Approach,,
+847,Lilanagar,,
+848,Thakkar Nagar Approach,,
+849,Hirawadi,,
+850,Vijay Park,23.045838,72.529910
+851,Krishna nagar,23.086884,72.545417
+852,Dhanush Dhari Mandir,,
+853,Naroda S. T. Workshop,,
+854,Bethak,,
+855,Naroda Gam,23.077102,72.655785
+856,Muktidham Naroda,,
+857,Haridarshan Char Rasta,,
+858,Swaminarayan Park,23.005525,72.552265
+859,Sthapatya Eligance,,
+860,Hanspura Ring Road,,
+861,Naroda Bazaar,,
+862,G.E.B (Naroda),,
+863,Hanspura Gam,,
+864,Naroda Gam,23.077102,72.655785
+865,Geeta Gauri Cinema,,
+866,Soni ni Chali,,
+867,Viratnagar,,
+868,Bapu Nagar Approach,,
+869,Lilanagar,,
+870,Thakkar Nagar Approach,,
+871,Hirawadi,,
+872,Vijay Park,23.045838,72.529910
+873,Krishna nagar,23.086884,72.545417
+874,Dhanush Dhari Mandir,,
+875,Naroda S. T. Workshop,,
+876,Bethak,,
+877,Muktidham Naroda,,
+878,Haridarshan Char Rasta,,
+879,Swaminarayan Park,23.005525,72.552265
+880,Sthapatya Eligance,,
+881,Hanspura Ring Road,,
+882,Naroda Bazaar,,
+883,G.E.B (Naroda),,
+884,Hanspura Gam,,
+885,Anjali,23.005798,72.555793
+886,Chandranagar,22.999753,72.558099
+887,Khodiyarnagar,,
+888,Danilimda Char Rasta,,
+889,Danilimda Road,22.998758,72.583418
+890,Chhipa Society,,
+891,Vasna,23.002006,72.547241
+892,Isanpur,22.981130,72.601295
+893,Ghodasar,22.991243,72.616423
+894,Rameshwar Park,,
+895,Anjali,23.005798,72.555793
+896,Chandranagar,22.999753,72.558099
+897,Khodiyarnagar,,
+898,Danilimda Char Rasta,,
+899,Danilimda Road,22.998758,72.583418
+900,Chhipa Society,,
+901,Chandola Lake,22.986953,72.586964
+902,BRTS Workshop,,
+903,Kashiram Textiles,,
+904,Narol,22.948393,72.597785
+905,Mukesh Industries,,
+906,Jashodanagar Char Rasta,,
+907,Express Highway Junction,,
+908,CTM Cross Road,,
+909,Purvdeep Society,,
+910,Jogeshwari Society,,
+911,Rabari Colony,23.003119,72.633568
+912,Ram Rajya Nagar,,
+913,Vasna,23.002006,72.547241
+914,Naroda Gam,23.077102,72.655785
+915,Naroda S. T. Workshop,,
+916,Bethak,,
+917,Muktidham Naroda,,
+918,Haridarshan Char Rasta,,
+919,Swaminarayan Park,23.005525,72.552265
+920,Sthapatya Eligance,,
+921,Hanspura Ring Road,,
+922,Naroda Bazaar,,
+923,G.E.B (Naroda),,
+924,Hanspura Gam,,
+925,Shivranjani,23.024304,72.531295
+926,Jhansi Ki Rani,23.023029,72.536330
+927,Nehrunagar,23.022343,72.542840
+928,Jodhpur Char Rasta,,
+929,Star Bazaar,23.016848,72.515504
+930,ISRO,23.027390,72.517572
+931,Ramdevnagar,23.021644,72.512197
+932,ISKCON Cross Road,23.027153,72.508525
+933,ISKCON Mandir,23.027486,72.504945
+934,Antariksh Colony,23.027763,72.500916
+935,Jayantilal Park,,
+936,Swagat Bungalow,,
+937,Ambli Gam,23.026455,72.482187
+938,Bopal Approach,,
+939,Bhavya Park,,
+940,Samarpan Bungalows,,
+941,Sterling City,23.032322,72.469152
+942,Bopal Gam,23.034011,72.464107
+943,Ashok Vatika,23.027937,72.495703
+944,SOBO Center,23.017234,72.475079
+945,Sukhasan Char Rasta,,
+946,South Bopal BRTS Terminus,,
+947,Chittavan,,
+948,Basant Bahar,,
+949,Geeta Gauri Cinema,,
+950,Soni ni Chali,,
+951,Viratnagar,,
+952,Bapu Nagar Approach,,
+953,Lilanagar,,
+954,Thakkar Nagar Approach,,
+955,Hirawadi,,
+956,Vijay Park,23.045838,72.529910
+957,Krishna nagar,23.086884,72.545417
+958,Dhanush Dhari Mandir,,
+959,Naroda S. T. Workshop,,
+960,Bethak,,
+961,Naroda Gam,23.077102,72.655785
+962,Muktidham Naroda,,
+963,Haridarshan Char Rasta,,
+964,Swaminarayan Park,23.005525,72.552265
+965,Sthapatya Eligance,,
+966,Hanspura Ring Road,,
+967,Naroda Bazaar,,
+968,G.E.B (Naroda),,
+969,Hanspura Gam,,
+970,Naroda S. T. Workshop,,
+971,Bethak,,
+972,Naroda Gam,23.077102,72.655785
+973,Muktidham Naroda,,
+974,Haridarshan Char Rasta,,
+975,Swaminarayan Park,23.005525,72.552265
+976,Sthapatya Eligance,,
+977,Hanspura Ring Road,,
+978,Naroda Bazaar,,
+979,G.E.B (Naroda),,
+980,Hanspura Gam,,
+981,Anjali,23.005798,72.555793
+982,Chandranagar,22.999753,72.558099
+983,Khodiyarnagar,,
+984,Danilimda Char Rasta,,
+985,Danilimda Road,22.998758,72.583418
+986,Chhipa Society,,
+987,Chandola Lake,22.986953,72.586964
+988,BRTS Workshop,,
+989,Kashiram Textiles,,
+990,Vasna,23.002006,72.547241
+991,Ghodasar,22.991243,72.616423
+992,Anjali,23.005798,72.555793
+993,Chandranagar,22.999753,72.558099
+994,Khodiyarnagar,,
+995,Danilimda Char Rasta,,
+996,Danilimda Road,22.998758,72.583418
+997,Chhipa Society,,
+998,Chandola Lake,22.986953,72.586964
+999,BRTS Workshop,,
+1000,Kashiram Textiles,,
+1001,Narol,22.948393,72.597785
+1002,Mukesh Industries,,
+1003,Isanpur,22.981130,72.601295
+1004,Jashodanagar Char Rasta,,
+1005,Express Highway Junction,,
+1006,CTM Cross Road,,
+1007,Jogeshwari Society,,
+1008,Rabari Colony,23.003119,72.633568
+1009,Ram Rajya Nagar,,
+1010,Rameshwar Park,,
+1011,Vasna,23.002006,72.547241
+1012,Geeta Gauri Cinema,,
+1013,Soni ni Chali,,
+1014,Viratnagar,,
+1015,Bapu Nagar Approach,,
+1016,Lilanagar,,
+1017,Thakkar Nagar Approach,,
+1018,Hirawadi,,
+1019,Vijay Park,23.045838,72.529910
+1020,Krishna nagar,23.086884,72.545417
+1021,Dhanush Dhari Mandir,,
+1022,Naroda S. T. Workshop,,
+1023,Ghodasar,22.991243,72.616423
+1024,Narol,22.948393,72.597785
+1025,Mukesh Industries,,
+1026,Isanpur,22.981130,72.601295
+1027,Jashodanagar Char Rasta,,
+1028,Express Highway Junction,,
+1029,CTM Cross Road,,
+1030,Purvdeep Society,,
+1031,Jogeshwari Society,,
+1032,Rabari Colony,23.003119,72.633568
+1033,Ram Rajya Nagar,,
+1034,Rameshwar Park,,
+1035,Isanpur,22.981130,72.601295
+1036,Ghodasar,22.991243,72.616423
+1037,Rameshwar Park,,
+1038,Narol,22.948393,72.597785
+1039,Mukesh Industries,,
+1040,Jashodanagar Char Rasta,,
+1041,Express Highway Junction,,
+1042,CTM Cross Road,,
+1043,Purvdeep Society,,
+1044,Jogeshwari Society,,
+1045,Rabari Colony,23.003119,72.633568
+1046,Ram Rajya Nagar,,
+1047,Geeta Gauri Cinema,,
+1048,Soni ni Chali,,
+1049,Viratnagar,,
+1050,Bapu Nagar Approach,,
+1051,Lilanagar,,
+1052,Thakkar Nagar Approach,,
+1053,Hirawadi,,
+1054,Vijay Park,23.045838,72.529910
+1055,Krishna nagar,23.086884,72.545417
+1056,Dhanush Dhari Mandir,,
+1057,Naroda S. T. Workshop,,
+1058,Ghodasar,22.991243,72.616423
+1059,Narol,22.948393,72.597785
+1060,Mukesh Industries,,
+1061,Isanpur,22.981130,72.601295
+1062,Jashodanagar Char Rasta,,
+1063,Express Highway Junction,,
+1064,CTM Cross Road,,
+1065,Purvdeep Society,,
+1066,Jogeshwari Society,,
+1067,Rabari Colony,23.003119,72.633568
+1068,Ram Rajya Nagar,,
+1069,Rameshwar Park,,
+1070,Geeta Gauri Cinema,,
+1071,Soni ni Chali,,
+1072,Viratnagar,,
+1073,Bapu Nagar Approach,,
+1074,Lilanagar,,
+1075,Thakkar Nagar Approach,,
+1076,Hirawadi,,
+1077,Vijay Park,23.045838,72.529910
+1078,Krishna nagar,23.086884,72.545417
+1079,Dhanush Dhari Mandir,,
+1080,Naroda S. T. Workshop,,
+1081,Gota Cross Road,,
+1082,Jaimangal,,
+1083,Parasnagar,23.054076,72.544289
+1084,Parshwanath Jain Mandir,,
+1085,Bhuyangdev,,
+1086,Sattadhar Char Rasta,,
+1087,Sola Bridge,,
+1088,Sola Bhagwat,23.051621,72.519051
+1089,Gujarat High Court,23.080405,72.523360
+1090,Gota Vasant Nagar Township,,
+1091,Vaikunth Dham Mandir,,
+1092,Swaminarayan College,23.045318,72.533760
+1093,Danilimda Road,22.998758,72.583418
+1094,Chhipa Society,,
+1095,Chandola Lake,22.986953,72.586964
+1096,BRTS Workshop,,
+1097,Kashiram Textiles,,
+1098,Narol,22.948393,72.597785
+1099,Raipur Darwaja,,
+1100,Karnamukteshwar Mahadev,,
+1101,Sarangpur Darwaja,,
+1102,Geeta Mandir,,
+1103,Bhulabhai Park,,
+1105,Ranip Cross Road,,
+1106,N R Patel Park,,
+1107,Ramapir No Tekaro,,
+1108,Juna Vadaj,23.067012,72.562032
+1109,Gurudwara,23.046871,72.515381
+1110,Hanumanpura,,
+1111,Sarkari Litho Press,,
+1112,Sabarmati Power House,,
+1113,Rathi Apartment,,
+1114,Sabarmati Municipal Swimming pool,,
+1115,Sabarmati Police Station,23.085306,72.591621
+1116,Motera Cross Road,,
+1117,R.T.O Extension,,
+1118,ONGC Avani Bhavan,,
+1119,Jantanagar,23.008022,72.630334
+1120,Chandkheda Gam,23.110334,72.563771
+1121,Sarthi Bungalows,,
+1122,DCIS Circle,,
+1123,Vishvakarma Engineering College,,
+1124,Sarkari Litho Press Cabin,,
+1125,Isanpur,22.981130,72.601295
+1126,Ghodasar,22.991243,72.616423
+1127,Rameshwar Park,,
+1128,Narol,22.948393,72.597785
+1129,Mukesh Industries,,
+1130,Jashodanagar Char Rasta,,
+1131,Express Highway Junction,,
+1132,CTM Cross Road,,
+1133,Purvdeep Society,,
+1134,Jogeshwari Society,,
+1135,Rabari Colony,23.003119,72.633568
+1136,Ram Rajya Nagar,,
+1137,Geeta Gauri Cinema,,
+1138,Grid Station,,
+1139,Odhav Fire Station,,
+1140,Vallabh Nagar,23.059484,72.536028
+1141,Chhotalal ni Chali,,
+1142,Morlidhar Society,,
+1143,Odhav Talav,23.025580,72.665351
+1144,Grid Station,,
+1145,Odhav Fire Station,,
+1146,Vallabh Nagar,23.059484,72.536028
+1147,Chhotalal ni Chali,,
+1148,Morlidhar Society,,
+1149,Odhav Talav,23.025580,72.665351
+1150,Ajit Mill Char Rasta,,
+1151,Sarangpur Darwaja,,
+1152,Soma Textiles,,
+1153,Patel Mills,,
+1154,Rakhiyal Char Rasta,,
+1155,Narayana Hospital,23.022428,72.623409
+1156,Soni ni Chali B,,
+1157,Maninagar,22.998660,72.611401
+1158,Gota Cross Road,,
+1159,Sola Cross Road,23.052723,72.546802
+1160,Shree Valinath Chowk,,
+1161,Memnagar,23.053084,72.532931
+1162,University,23.037307,72.544748
+1163,Andhjan Mandal,,
+1164,Himmatlal Park,23.029753,72.532414
+1165,Shivranjani,23.024304,72.531295
+1166,Nehrunagar,23.022343,72.542840
+1167,Kankariya Telephone Exchange,,
+1168,Kankariya Lake Shukla Dada Chowk,,
+1169,Rambaug,22.999924,72.600669
+1170,Maninagar Char Rasta,,
+1171,Parasnagar,23.054076,72.544289
+1172,Parshwanath Jain Mandir,,
+1173,Bhuyangdev,,
+1174,Sattadhar Char Rasta,,
+1175,Sola Bridge,,
+1176,Lokamanya Tilak Bag,,
+1177,Raikhad Char Rasta,,
+1178,Municipal Corporation Office,,
+1179,Astodiya Chakala,,
+1180,L Colony,23.024867,72.546162
+1181,Panjrapole Char Rasta,,
+1182,Gulbai Tekra Approach,,
+1183,LD Engg. College,,
+1184,Geeta Mandir,,
+1185,Bhulabhai Park,,
+1186,Mangal Park,,
+1187,Sola Bhagwat,23.051621,72.519051
+1188,M J Library,,
+1189,Law Garden,23.026394,72.561057
+1190,Vasundhara Society,,
+1191,Gujarat High Court,23.080405,72.523360
+1192,Gota Vasant Nagar Township,,
+1193,Ghodasar,22.991243,72.616423
+1194,Narol,22.948393,72.597785
+1195,Mukesh Industries,,
+1196,Isanpur,22.981130,72.601295
+1197,Jashodanagar Char Rasta,,
+1198,Express Highway Junction,,
+1199,CTM Cross Road,,
+1200,Purvdeep Society,,
+1201,Jogeshwari Society,,
+1202,Rabari Colony,23.003119,72.633568
+1203,Ram Rajya Nagar,,
+1204,Rameshwar Park,,
+1205,Geeta Gauri Cinema,,
+1206,Grid Station,,
+1207,Odhav Fire Station,,
+1208,Vallabh Nagar,23.059484,72.536028
+1209,Chhotalal ni Chali,,
+1210,Morlidhar Society,,
+1211,Odhav Talav,23.025580,72.665351
+1212,Vaikunth Dham Mandir,,
+1213,Swaminarayan College,23.045318,72.533760
+1214,Danilimda Road,22.998758,72.583418
+1215,Chhipa Society,,
+1216,Chandola Lake,22.986953,72.586964
+1217,BRTS Workshop,,
+1218,Kashiram Textiles,,
+1219,Narol,22.948393,72.597785
+1220,Astodiya Darwaja,,
+1221,Raipur Darwaja,,
+1222,Karnamukteshwar Mahadev,,
+1223,Sarangpur Darwaja,,
+1224,Geeta Mandir,,
+1225,Bhulabhai Park,,
+1226,Mangal Park,,
+1227,R.T.O Circle,,
+1228,Ranip Cross Road,,
+1229,N R Patel Park,,
+1230,Ramapir No Tekaro,,
+1231,Juna Vadaj,23.067012,72.562032
+1232,Gurudwara,23.046871,72.515381
+1233,Hanumanpura,,
+1234,Sarkari Litho Press,,
+1235,Sabarmati Power House,,
+1236,Rathi Apartment,,
+1237,Sabarmati Municipal Swimming pool,,
+1238,Sabarmati Police Station,23.085306,72.591621
+1239,Motera Cross Road,,
+1240,Visat -Gandhinagar Junction,,
+1241,ONGC Avani Bhavan,,
+1242,Jantanagar,23.008022,72.630334
+1243,Shiv Shaktinagar,,
+1244,Chandkheda Gam,23.110334,72.563771
+1245,Sarthi Bungalows,,
+1246,DCIS Circle,,
+1247,Vishvakarma Engineering College,,
+1248,Sarkari Litho Press Cabin,,
+1249,Bhavsar Hostel,23.067673,72.575685
+1250,Akhbarnagar,23.066483,72.559622
+1251,Pragatinagar,23.064659,72.556160
+1252,Shastrinagar,23.062260,72.553083
+1253,Jaimangal,,
+1254,N R Patel Park,,
+1255,Ramapir No Tekaro,,
+1256,Juna Vadaj,23.067012,72.562032
+1257,Gurudwara,23.046871,72.515381
+1258,Hanumanpura,,
+1259,Sarkari Litho Press,,
+1260,Parasnagar,23.054076,72.544289
+1261,Parshwanath Jain Mandir,,
+1262,Bhuyangdev,,
+1263,Sattadhar Char Rasta,,
+1264,Sola Bridge,,
+1265,Municipal North Zone Office,,
+1266,Memco Cross Road,,
+1267,Naroda Fruit Market,,
+1268,Ashok Mill,,
+1269,Jeening Press,,
+1270,Arvind Mill,,
+1271,G.C.S. Hospital,,
+1272,Saijpur Towers,,
+1273,Bethak,,
+1274,Naroda Gam,23.077102,72.655785
+1275,Sarkari Litho Press Cabin,,
+1276,Prem Darwaja,,
+1277,Delhi Darwaja,,
+1278,Naroda S. T. Workshop,,
+1279,Shukan Mall,,
+1280,Galaxy Signature,,
+1281,Science City,23.077854,72.494798
+1282,Bhadaj Circle,,
+1283,Science City Approach,,
+1284,RK Royal,23.006455,72.506566
+1285,Naroda Gam,23.077102,72.655785
+1286,Geeta Gauri Cinema,,
+1287,Soni ni Chali,,
+1288,Viratnagar,,
+1289,Bapu Nagar Approach,,
+1290,Lilanagar,,
+1291,Thakkar Nagar Approach,,
+1292,Hirawadi,,
+1293,Vijay Park,23.045838,72.529910
+1294,Krishna nagar,23.086884,72.545417
+1295,Dhanush Dhari Mandir,,
+1296,Naroda S. T. Workshop,,
+1297,Bethak,,
+1298,Jaimangal,,
+1299,Parasnagar,23.054076,72.544289
+1300,Parshwanath Jain Mandir,,
+1301,Sattadhar Char Rasta,,
+1302,Sola Bridge,,
+1303,Shukan Mall,,
+1304,Galaxy Signature,,
+1305,Science City,23.077854,72.494798
+1306,Bhadaj Circle,,
+1307,Science City Approach,,
+1308,RK Royal,23.006455,72.506566
+1309,Naroda Gam,23.077102,72.655785
+1310,Viratnagar,,
+1311,Bapu Nagar Approach,,
+1312,Lilanagar,,
+1313,Thakkar Nagar Approach,,
+1314,Hirawadi,,
+1315,Vijay Park,23.045838,72.529910
+1316,Krishna nagar,23.086884,72.545417
+1317,Dhanush Dhari Mandir,,
+1318,Naroda S. T. Workshop,,
+1319,Grid Station,,
+1320,Odhav Fire Station,,
+1321,Vallabh Nagar,23.059484,72.536028
+1322,Chhotalal ni Chali,,
+1323,Morlidhar Society,,
+1324,Odhav Talav,23.025580,72.665351
+1325,SP Ring Road Approach,,
+1326,Bethak,,
+1327,Jaimangal,,
+1328,Parasnagar,23.054076,72.544289
+1329,Parshwanath Jain Mandir,,
+1330,Bhuyangdev,,
+1331,Sattadhar Char Rasta,,
+1332,Sola Bridge,,
+1333,Science City Approach,,
+1334,Shukan Mall,,
+1335,Galaxy Signature,,
+1336,Science City,23.077854,72.494798
+1337,Bhadaj Circle,,
+1338,RK Royal,23.006455,72.506566
+1339,Geeta Gauri Cinema,,
+1340,Soni ni Chali,,
+1341,Viratnagar,,
+1342,Bapu Nagar Approach,,
+1343,Lilanagar,,
+1344,Thakkar Nagar Approach,,
+1345,Hirawadi,,
+1346,Vijay Park,23.045838,72.529910
+1347,Krishna nagar,23.086884,72.545417
+1348,Dhanush Dhari Mandir,,
+1349,Naroda S. T. Workshop,,
+1350,Bethak,,
+1351,Naroda Gam,23.077102,72.655785
+1352,Isanpur,22.981130,72.601295
+1353,Ghodasar,22.991243,72.616423
+1354,Rameshwar Park,,
+1355,R.T.O Circle,,
+1356,Ranip Cross Road,,
+1357,Bhavsar Hostel,23.067673,72.575685
+1358,Akhbarnagar,23.066483,72.559622
+1359,Pragatinagar,23.064659,72.556160
+1360,Shastrinagar,23.062260,72.553083
+1361,Jaimangal,,
+1362,Sola Cross Road,23.052723,72.546802
+1363,Shree Valinath Chowk,,
+1364,Memnagar,23.053084,72.532931
+1365,University,23.037307,72.544748
+1366,Andhjan Mandal,,
+1367,Himmatlal Park,23.029753,72.532414
+1368,Shivranjani,23.024304,72.531295
+1369,Jhansi Ki Rani,23.023029,72.536330
+1370,Nehrunagar,23.022343,72.542840
+1371,Manekbaug,23.017430,72.544266
+1372,Dharnidhar Derasar,23.008410,72.548661
+1373,Anjali,23.004447,72.553100
+1374,Chandranagar,22.999753,72.558099
+1375,Khodiyarnagar,,
+1376,Danilimda Char Rasta,,
+1377,Danilimda Road,22.998758,72.583418
+1378,Chhipa Society,,
+1379,Chandola Lake,22.986953,72.586964
+1380,BRTS Workshop,,
+1381,Kashiram Textiles,,
+1382,Narol,22.948393,72.597785
+1383,Mukesh Industries,,
+1384,Jashodanagar Char Rasta,,
+1385,Express Highway Junction,,
+1386,CTM Cross Road,,
+1387,Purvdeep Society,,
+1388,Jogeshwari Society,,
+1389,Rabari Colony,23.003119,72.633568
+1390,Ram Rajya Nagar,,
+1391,Isanpur,22.981130,72.601295
+1392,Ghodasar,22.991243,72.616423
+1393,Ranip Cross Road,,
+1394,Bhavsar Hostel,23.067673,72.575685
+1395,Akhbarnagar,23.066483,72.559622
+1396,Pragatinagar,23.064659,72.556160
+1397,Shastrinagar,23.062260,72.553083
+1398,Jaimangal,,
+1399,Sola Cross Road,23.052723,72.546802
+1400,Shree Valinath Chowk,,
+1401,Memnagar,23.053084,72.532931
+1402,University,23.037307,72.544748
+1403,Andhjan Mandal,,
+1404,Himmatlal Park,23.029753,72.532414
+1405,Shivranjani,23.024304,72.531295
+1406,Jhansi Ki Rani,23.023029,72.536330
+1407,Manekbaug,23.017430,72.544266
+1408,Dharnidhar Derasar,23.008410,72.548661
+1409,Anjali,23.004447,72.553100
+1410,Chandranagar,22.999753,72.558099
+1411,Khodiyarnagar,,
+1412,Danilimda Char Rasta,,
+1413,Danilimda Road,22.998758,72.583418
+1414,Chhipa Society,,
+1415,Chandola Lake,22.986953,72.586964
+1416,BRTS Workshop,,
+1417,Kashiram Textiles,,
+1418,Narol,22.948393,72.597785
+1419,Mukesh Industries,,
+1420,Jashodanagar Char Rasta,,
+1421,Express Highway Junction,,
+1422,CTM Cross Road,,
+1423,Purvdeep Society,,
+1424,Jogeshwari Society,,
+1425,Rabari Colony,23.003119,72.633568
+1426,Sabarmati Power House,,
+1427,Rathi Apartment,,
+1428,Sabarmati Municipal Swimming pool,,
+1429,Sabarmati Police Station,23.085306,72.591621
+1430,Motera Cross Road,,
+1431,Visat -Gandhinagar Junction,,
+1432,R.T.O Extension,,
+1433,ONGC Avani Bhavan,,
+1434,Jantanagar,23.008022,72.630334
+1435,Shiv Shaktinagar,,
+1436,Chandkheda Gam,23.110334,72.563771
+1437,Isanpur,22.981130,72.601295
+1438,Ghodasar,22.991243,72.616423
+1439,R.T.O Circle,,
+1440,Ranip Cross Road,,
+1441,Bhavsar Hostel,23.067673,72.575685
+1442,Akhbarnagar,23.066483,72.559622
+1443,Pragatinagar,23.064659,72.556160
+1444,Shastrinagar,23.062260,72.553083
+1445,Jaimangal,,
+1446,Sola Cross Road,23.052723,72.546802
+1447,Shree Valinath Chowk,,
+1448,Memnagar,23.053084,72.532931
+1449,University,23.037307,72.544748
+1450,Andhjan Mandal,,
+1451,Himmatlal Park,23.029753,72.532414
+1452,Shivranjani,23.024304,72.531295
+1453,Jhansi Ki Rani,23.023029,72.536330
+1454,Manekbaug,23.017430,72.544266
+1455,Dharnidhar Derasar,23.008410,72.548661
+1456,Anjali,23.004447,72.553100
+1457,Chandranagar,22.999753,72.558099
+1458,Khodiyarnagar,,
+1459,Danilimda Char Rasta,,
+1460,Danilimda Road,22.998758,72.583418
+1461,Chhipa Society,,
+1462,Chandola Lake,22.986953,72.586964
+1463,BRTS Workshop,,
+1464,Kashiram Textiles,,
+1465,Narol,22.948393,72.597785
+1466,Mukesh Industries,,
+1467,Jashodanagar Char Rasta,,
+1468,CTM Cross Road,,
+1469,Purvdeep Society,,
+1470,Jogeshwari Society,,
+1471,Rabari Colony,23.003119,72.633568
+1472,Naroda Gam,23.077102,72.655785
+1473,Bhavsar Hostel,23.067673,72.575685
+1474,Akhbarnagar,23.066483,72.559622
+1475,Pragatinagar,23.064659,72.556160
+1476,Shastrinagar,23.062260,72.553083
+1477,Jaimangal,,
+1478,N R Patel Park,,
+1479,Ramapir No Tekaro,,
+1480,Juna Vadaj,23.067012,72.562032
+1481,Gurudwara,23.046871,72.515381
+1482,Hanumanpura,,
+1483,Sarkari Litho Press,,
+1484,Parasnagar,23.054076,72.544289
+1485,Parshwanath Jain Mandir,,
+1486,Bhuyangdev,,
+1487,Sattadhar Char Rasta,,
+1488,Sola Bridge,,
+1489,Science City Approach,,
+1490,Memco Cross Road,,
+1491,Naroda Fruit Market,,
+1492,Ashok Mill,,
+1493,Jeening Press,,
+1494,Arvind Mill,,
+1495,G.C.S. Hospital,,
+1496,Saijpur Towers,,
+1497,Bethak,,
+1498,Sarkari Litho Press Cabin,,
+1499,Prem Darwaja,,
+1500,Delhi Darwaja,,
+1501,Naroda S. T. Workshop,,
+1502,Shukan Mall,,
+1503,Galaxy Signature,,
+1504,Science City,23.077854,72.494798
+1505,Bhadaj Circle,,
+1506,RK Royal,23.006455,72.506566
+1507,Sola Bhagwat,23.051621,72.519051
+1508,Sola Cross Road,23.052723,72.546802
+1509,Shree Valinath Chowk,,
+1510,Memnagar,23.053084,72.532931
+1511,University,23.037307,72.544748
+1512,Himmatlal Park,23.029753,72.532414
+1513,Shivranjani,23.024304,72.531295
+1514,Jhansi Ki Rani,23.023029,72.536330
+1515,Nehrunagar,23.022343,72.542840
+1516,Parasnagar,23.054076,72.544289
+1517,Parshwanath Jain Mandir,,
+1518,Bhuyangdev,,
+1519,Sattadhar Char Rasta,,
+1520,Sola Bridge,,
+1521,L Colony,23.024867,72.546162
+1522,Panjrapole Char Rasta,,
+1523,Gulbai Tekra Approach,,
+1524,LD Engg. College,,
+1525,Gujarat High Court,23.080405,72.523360
+1526,Science City Approach,,
+1527,Gota Cross Road,,
+1528,Gota Vasant Nagar Township,,
+1529,Sola Bhagwat,23.051621,72.519051
+1530,Sola Cross Road,23.052723,72.546802
+1531,Shree Valinath Chowk,,
+1532,Memnagar,23.053084,72.532931
+1533,University,23.037307,72.544748
+1534,Andhjan Mandal,,
+1535,Himmatlal Park,23.029753,72.532414
+1536,Shivranjani,23.024304,72.531295
+1537,Jhansi Ki Rani,23.023029,72.536330
+1538,Nehrunagar,23.022343,72.542840
+1539,Kankariya Telephone Exchange,,
+1540,Maninagar,22.998660,72.611401
+1541,Swaminarayan Mandir,23.045009,72.533786
+1542,Jawahar Chowk,22.995137,72.605099
+1543,Bhairavnath Road,,
+1544,Mira Cinema Char Rasta,,
+1545,Parasnagar,23.054076,72.544289
+1546,Parshwanath Jain Mandir,,
+1547,Bhuyangdev,,
+1548,Sattadhar Char Rasta,,
+1549,Sola Bridge,,
+1550,Lokamanya Tilak Bag,,
+1551,Raikhad Char Rasta,,
+1552,Municipal Corporation Office,,
+1553,Astodiya Chakala,,
+1554,Astodiya Darwaja,,
+1555,L Colony,23.024867,72.546162
+1556,Panjrapole Char Rasta,,
+1557,Gulbai Tekra Approach,,
+1558,LD Engg. College,,
+1559,Geeta Mandir,,
+1560,Bhulabhai Park,,
+1561,Mangal Park,,
+1562,M J Library,,
+1563,Law Garden,23.026394,72.561057
+1564,Vasundhara Society,,
+1565,Gujarat High Court,23.080405,72.523360
+1566,Science City Approach,,
+1567,Gota Cross Road,,
+1568,Gota Vasant Nagar Township,,
+1569,Maninagar,22.998660,72.611401
+1570,Vaikunth Dham Mandir,,
+1571,Swaminarayan College,23.045318,72.533760
+1572,Kankariya Telephone Exchange,,
+1573,Kankariya Lake Shukla Dada Chowk,,
+1574,Rambaug,22.999924,72.600669
+1575,Maninagar Char Rasta,,
+1576,Danilimda Road,22.998758,72.583418
+1577,Chhipa Society,,
+1578,Jaimangal,,
+1579,Sola Cross Road,23.052723,72.546802
+1580,Shree Valinath Chowk,,
+1581,Memnagar,23.053084,72.532931
+1582,University,23.037307,72.544748
+1583,Andhjan Mandal,,
+1584,Himmatlal Park,23.029753,72.532414
+1585,Shivranjani,23.024304,72.531295
+1586,Jhansi Ki Rani,23.023029,72.536330
+1587,Nehrunagar,23.022343,72.542840
+1588,L Colony,23.024867,72.546162
+1589,Panjrapole Char Rasta,,
+1590,Gulbai Tekra Approach,,
+1591,LD Engg. College,,
+1592,Maninagar,22.998660,72.611401
+1593,Jaimangal,,
+1594,Sola Cross Road,23.052723,72.546802
+1595,Shree Valinath Chowk,,
+1596,Memnagar,23.053084,72.532931
+1597,University,23.037307,72.544748
+1598,Andhjan Mandal,,
+1599,Himmatlal Park,23.029753,72.532414
+1600,Shivranjani,23.024304,72.531295
+1601,Jhansi Ki Rani,23.023029,72.536330
+1602,Nehrunagar,23.022343,72.542840
+1603,Kankariya Telephone Exchange,,
+1604,Kankariya Lake Shukla Dada Chowk,,
+1605,Rambaug,22.999924,72.600669
+1606,Maninagar Char Rasta,,
+1607,Lokamanya Tilak Bag,,
+1608,Raikhad Char Rasta,,
+1609,Municipal Corporation Office,,
+1610,Astodiya Chakala,,
+1611,L Colony,23.024867,72.546162
+1612,Panjrapole Char Rasta,,
+1613,Gulbai Tekra Approach,,
+1614,LD Engg. College,,
+1615,Geeta Mandir,,
+1616,Bhulabhai Park,,
+1617,Mangal Park,,
+1618,M J Library,,
+1619,Law Garden,23.026394,72.561057
+1620,Vasundhara Society,,
+1621,Sola Bhagwat,23.051621,72.519051
+1622,Jaimangal,,
+1623,Parasnagar,23.054076,72.544289
+1624,Parshwanath Jain Mandir,,
+1625,Bhuyangdev,,
+1626,Sattadhar Char Rasta,,
+1627,Sola Bridge,,
+1628,Gujarat High Court,23.080405,72.523360
+1629,Science City Approach,,
+1630,Gota Cross Road,,
+1631,Gota Vasant Nagar Township,,
+1632,Jaimangal,,
+1633,Sola Cross Road,23.052723,72.546802
+1634,Shree Valinath Chowk,,
+1635,Memnagar,23.053084,72.532931
+1636,University,23.037307,72.544748
+1637,Andhjan Mandal,,
+1638,Himmatlal Park,23.029753,72.532414
+1639,Shivranjani,23.024304,72.531295
+1640,Jhansi Ki Rani,23.023029,72.536330
+1641,Nehrunagar,23.022343,72.542840
+1642,Kankariya Telephone Exchange,,
+1643,Maninagar,22.998660,72.611401
+1644,Swaminarayan Mandir,23.045009,72.533786
+1645,Jawahar Chowk,22.995137,72.605099
+1646,Bhairavnath Road,,
+1647,Mira Cinema Char Rasta,,
+1648,Lokamanya Tilak Bag,,
+1649,Raikhad Char Rasta,,
+1650,Municipal Corporation Office,,
+1651,Astodiya Chakala,,
+1652,Astodiya Darwaja,,
+1653,L Colony,23.024867,72.546162
+1654,Panjrapole Char Rasta,,
+1655,Gulbai Tekra Approach,,
+1656,LD Engg. College,,
+1657,Geeta Mandir,,
+1658,Bhulabhai Park,,
+1659,M J Library,,
+1660,Law Garden,23.026394,72.561057
+1661,Vasundhara Society,,
+1662,Vaikunth Dham Mandir,,
+1663,Swaminarayan College,23.045318,72.533760
+1664,Kankariya Telephone Exchange,,
+1665,Maninagar,22.998660,72.611401
+1666,Swaminarayan Mandir,23.045009,72.533786
+1667,Jawahar Chowk,22.995137,72.605099
+1668,Bhairavnath Road,,
+1669,Mira Cinema Char Rasta,,
+1670,Danilimda Road,22.998758,72.583418
+1671,Chhipa Society,,
+1672,Chandola Lake,22.986953,72.586964
+1673,BRTS Workshop,,
+1674,Kashiram Textiles,,
+1675,Grid Station,,
+1676,Odhav Fire Station,,
+1677,Vallabh Nagar,23.059484,72.536028
+1678,Chhotalal ni Chali,,
+1679,Morlidhar Society,,
+1680,Odhav Talav,23.025580,72.665351
+1681,SP Ring Road Approach,,
+1682,Ajit Mill Char Rasta,,
+1683,Soni ni Chali B,,
+1684,Grid Station,,
+1685,Odhav Fire Station,,
+1686,Vallabh Nagar,23.059484,72.536028
+1687,Chhotalal ni Chali,,
+1688,Morlidhar Society,,
+1689,Odhav Talav,23.025580,72.665351
+1690,SP Ring Road Approach,,
+1691,Ajit Mill Char Rasta,,
+1692,Lokamanya Tilak Bag,,
+1693,Raikhad Char Rasta,,
+1694,Municipal Corporation Office,,
+1695,Astodiya Chakala,,
+1696,Astodiya Darwaja,,
+1697,Raipur Darwaja,,
+1698,Karnamukteshwar Mahadev,,
+1699,Sarangpur Darwaja,,
+1700,Soma Textiles,,
+1701,LD Engg. College,,
+1702,M J Library,,
+1703,Law Garden,23.026394,72.561057
+1704,Patel Mills,,
+1705,Rakhiyal Char Rasta,,
+1706,Narayana Hospital,23.022428,72.623409
+1707,Vasundhara Society,,
+1708,Soni ni Chali B,,
+1709,Lokamanya Tilak Bag,,
+1710,Raikhad Char Rasta,,
+1711,Municipal Corporation Office,,
+1712,Astodiya Chakala,,
+1713,Astodiya Darwaja,,
+1714,Soma Textiles,,
+1715,LD Engg. College,,
+1716,M J Library,,
+1717,Law Garden,23.026394,72.561057
+1718,Narayana Hospital,23.022428,72.623409
+1719,Vasundhara Society,,
+1720,Ghodasar,22.991243,72.616423
+1721,R.T.O Circle,,
+1722,Ranip Cross Road,,
+1723,Bhavsar Hostel,23.067673,72.575685
+1724,Akhbarnagar,23.066483,72.559622
+1725,Pragatinagar,23.064659,72.556160
+1726,Shastrinagar,23.062260,72.553083
+1727,Jaimangal,,
+1728,Sola Cross Road,23.052723,72.546802
+1729,Shree Valinath Chowk,,
+1730,Memnagar,23.053084,72.532931
+1731,University,23.037307,72.544748
+1732,Andhjan Mandal,,
+1733,Himmatlal Park,23.029753,72.532414
+1734,Shivranjani,23.024304,72.531295
+1735,Jhansi Ki Rani,23.023029,72.536330
+1736,Nehrunagar,23.022343,72.542840
+1737,Manekbaug,23.017430,72.544266
+1738,Dharnidhar Derasar,23.008410,72.548661
+1739,Anjali,23.004447,72.553100
+1740,Chandranagar,22.999753,72.558099
+1741,Khodiyarnagar,,
+1742,Danilimda Char Rasta,,
+1743,Danilimda Road,22.998758,72.583418
+1744,Chhipa Society,,
+1745,Chandola Lake,22.986953,72.586964
+1746,BRTS Workshop,,
+1747,Kashiram Textiles,,
+1748,Narol,22.948393,72.597785
+1749,Mukesh Industries,,
+1750,Isanpur,22.981130,72.601295
+1751,Jashodanagar Char Rasta,,
+1752,Express Highway Junction,,
+1753,CTM Cross Road,,
+1754,Purvdeep Society,,
+1755,Jogeshwari Society,,
+1756,Rabari Colony,23.003119,72.633568
+1757,Ghodasar,22.991243,72.616423
+1758,R.T.O Circle,,
+1759,Ranip Cross Road,,
+1760,Bhavsar Hostel,23.067673,72.575685
+1761,Akhbarnagar,23.066483,72.559622
+1762,Pragatinagar,23.064659,72.556160
+1763,Shastrinagar,23.062260,72.553083
+1764,Jaimangal,,
+1765,Sola Cross Road,23.052723,72.546802
+1766,Shree Valinath Chowk,,
+1767,Memnagar,23.053084,72.532931
+1768,University,23.037307,72.544748
+1769,Andhjan Mandal,,
+1770,Himmatlal Park,23.029753,72.532414
+1771,Shivranjani,23.024304,72.531295
+1772,Jhansi Ki Rani,23.023029,72.536330
+1773,Nehrunagar,23.022343,72.542840
+1774,Manekbaug,23.017430,72.544266
+1775,Dharnidhar Derasar,23.008410,72.548661
+1776,Anjali,23.004447,72.553100
+1777,Chandranagar,22.999753,72.558099
+1778,Khodiyarnagar,,
+1779,Danilimda Char Rasta,,
+1780,Danilimda Road,22.998758,72.583418
+1781,Chhipa Society,,
+1782,Chandola Lake,22.986953,72.586964
+1783,BRTS Workshop,,
+1784,Kashiram Textiles,,
+1785,Narol,22.948393,72.597785
+1786,Mukesh Industries,,
+1787,Isanpur,22.981130,72.601295
+1788,Jashodanagar Char Rasta,,
+1789,Express Highway Junction,,
+1790,CTM Cross Road,,
+1791,Purvdeep Society,,
+1792,Jogeshwari Society,,
+1793,Rabari Colony,23.003119,72.633568
+1794,Ram Rajya Nagar,,
+1795,Rameshwar Park,,
+1796,Anjali,23.004447,72.553100
+1797,Chandranagar,22.999753,72.558099
+1798,Khodiyarnagar,,
+1799,Danilimda Char Rasta,,
+1800,Vaikunth Dham Mandir,,
+1801,Swaminarayan College,23.045318,72.533760
+1802,Grid Station,,
+1803,Odhav Fire Station,,
+1804,Vallabh Nagar,23.059484,72.536028
+1805,Chhotalal ni Chali,,
+1806,Morlidhar Society,,
+1807,Odhav Talav,23.025580,72.665351
+1808,SP Ring Road Approach,,
+1809,Ajit Mill Char Rasta,,
+1810,Astodiya Darwaja,,
+1811,Raipur Darwaja,,
+1812,Karnamukteshwar Mahadev,,
+1813,Sarangpur Darwaja,,
+1814,Soma Textiles,,
+1815,Geeta Mandir,,
+1816,Bhulabhai Park,,
+1817,Mangal Park,,
+1818,Patel Mills,,
+1819,Rakhiyal Char Rasta,,
+1820,Narayana Hospital,23.022428,72.623409
+1821,Soni ni Chali B,,
+1822,Sanand Circle,,
+1823,Pravinnagar,,
+1824,Maktampura Ward Office,,
+1825,Juhapura Road,,
+1826,Khurshid Park,,
+1827,Ambar Tower,,
+1828,Sarkhej Circle,,
+1829,Vasna,23.002006,72.547241
+1830,Anjali,23.004447,72.553100
+1831,Chandranagar,22.999753,72.558099
+1832,Khodiyarnagar,,
+1833,Danilimda Char Rasta,,
+1834,Vaikunth Dham Mandir,,
+1835,Swaminarayan College,23.045318,72.533760
+1836,Astodiya Darwaja,,
+1837,Raipur Darwaja,,
+1838,Karnamukteshwar Mahadev,,
+1839,Sarangpur Darwaja,,
+1840,Geeta Mandir,,
+1841,Bhulabhai Park,,
+1842,Mangal Park,,
+1843,Sanand Circle,,
+1844,Pravinnagar,,
+1845,Maktampura Ward Office,,
+1846,Juhapura Road,,
+1847,Khurshid Park,,
+1848,Ambar Tower,,
+1849,Sarkhej Circle,,
+1850,Vasna,23.002006,72.547241
+1851,Jaimangal,,
+1852,Sola Cross Road,23.052723,72.546802
+1853,Shree Valinath Chowk,,
+1854,Memnagar,23.053084,72.532931
+1855,University,23.037307,72.544748
+1856,Andhjan Mandal,,
+1857,Himmatlal Park,23.029753,72.532414
+1858,Jodhpur Char Rasta,,
+1859,Star Bazaar,23.016848,72.515504
+1860,ISRO,23.027390,72.517572
+1861,Ramdevnagar,23.021644,72.512197
+1862,ISKCON Cross Road,23.027153,72.508525
+1863,Karnavati Club,23.019756,72.503412
+1864,Prahalad Nagar Cross Road,23.013966,72.528864
+1865,Makarba Road,23.000426,72.499781
+1866,Sanand Circle,,
+1867,Jaimangal,,
+1868,Sola Cross Road,23.052723,72.546802
+1869,Shree Valinath Chowk,,
+1870,Memnagar,23.053084,72.532931
+1871,University,23.037307,72.544748
+1872,Andhjan Mandal,,
+1873,Himmatlal Park,23.029753,72.532414
+1874,Jodhpur Char Rasta,,
+1875,Star Bazaar,23.016848,72.515504
+1876,ISRO,23.027390,72.517572
+1877,Ramdevnagar,23.021644,72.512197
+1878,ISKCON Cross Road,23.027153,72.508525
+1879,Karnavati Club,23.019756,72.503412
+1880,Prahalad Nagar Cross Road,23.013966,72.528864
+1881,Makarba Road,23.000426,72.499781
+1882,Sanand Circle,,
+1883,Anjali,23.005798,72.555793
+1884,Chandranagar,22.999753,72.558099
+1885,Khodiyarnagar,,
+1886,Danilimda Char Rasta,,
+1887,Vaikunth Dham Mandir,,
+1888,Swaminarayan College,23.045318,72.533760
+1889,Grid Station,,
+1890,Odhav Fire Station,,
+1891,Vallabh Nagar,23.059484,72.536028
+1892,Chhotalal ni Chali,,
+1893,Morlidhar Society,,
+1894,Odhav Talav,23.025580,72.665351
+1895,SP Ring Road Approach,,
+1896,Ajit Mill Char Rasta,,
+1897,Raipur Darwaja,,
+1898,Karnamukteshwar Mahadev,,
+1899,Sarangpur Darwaja,,
+1900,Soma Textiles,,
+1901,Geeta Mandir,,
+1902,Bhulabhai Park,,
+1903,Mangal Park,,
+1904,Vasna,23.002006,72.547241
+1905,Patel Mills,,
+1906,Rakhiyal Char Rasta,,
+1907,Narayana Hospital,23.022428,72.623409
+1908,Soni ni Chali B,,
+1909,Sanand Circle,,
+1910,Pravinnagar,,
+1911,Maktampura Ward Office,,
+1912,Juhapura Road,,
+1913,Khurshid Park,,
+1914,Ambar Tower,,
+1915,Sarkhej Circle,,
+1916,Anjali,23.005798,72.555793
+1917,Chandranagar,22.999753,72.558099
+1918,Khodiyarnagar,,
+1919,Danilimda Char Rasta,,
+1920,Vaikunth Dham Mandir,,
+1921,Swaminarayan College,23.045318,72.533760
+1922,Raipur Darwaja,,
+1923,Karnamukteshwar Mahadev,,
+1924,Sarangpur Darwaja,,
+1925,Geeta Mandir,,
+1926,Bhulabhai Park,,
+1927,Mangal Park,,
+1928,Vasna,23.002006,72.547241
+1929,Sanand Circle,,
+1930,Pravinnagar,,
+1931,Maktampura Ward Office,,
+1932,Juhapura Road,,
+1933,Khurshid Park,,
+1934,Ambar Tower,,
+1935,Sarkhej Circle,,
+1936,R.T.O Circle,,
+1937,Ranip Cross Road,,
+1938,Bhavsar Hostel,23.067260,72.568980
+1939,Akhbarnagar,23.066483,72.559622
+1940,Pragatinagar,23.064659,72.556160
+1941,Shastrinagar,23.062307,72.553041
+1942,Jaimangal,,
+1943,Sola Cross Road,23.052723,72.546802
+1944,Shree Valinath Chowk,,
+1945,Memnagar,23.053084,72.532931
+1946,University,23.037307,72.544748
+1947,Andhjan Mandal,,
+1948,Himmatlal Park,23.029753,72.532414
+1949,Jodhpur Char Rasta,,
+1950,Star Bazaar,23.016848,72.515504
+1951,ISRO,23.027390,72.517572
+1952,Ramdevnagar,23.021644,72.512197
+1953,ISKCON Cross Road,23.027153,72.508525
+1954,Ranip Cross Road,,
+1955,Bhavsar Hostel,23.067260,72.568980
+1956,Akhbarnagar,23.066483,72.559622
+1957,Pragatinagar,23.064659,72.556160
+1958,Shastrinagar,23.062307,72.553041
+1959,Jaimangal,,
+1960,Sola Cross Road,23.052723,72.546802
+1961,Shree Valinath Chowk,,
+1962,Memnagar,23.053084,72.532931
+1963,University,23.037307,72.544748
+1964,Andhjan Mandal,,
+1965,Himmatlal Park,23.029753,72.532414
+1966,Jodhpur Char Rasta,,
+1967,Star Bazaar,23.016848,72.515504
+1968,ISRO,23.027390,72.517572
+1969,Ramdevnagar,23.021644,72.512197
+1970,ISKCON Cross Road,23.027153,72.508525
+1971,R.T.O Extension,,
+1972,Ahmedabad Domestic Airport,23.071876,72.619763
+1973,Hanuman Camp,,
+1974,Naranghat,,
+1975,Gayatri Mandir,23.061662,72.591461
+1976,Jaimangal,,
+1977,Sola Cross Road,23.052723,72.546802
+1978,Shree Valinath Chowk,,
+1979,Memnagar,23.053084,72.532931
+1980,University,23.037307,72.544748
+1981,Andhjan Mandal,,
+1982,Himmatlal Park,23.029753,72.532414
+1983,Jodhpur Char Rasta,,
+1984,Star Bazaar,23.016848,72.515504
+1985,ISRO,23.027390,72.517572
+1986,Ramdevnagar,23.021644,72.512197
+1987,ISKCON Cross Road,23.027153,72.508525
+1988,Ranip Cross Road,,
+1989,Bhavsar Hostel,23.067260,72.568980
+1990,Akhbarnagar,23.066483,72.559622
+1991,Pragatinagar,23.064659,72.556160
+1992,R.T.O Extension,,
+1993,Ahmedabad Domestic Airport,23.071876,72.619763
+1994,Hanuman Camp,,
+1995,Naranghat,,
+1996,Gayatri Mandir,23.061662,72.591461
+1997,R.T.O Circle,,
+1998,Ranip Cross Road,,
+1999,Bhavsar Hostel,23.067260,72.568980
+2000,Akhbarnagar,23.066483,72.559622
+2001,Pragatinagar,23.064659,72.556160
+2002,R.T.O Circle,,
+2003,Ranip Cross Road,,
+2004,Bhavsar Hostel,23.067260,72.568980
+2005,Akhbarnagar,23.066483,72.559622
+2006,Pragatinagar,23.064659,72.556160
+2007,Shastrinagar,23.062307,72.553041
+2008,Ahmedabad Domestic Airport,23.071876,72.619763
+2009,Hanuman Camp,,
+2010,Airport Circle,23.081431,72.616184
+2011,Naranghat,,
+2012,Gayatri Mandir,23.061662,72.591461
+2013,Jaimangal,,
+2014,Sola Cross Road,23.052723,72.546802
+2015,Shree Valinath Chowk,,
+2016,Memnagar,23.053084,72.532931
+2017,University,23.037307,72.544748
+2018,Andhjan Mandal,,
+2019,Himmatlal Park,23.029753,72.532414
+2020,Jodhpur Char Rasta,,
+2021,Star Bazaar,23.016848,72.515504
+2022,ISRO,23.027390,72.517572
+2023,Ramdevnagar,23.021644,72.512197
+2024,ISKCON Cross Road,23.027153,72.508525
+2025,R.T.O Circle,,
+2026,Ranip Cross Road,,
+2027,Bhavsar Hostel,23.067260,72.568980
+2028,Akhbarnagar,23.066483,72.559622
+2029,Pragatinagar,23.064659,72.556160
+2030,Shastrinagar,23.062307,72.553041
+2031,R.T.O Circle,,
+2032,Ranip Cross Road,,
+2033,Bhavsar Hostel,23.067260,72.568980
+2034,Akhbarnagar,23.066483,72.559622
+2035,Pragatinagar,23.064659,72.556160
+2036,Shastrinagar,23.062307,72.553041
+2037,Jaimangal,,
+2038,Shree Valinath Chowk,,
+2039,University,23.037307,72.544748
+2040,Andhjan Mandal,,
+2041,Himmatlal Park,23.029753,72.532414
+2042,Jodhpur Char Rasta,,
+2043,Star Bazaar,23.016848,72.515504
+2044,ISRO,23.027390,72.517572
+2045,Ramdevnagar,23.021644,72.512197
+2046,ISKCON Cross Road,23.027153,72.508525
+2047,R.T.O Circle,,
+2048,Ranip Cross Road,,
+2049,Bhavsar Hostel,23.067260,72.568980
+2050,Akhbarnagar,23.066483,72.559622
+2051,Pragatinagar,23.064659,72.556160
+2052,Shastrinagar,23.062307,72.553041
+2053,Jaimangal,,
+2054,Sola Cross Road,23.052723,72.546802
+2055,Shree Valinath Chowk,,
+2056,Memnagar,23.053084,72.532931
+2057,University,23.037307,72.544748
+2058,Andhjan Mandal,,
+2059,Himmatlal Park,23.029753,72.532414
+2060,Jodhpur Char Rasta,,
+2061,Star Bazaar,23.016848,72.515504
+2062,ISRO,23.027390,72.517572
+2063,Ramdevnagar,23.021644,72.512197
+2064,ISKCON Cross Road,23.027153,72.508525
+2065,Ahmedabad Domestic Airport,23.071876,72.619763
+2066,Hanuman Camp,,
+2067,Airport Circle,23.081431,72.616184
+2068,Naranghat,,
+2069,Gayatri Mandir,23.061662,72.591461
+2070,Shivranjani,23.024304,72.531295
+2071,Jhansi Ki Rani,23.023029,72.536330
+2072,Nehrunagar,23.022343,72.542840
+2073,Jodhpur Char Rasta,,
+2074,Star Bazaar,23.016848,72.515504
+2075,ISRO,23.027390,72.517572
+2076,Ramdevnagar,23.021644,72.512197
+2077,ISKCON Cross Road,23.027153,72.508525
+2078,Karnavati Club,23.019756,72.503412
+2079,Prahalad Nagar Cross Road,23.013966,72.528864
+2080,Makarba Road,23.000426,72.499781
+2081,Sanand Circle,,
+2082,Jaimangal,,
+2083,Sola Cross Road,23.052723,72.546802
+2084,Shree Valinath Chowk,,
+2085,Memnagar,23.053084,72.532931
+2086,University,23.037307,72.544748
+2087,Andhjan Mandal,,
+2088,Himmatlal Park,23.029753,72.532414
+2089,Shivranjani,23.024304,72.531295
+2090,Jhansi Ki Rani,23.023029,72.536330
+2091,Nehrunagar,23.022343,72.542840
+2092,Jaimangal,,
+2093,Sola Cross Road,23.052723,72.546802
+2094,Shree Valinath Chowk,,
+2095,Memnagar,23.053084,72.532931
+2096,University,23.037307,72.544748
+2097,Andhjan Mandal,,
+2098,Himmatlal Park,23.029753,72.532414
+2099,Jodhpur Char Rasta,,
+2100,Star Bazaar,23.016848,72.515504
+2101,ISRO,23.027390,72.517572
+2102,Ramdevnagar,23.021644,72.512197
+2103,ISKCON Cross Road,23.027153,72.508525
+2104,Karnavati Club,23.019756,72.503412
+2105,Prahalad Nagar Cross Road,23.013966,72.528864
+2106,Makarba Road,23.000426,72.499781
+2107,Sanand Circle,,
+2108,Jaimangal,,
+2109,Sola Cross Road,23.052723,72.546802
+2110,Shree Valinath Chowk,,
+2111,Memnagar,23.053084,72.532931
+2112,University,23.037307,72.544748
+2113,Andhjan Mandal,,
+2114,Himmatlal Park,23.029753,72.532414
+2115,Shivranjani,23.024304,72.531295
+2116,Jhansi Ki Rani,23.023029,72.536330
+2117,Nehrunagar,23.022343,72.542840
+2118,Shivranjani,23.024304,72.531295
+2119,Jhansi Ki Rani,23.023029,72.536330
+2120,Nehrunagar,23.022343,72.542840
+2121,Jodhpur Char Rasta,,
+2122,Star Bazaar,23.016848,72.515504
+2123,ISRO,23.027390,72.517572
+2124,Ramdevnagar,23.021644,72.512197
+2125,ISKCON Cross Road,23.027153,72.508525
+2126,Karnavati Club,23.019756,72.503412
+2127,Prahalad Nagar Cross Road,23.013966,72.528864
+2128,Makarba Road,23.000426,72.499781
+2129,Sanand Circle,,
+2130,Shivranjani,23.024304,72.531295
+2131,Jhansi Ki Rani,23.023029,72.536330
+2132,Nehrunagar,23.022343,72.542840
+2133,Jodhpur Char Rasta,,
+2134,Star Bazaar,23.016848,72.515504
+2135,ISRO,23.027390,72.517572
+2136,Ramdevnagar,23.021644,72.512197
+2137,ISKCON Cross Road,23.027153,72.508525
+2138,ISKCON Mandir,23.027486,72.504945
+2139,Antariksh Colony,23.027763,72.500916
+2140,Jayantilal Park,,
+2141,Swagat Bungalow,,
+2142,Ambli Gam,23.026455,72.482187
+2143,Bopal Approach,,
+2144,Bhavya Park,,
+2145,Samarpan Bungalows,,
+2146,Sterling City,23.032322,72.469152
+2147,Bopal Gam,23.034011,72.464107
+2148,Ashok Vatika,23.027937,72.495703
+2149,SOBO Center,23.017234,72.475079
+2150,Sukhasan Char Rasta,,
+2151,South Bopal BRTS Terminus,,
+2152,Chittavan,,
+2153,Basant Bahar,,
+2154,Jaimangal,,
+2155,Sola Cross Road,23.052723,72.546802
+2156,Shree Valinath Chowk,,
+2157,Memnagar,23.053084,72.532931
+2158,University,23.037307,72.544748
+2159,Andhjan Mandal,,
+2160,Himmatlal Park,23.029753,72.532414
+2161,Shivranjani,23.024304,72.531295
+2162,Jhansi Ki Rani,23.023029,72.536330
+2163,Nehrunagar,23.022343,72.542840
+2164,Jaimangal,,
+2165,Sola Cross Road,23.052723,72.546802
+2166,Shree Valinath Chowk,,
+2167,Memnagar,23.053084,72.532931
+2168,University,23.037307,72.544748
+2169,Andhjan Mandal,,
+2170,Himmatlal Park,23.029753,72.532414
+2171,Jodhpur Char Rasta,,
+2172,Star Bazaar,23.016848,72.515504
+2173,ISRO,23.027390,72.517572
+2174,Ramdevnagar,23.021644,72.512197
+2175,ISKCON Cross Road,23.027153,72.508525
+2176,ISKCON Mandir,23.027486,72.504945
+2177,Antariksh Colony,23.027763,72.500916
+2178,Jayantilal Park,,
+2179,Swagat Bungalow,,
+2180,Ambli Gam,23.026455,72.482187
+2181,Bopal Approach,,
+2182,Bhavya Park,,
+2183,Samarpan Bungalows,,
+2184,Sterling City,23.032322,72.469152
+2185,Bopal Gam,23.034011,72.464107
+2186,Ashok Vatika,23.027937,72.495703
+2187,SOBO Center,23.017234,72.475079
+2188,Sukhasan Char Rasta,,
+2189,South Bopal BRTS Terminus,,
+2190,Chittavan,,
+2191,Basant Bahar,,
+2192,Jaimangal,,
+2193,Sola Cross Road,23.052723,72.546802
+2194,Shree Valinath Chowk,,
+2195,Memnagar,23.053084,72.532931
+2196,University,23.037307,72.544748
+2197,Andhjan Mandal,,
+2198,Himmatlal Park,23.029753,72.532414
+2199,Shivranjani,23.024304,72.531295
+2200,Jhansi Ki Rani,23.023029,72.536330
+2201,Nehrunagar,23.022343,72.542840
+2202,Jaimangal,,
+2203,Sola Cross Road,23.052723,72.546802
+2204,Shree Valinath Chowk,,
+2205,Memnagar,23.053084,72.532931
+2206,University,23.037307,72.544748
+2207,Andhjan Mandal,,
+2208,Himmatlal Park,23.029753,72.532414
+2209,Jodhpur Char Rasta,,
+2210,Star Bazaar,23.016848,72.515504
+2211,ISRO,23.027390,72.517572
+2212,Ramdevnagar,23.021644,72.512197
+2213,ISKCON Cross Road,23.027153,72.508525
+2214,ISKCON Mandir,23.027486,72.504945
+2215,Antariksh Colony,23.027763,72.500916
+2216,Jayantilal Park,,
+2217,Swagat Bungalow,,
+2218,Ambli Gam,23.026455,72.482187
+2219,Bopal Approach,,
+2220,Bhavya Park,,
+2221,Samarpan Bungalows,,
+2222,Sterling City,23.032322,72.469152
+2223,Bopal Gam,23.034011,72.464107
+2224,Ashok Vatika,23.027937,72.495703
+2225,SOBO Center,23.017234,72.475079
+2226,Sukhasan Char Rasta,,
+2227,South Bopal BRTS Terminus,,
+2228,Chittavan,,
+2229,Basant Bahar,,
