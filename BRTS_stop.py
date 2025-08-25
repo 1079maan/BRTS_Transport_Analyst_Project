@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 
 # Load routes from CSV
-routes_df = pd.read_csv("Book1.csv")
+routes_df = pd.read_csv("brts_routes_cleaning.csv")
 routes = routes_df['route_name'].dropna().tolist()
 
 # Setup Selenium
@@ -63,7 +63,7 @@ for route in routes:
 
 # Save to CSV
 stops_df = pd.DataFrame(all_stops, columns=["route_name", "stop_sequence", "stop_name"])
-stops_df.to_csv("BRTS_first_stops.csv", index=False)
+stops_df.to_csv("BRTS_stops.csv", index=False)
 
 driver.quit()
 print("Scraping completed. File saved: BRTS_stops.csv")
