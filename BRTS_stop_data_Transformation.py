@@ -30,4 +30,3 @@ df['longitude'] = longitudes
 
 df.to_csv("BRTS_stop_data_Transformation.csv", index=False, encoding="utf-8")
 print("file saved : BRTS_stop_data_Transformation.csv")
-
