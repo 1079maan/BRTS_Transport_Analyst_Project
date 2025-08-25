@@ -2,7 +2,7 @@ import pandas as pd
 
 # ----- 1) Load files -----
 final_stops = pd.read_csv("Final_brts_stops.csv")   # stop_id, stop_name
-brts_stops  = pd.read_csv("BRTS_stops.csv")        # route_name, stop_name, stop_sequence
+brts_stops  = pd.read_csv("BRTS_stops.csv")       # route_name, stop_name, stop_sequence
 
 # Make sure stop_sequence is numeric
 brts_stops["stop_sequence"] = pd.to_numeric(brts_stops["stop_sequence"], errors="coerce")
