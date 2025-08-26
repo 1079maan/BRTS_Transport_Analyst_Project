@@ -169,7 +169,7 @@ CSV HEADER;
 
 
 
-
+-- DATA CLEANING --
 -- Fix the NUll Values from stop table.
 WITH filled AS (
     SELECT
@@ -195,3 +195,5 @@ WHERE t.stop_id = f.stop_id
 
 SELECT * FROM stops
 order By stop_id
+
+
