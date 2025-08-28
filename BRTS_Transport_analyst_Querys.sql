@@ -27,12 +27,15 @@ SELECT COUNT(DISTINCT stop_id) AS total_unique_stops
 FROM route_stops;
 
 -- 5. Find the average passenger rating per route, but show only those routes where avg_rating < 3.5.
-SELECT TD.route_id, 
-	AVG(PF.rating) OVER(PARTITION BY TD.route_id ORDER BY TD.route_id) as avg_rating
-FROM passenger_feedback as PF
-JOIN trip_data AS TD
-ON PF.trip_id = TD.trip_id
-where avg_rating < 3
+with AVG_rat as (
+	SELECT TD.route_id, 
+		AVG(PF.rating) as avg_rating
+	FROM passenger_feedback as PF
+	JOIN trip_data AS TD
+	ON PF.trip_id = TD.trip_id
+	GROUP BY TD.route_id
+	ORDER BY TD.route_id
+)
+SELECT * FROM AVG_rat
+WHERE avg_rating > 3
 
-
-SELECT * from trip_data
