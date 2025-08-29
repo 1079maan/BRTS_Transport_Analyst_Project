@@ -5,7 +5,6 @@ Update passenger_feedback
 SET passenger_name = 'Jay Patel', rating = 4
 where "trip_id" = 25
 
-
 select * from passenger_feedback
 order by trip_id
 
@@ -39,3 +38,63 @@ with AVG_rat as (
 SELECT * FROM AVG_rat
 WHERE avg_rating > 3
 
+
+-- Intermediate → Advanced Tasks
+
+-- 1. List all trips with their route_name, vehicle_type, and driver_name (JOIN route + vehicles + trip_data).
+select td.trip_id,
+    r.route_name,
+    v.vehicle_type,
+    v.driver_name,
+    td.scheduled_departure,
+    td.scheduled_arrival,
+    td.actual_departure,
+    td.actual_arrival,
+    td.delay_sec,
+    td.weather_condition
+from route as r
+JOIN vehicles as v
+	ON R.route_id = V.route_id
+JOIN trip_data as td
+	ON R.route_id = td.route_id
+
+-- 2. Find trips where delay_sec is greater than the average delay of all trips (subquery).
+SELECT * FROM trip_data
+where delay_sec > (SELECT AVG(delay_sec) FROM trip_data)
+ORDER BY delay_sec DESC
+
+-- 3. Rank all vehicles by their average delay using a Window Function (RANK).
+SELECT v.vehicle_id, v.vehicle_type, v.driver_name, r.route_name,
+	AVG(td.delay_sec) as avg_delay_sec,
+	RANK() OVER(order By AVG(td.delay_sec)DESC) as delay_rank
+from route as r
+JOIN vehicles as v
+	ON R.route_id = V.route_id
+JOIN trip_data as td
+	ON R.route_id = td.route_id
+GROUP BY v.vehicle_id, v.vehicle_type, v.driver_name, r.route_name
+ORDER BY delay_rank
+
+-- 4. Categorize each trip into Morning, Afternoon, Evening, or Night based on scheduled_departure using a CASE expression.
+SELECT *,
+    CASE
+        WHEN scheduled_departure BETWEEN '06:00:00' AND '11:59:00' THEN 'Morning'
+        WHEN scheduled_departure BETWEEN '12:00:00' AND '17:59:00' THEN 'Afternoon'
+        WHEN scheduled_departure BETWEEN '18:00:00' AND '21:59:00' THEN 'Evening'
+        WHEN scheduled_departure BETWEEN '22:00:00' AND '23:59:00' THEN 'Night'
+        ELSE 'Late Night'
+    END AS time_slot
+FROM trip_data;
+
+-- 5. Create a CTE that calculates the average delay per route, and then select only the top 3 routes with the highest delay.
+with avg_delsy AS (
+	SELECT r.route_id, r.route_name, AVG(td.delay_sec) as avg_delay_sec
+	FROM trip_data as td
+	JOIN route as r
+	ON td.route_id = r.route_id
+	GROUP BY r.route_name, r.route_id
+	
+)
+SELECT * FROM avg_delsy
+ORDER BY avg_delay_sec DESC
+LIMIT 3
