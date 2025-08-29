@@ -8,6 +8,7 @@ where "trip_id" = 25
 select * from passenger_feedback
 order by trip_id
 
+
 -- 2. Update the driver_name for vehicle_id = 5 to "Rishi Ladani".
 Update vehicles
 set driver_name = 'Rishi Ladani'
@@ -15,6 +16,7 @@ where vehicle_id = 5
 
 select * from vehicles
 order by vehicle_id
+
 
 -- 3. Show all trips delayed more than 5 minutes (delay_sec > 300), ordered by delay descending.
 select * from trip_data
@@ -24,6 +26,7 @@ order by delay_sec DESC
 -- 4. Count the total number of unique stops across all routes.
 SELECT COUNT(DISTINCT stop_id) AS total_unique_stops
 FROM route_stops;
+
 
 -- 5. Find the average passenger rating per route, but show only those routes where avg_rating < 3.5.
 with AVG_rat as (
@@ -98,3 +101,69 @@ with avg_delsy AS (
 SELECT * FROM avg_delsy
 ORDER BY avg_delay_sec DESC
 LIMIT 3
+
+
+-- 6. Find trips that are faster than scheduled (actual_arrival < scheduled_arrival).
+SELECT * FROM trip_data
+where actual_arrival < scheduled_arrival
+ORDER BY scheduled_arrival
+
+
+-- 7. Using a Window Function, calculate the running total of trips for each route, ordered by scheduled_departure.
+SELECT trip_id,route_id,scheduled_departure,
+	COUNT(*) OVER(PARTITION BY route_id ORDER BY scheduled_departure ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) as running_total_trips
+FROM trip_data
+ORDER BY route_id, scheduled_departure
+
+
+-- 8. Use a CASE expression to classify delay severity:
+-- 		0–200 sec → "On Time"
+-- 		201–500 sec → "Slight Delay"
+--  	501 sec → "Heavy Delay"
+SELECT trip_id, delay_sec,
+	CASE 
+		WHEN delay_sec BETWEEN 0 and 200 THEN 'On Time'
+		WHEN delay_sec BETWEEN 201 and 500 THEN 'Slight Delay'
+		ELSE 'Heavy Delay'
+	END AS delay_severity
+FROM trip_data
+
+
+-- 9. Find the total number of trips for each route using a Window Function (without using GROUP BY).
+SELECT DISTINCT 
+    td.route_id,
+    COUNT(td.route_id) OVER (PARTITION BY td.route_id) AS total_trips_per_route
+FROM trip_data td
+ORDER BY td.route_id;
+
+-- Advanced SQL Query Questions (BRTS Project)
+
+-- 1. Find the top 3 vehicles with the highest total delay time across all trips.
+
+-- 2. For each route, calculate the average trip delay and classify it as Low Delay (<300 sec), Medium Delay (300–600 sec), or High Delay (>600 sec).
+
+-- 3. Identify the route with the maximum number of unique stops using route_stops and stops tables.
+
+-- 4. Find the driver(s) whose vehicles have the least average delay across trips.
+
+-- 5. For each time slot (Morning, Afternoon, Evening, Night), find the most delayed route.
+
+-- 6. List the first and last stop of every route (start → end) using window functions.
+
+-- 7. Identify the routes where more than 40% of trips are delayed (delay_sec > 0).
+
+-- 8. Using a recursive CTE, show the complete path (stop sequence) of route_id = 5.
+
+-- 9. Find the top 5 passengers who gave the lowest average ratings (from passenger_feedback).
+
+-- 10. Show the routes where the average passenger rating is below 3 and the average delay is above 600 sec.
+
+-- 11. For each route, calculate the cumulative (running) total delay across trips ordered by scheduled_departure.
+
+-- 12. Find the vehicle with the highest delay variation (difference between max delay and min delay).
+
+-- 13. For each route, show the stop that is geographically the farthest from the start stop (using latitude/longitude).
+
+-- 14. Identify the trips that arrived earlier than scheduled (actual_arrival < scheduled_arrival).
+
+-- 15. Create a report showing route_name, number of trips, average delay, average rating, and total passengers.
