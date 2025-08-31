@@ -1,5 +1,3 @@
--- Beginner → Intermediate Tasks
-
 -- 1. Insert a new passenger feedback for trip_id = 25 with name "Jay Patel" and rating 4.
 Update passenger_feedback
 SET passenger_name = 'Jay Patel', rating = 4
@@ -23,6 +21,7 @@ select * from trip_data
 where delay_sec > 300
 order by delay_sec DESC
 
+
 -- 4. Count the total number of unique stops across all routes.
 SELECT COUNT(DISTINCT stop_id) AS total_unique_stops
 FROM route_stops;
@@ -42,9 +41,7 @@ SELECT * FROM AVG_rat
 WHERE avg_rating > 3
 
 
--- Intermediate → Advanced Tasks
-
--- 1. List all trips with their route_name, vehicle_type, and driver_name (JOIN route + vehicles + trip_data).
+-- 6. List all trips with their route_name, vehicle_type, and driver_name (JOIN route + vehicles + trip_data).
 select td.trip_id,
     r.route_name,
     v.vehicle_type,
@@ -61,12 +58,14 @@ JOIN vehicles as v
 JOIN trip_data as td
 	ON R.route_id = td.route_id
 
--- 2. Find trips where delay_sec is greater than the average delay of all trips (subquery).
+
+-- 7. Find trips where delay_sec is greater than the average delay of all trips (subquery).
 SELECT * FROM trip_data
 where delay_sec > (SELECT AVG(delay_sec) FROM trip_data)
 ORDER BY delay_sec DESC
 
--- 3. Rank all vehicles by their average delay using a Window Function (RANK).
+
+-- 8. Rank all vehicles by their average delay using a Window Function (RANK).
 SELECT v.vehicle_id, v.vehicle_type, v.driver_name, r.route_name,
 	AVG(td.delay_sec) as avg_delay_sec,
 	RANK() OVER(order By AVG(td.delay_sec)DESC) as delay_rank
@@ -78,7 +77,8 @@ JOIN trip_data as td
 GROUP BY v.vehicle_id, v.vehicle_type, v.driver_name, r.route_name
 ORDER BY delay_rank
 
--- 4. Categorize each trip into Morning, Afternoon, Evening, or Night based on scheduled_departure using a CASE expression.
+
+-- 9. Categorize each trip into Morning, Afternoon, Evening, or Night based on scheduled_departure using a CASE expression.
 SELECT *,
     CASE
         WHEN scheduled_departure BETWEEN '06:00:00' AND '11:59:00' THEN 'Morning'
@@ -89,7 +89,8 @@ SELECT *,
     END AS time_slot
 FROM trip_data;
 
--- 5. Create a CTE that calculates the average delay per route, and then select only the top 3 routes with the highest delay.
+
+-- 10. Create a CTE that calculates the average delay per route, and then select only the top 3 routes with the highest delay.
 with avg_delsy AS (
 	SELECT r.route_id, r.route_name, AVG(td.delay_sec) as avg_delay_sec
 	FROM trip_data as td
@@ -103,20 +104,20 @@ ORDER BY avg_delay_sec DESC
 LIMIT 3
 
 
--- 6. Find trips that are faster than scheduled (actual_arrival < scheduled_arrival).
+-- 11. Find trips that are faster than scheduled (actual_arrival < scheduled_arrival).
 SELECT * FROM trip_data
 where actual_arrival < scheduled_arrival
 ORDER BY scheduled_arrival
 
 
--- 7. Using a Window Function, calculate the running total of trips for each route, ordered by scheduled_departure.
+-- 12. Using a Window Function, calculate the running total of trips for each route, ordered by scheduled_departure.
 SELECT trip_id,route_id,scheduled_departure,
 	COUNT(*) OVER(PARTITION BY route_id ORDER BY scheduled_departure ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) as running_total_trips
 FROM trip_data
 ORDER BY route_id, scheduled_departure
 
 
--- 8. Use a CASE expression to classify delay severity:
+-- 13. Use a CASE expression to classify delay severity:
 -- 		0–200 sec → "On Time"
 -- 		201–500 sec → "Slight Delay"
 --  	501 sec → "Heavy Delay"
@@ -129,7 +130,7 @@ SELECT trip_id, delay_sec,
 FROM trip_data
 
 
--- 9. Find the total number of trips for each route using a Window Function (without using GROUP BY).
+-- 14. Find the total number of trips for each route using a Window Function (without using GROUP BY).
 SELECT DISTINCT 
     td.route_id,
     COUNT(td.route_id) OVER (PARTITION BY td.route_id) AS total_trips_per_route
@@ -137,7 +138,7 @@ FROM trip_data td
 ORDER BY td.route_id;
 
 
--- 10. Find the top 3 vehicles with the highest total delay time across all trips.
+-- 15. Find the top 3 vehicles with the highest total delay time across all trips.
 SELECT v.vehicle_id, td.route_id,
 	SUM(td.delay_sec) as delay_per_route
 FROM trip_data as td
@@ -148,7 +149,7 @@ ORDER BY delay_per_route DESC
 LIMIT 3 
 
 	
--- 11. For each route, calculate the average trip delay and classify it as Low Delay (<300 sec), Medium Delay (300–600 sec), or High Delay (>600 sec).
+-- 16. For each route, calculate the average trip delay and classify it as Low Delay (<300 sec), Medium Delay (300–600 sec), or High Delay (>600 sec).
 with avg_delay_classify as (
 	SELECT route_id,
 		AVG(delay_sec) as avg_delay
@@ -164,7 +165,8 @@ case
 END as delay_classify
 FROM avg_delay_classify
 
--- 12. Identify the route with the maximum number of unique stops using route_stops and stops tables.
+
+-- 17. Identify the route with the maximum number of unique stops using route_stops and stops tables.
 SELECT rs.route_id, r.route_name,
 	COUNT(rs.stop_id) as Unique_stops
 FROM route_stops as rs
@@ -174,7 +176,8 @@ GROUP BY rs.route_id,r.route_name
 ORDER BY Unique_stops DESC
 LIMIT 1
 
--- 13. Find the driver(s) whose vehicles have the least average delay across trips.
+
+-- 18. Find the driver(s) whose vehicles have the least average delay across trips.
 SELECT 
     v.driver_name,
     ROUND(AVG(td.delay_sec), 2) AS avg_delay_sec
@@ -193,7 +196,7 @@ HAVING ROUND(AVG(td.delay_sec), 2) = (
 ORDER BY v.driver_name;
 
 
--- 14. For each time slot (Morning, Afternoon, Evening, Night), find the most delayed route.
+-- 19. For each time slot (Morning, Afternoon, Evening, Night), find the most delayed route.
 SELECT trip_id, delay_sec,
     CASE
         WHEN scheduled_departure BETWEEN '06:00:00' AND '11:59:00' THEN 'Morning'
@@ -204,7 +207,8 @@ SELECT trip_id, delay_sec,
     END AS time_slot
 FROM trip_data;
 
--- 15. List the first and last stop of every route (start → end) using window functions.
+
+-- 20. List the first and last stop of every route (start → end) using window functions.
 SELECT route_id, route_name,
        MAX(CASE WHEN rn_asc = 1 THEN stop_name END) AS first_stop,
        MAX(CASE WHEN rn_desc = 1 THEN stop_name END) AS last_stop
@@ -219,7 +223,8 @@ FROM (
 GROUP BY route_id, route_name
 ORDER BY route_id;
 
--- 16. Identify the routes where more than 40% of trips are delayed (delay_sec > 0).
+
+-- 21. Identify the routes where more than 40% of trips are delayed (delay_sec > 0).
 SELECT 
 	td.route_id,
 	r.route_name,
@@ -234,7 +239,7 @@ ON td.route_id = r.route_id
 group by td.route_id, r.route_name
 
 
--- 17: Full stop sequence for route_id = 5 → table: “Q8_Full_Path_for_route_5”
+-- 22: Full stop sequence for route_id = 5 → table: “Q8_Full_Path_for_route_5”
 select rs.route_id, rs.route_name, s.stop_id, s.stop_name
 FROM route_stops as rs
 JOIN stops as s
@@ -242,7 +247,8 @@ ON rs.stop_id = s.stop_id
 where rs.route_id = 5
 order by stop_id
 
--- 18: Top 5 passengers with lowest avg ratings → table: “Q9_Top5_Passengers_Lowest_Avg_Ratings”
+
+-- 23: Top 5 passengers with lowest avg ratings → table: “Q9_Top5_Passengers_Lowest_Avg_Ratings”
 select passenger_name, 
 	ROUND (AVG(rating),2) as avg_rating
 from passenger_feedback
@@ -250,7 +256,8 @@ group by passenger_name
 ORDER by avg_rating ASC
 LIMIT 5
 
--- 19. Find the top 3 routes with the highest average delay per trip
+
+-- 24. Find the top 3 routes with the highest average delay per trip
 SELECT r.route_name, ROUND(AVG(td.delay_sec),2)
 from trip_data as td 
 join route as r 
@@ -259,7 +266,8 @@ group by r.route_name
 ORDER BY AVG(td.delay_sec) DESC
 LIMIT 3
 
--- 20. For each driver, calculate the percentage of trips where the delay exceeded 10 minutes (600 sec).
+
+-- 25. For each driver, calculate the percentage of trips where the delay exceeded 10 minutes (600 sec).
 SELECT v.driver_name,
 	ROUND(COUNT(CASE WHEN td.delay_sec > 600 THEN 1 END)::decimal / COUNT(*) * 100,2) AS percent_trips_delayed
 FROM vehicles as v
@@ -267,7 +275,8 @@ JOIN route as r ON v.route_id = r.route_id
 JOIN trip_data as td ON td.route_id = r.route_id
 GROUP BY v.driver_name
 
--- 21. Identify the stop that is part of the maximum number of different routes.
+
+-- 26. Identify the stop that is part of the maximum number of different routes.
 SELECT 
     s.stop_id,
     s.stop_name,
@@ -278,7 +287,8 @@ group by s.stop_id, s.stop_name
 ORDER BY route_count DESC
 LIMIT 1
 
--- 22. Find the passengers who always gave the same rating (never changed their rating).
+
+-- 27. Find the passengers who always gave the same rating (never changed their rating).
 SELECT passenger_name,
 	MIN(rating) as min_rating,
 	MAX(rating) as max_rating,
@@ -289,5 +299,12 @@ group by passenger_name
 HAVING MIN(rating) = MAX(rating)
 ORDER BY feedback_count DESC
 
--- 23. Find the top 5 trips with the worst delay-to-rating ratio (delay_sec divided by passenger rating).
 
+-- 28. Find the top 5 trips with the worst delay-to-rating ratio (delay_sec divided by passenger rating).
+SELECT td.trip_id, pf.passenger_name, pf.rating, td.delay_sec,
+	(td.delay_sec/pf.rating) as delay_to_rating_ratio
+FROM trip_data as td
+JOIN passenger_feedback as pf
+ON td.trip_id = pf.trip_id
+ORDER BY delay_to_rating_ratio DESC
+LIMIT 5
