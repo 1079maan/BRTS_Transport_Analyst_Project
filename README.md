@@ -1,10 +1,10 @@
-# 🚍 Ahmedabad BRTS Transport Analyst Project
+# Ahmedabad BRTS Transport Analyst Project
 
-## 📌 Project Overview
+##  Project Overview
 The Ahmedabad BRTS (Bus Rapid Transit System) generates large volumes of operational data such as routes, trips, vehicles, stops, delays, and passenger feedback.  
 This project transforms raw BRTS data into **actionable transport insights** using **PostgreSQL + SQL + Power BI**.
 
-✅ Goals:
+ Goals:
 - Analyze bus delays and punctuality.
 - Measure passenger satisfaction via feedback ratings.
 - Identify top/bottom performing routes and drivers.
@@ -12,7 +12,7 @@ This project transforms raw BRTS data into **actionable transport insights** usi
 
 ---
 
-## 🛑 Problem Statement
+##  Problem Statement
 Raw operational data from the BRTS system is not enough to make informed decisions.  
 We need a system to:
 - Track **bus delays** and punctuality.
@@ -22,7 +22,7 @@ We need a system to:
 
 ---
 
-## 🗂 Data Collection
+##  Data Collection
 - Data scraped from the **official Ahmedabad BRTS site** using **Python + Selenium**.
 - Stored in **CSV files**:
   - `brts_routes.csv` → Route details
@@ -36,7 +36,7 @@ We need a system to:
 
 ---
 
-## 🛢 Database Design (PostgreSQL)
+## Database Design (PostgreSQL)
 A **normalized schema** was designed:
 
 - **routes** (route_id, route_name, start_stop, end_stop)  
@@ -53,17 +53,17 @@ Highlights:
 
 ---
 
-## 📝 SQL Queries (28 Final Queries)
+## SQL Queries
 We wrote **28 queries** categorized into levels:
 
-### 🟢 Beginner
+### Beginner
 - Insert passenger feedback.  
 - Update driver name.  
 - Trips delayed >5 minutes.  
 - Count unique stops.  
 - Avg rating per route (<3.5).  
 
-### 🟡 Intermediate
+### Intermediate
 - Joins (routes + vehicles + trips).  
 - Subquery: delay > avg delay.  
 - Rank vehicles by delay.  
@@ -73,7 +73,7 @@ We wrote **28 queries** categorized into levels:
 - % delayed trips per route.  
 - Driver performance (% trips >10 mins delay).  
 
-### 🔴 Advanced
+### Advanced
 - Running totals of trips (Window).  
 - Trips faster than schedule.  
 - Recursive CTE: full stop sequence.  
@@ -84,34 +84,34 @@ We wrote **28 queries** categorized into levels:
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 A **multi-page dashboard** was created:
 
-### 1️⃣ Overview
+### 1 Overview
 - KPIs (Total Trips, Avg Delay, % Delayed, Avg Rating)  
 - City Map (routes + stops)  
 - Delay Trend (by time of day)  
 - Top 3 Delayed Routes  
 
-### 2️⃣ Route Performance
+### 2 Route Performance
 - Table (Route Name, Trips, Avg Delay, Avg Rating, Stops)  
 - Bar Chart (Routes ranked by delay)  
 - Heatmap (Delay by time slot)  
 - Highlight Card (Route with Max Stops)  
 
-### 3️⃣ Trip Analytics
+### 3 Trip Analytics
 - Delay Severity Distribution  
 - Running Total Trips (line chart)  
 - Top 5 Worst Delay-to-Rating Trips  
 - % Faster Trips KPI  
 
-### 4️⃣ Driver & Vehicle Performance
+### 4 Driver & Vehicle Performance
 - Driver Performance Table  
 - Vehicle Rankings (delay-based)  
 - Delay Distribution by Vehicle Type  
 - Best Performing Driver card  
 
-### 5️⃣ Passenger Feedback
+### 5 Passenger Feedback
 - Table (Passenger, Avg Rating, Feedback Count)  
 - Top 5 Worst Ratings  
 - Delay vs Rating Scatter Plot  
@@ -119,7 +119,7 @@ A **multi-page dashboard** was created:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - **Data Collection**: Python (Selenium, Pandas, Geopy)  
 - **Database**: PostgreSQL  
 - **Analysis**: SQL (CTEs, Window Functions, Subqueries)  
@@ -127,7 +127,7 @@ A **multi-page dashboard** was created:
 
 ---
 
-## 🎯 Project Outcomes
+## Project Outcomes
 - Built a **normalized database** for BRTS operations.  
 - Developed **28 SQL queries** (CRUD → advanced analytics).  
 - Designed a **modular Power BI dashboard** for transport decision-making.  
@@ -135,7 +135,7 @@ A **multi-page dashboard** was created:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository:  
    ```bash
    git clone https://github.com/1079maan/BRTS_Transport_Analyst_Project.git
